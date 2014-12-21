@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8' standalone='yes'?>
+<xmi:XMI xmi:version='2.1' xmlns:xmi='http://schema.omg.org/spec/XMI/2.1' xmlns:uml='http://schema.omg.org/spec/UML/2.1.1/uml.xml'>
+ <documentation exporter='Oracle JDeveloper' exporterVersion='11.1.1.2.0'/>
+ <uml:UseCase xmi:uuid='urn:uuid:5f0d83b6-2ec3-4a04-962e-083d4a68b0aa'
+   isAbstract='false'
+   isLeaf='false'
+   name='Monitorear comportamiento de RPM, temperatura y velocidad'
+   visibility='public'>
+  <extensionPoint xmi:uuid='urn:uuid:de11103c-58cd-4bd2-92a7-f757df17cc7f'
+    isLeaf='false'
+    name='DefaultExtensionPoint'/>
+  <include xmi:uuid='urn:uuid:e205d275-139e-4e75-b7f1-0071abe86039'>
+   <addition href='urn:uuid:ec291e6b-7c4b-4610-ad5b-c8ba21eb88b0'/>
+  </include>
+ </uml:UseCase>
+</xmi:XMI>

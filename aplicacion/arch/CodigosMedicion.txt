@@ -1,0 +1,161 @@
+41|00|PIDs soportados [01 - 20]| |0
+41|01|Estados del monitor| |0
+41|02|DTC que causó la falla | |0
+41|03|Estado del sistema de cobustible| |5
+41|04|valor de carga calculado en la inyección|%|1
+41|05|Temperatura|°C|2
+41|06|Combistible a corto plazo % Asiento—Banco 1|%|3
+41|07|Long term fuel % Asiento—Banco 1|%|3
+41|08|Short term fuel % Asiento—Banco 2|%|3
+41|09|Long term fuel % Asiento—Banco 2|%|3
+41|0A|presión de combustible|kPa (gauge)|4
+41|0B|Colector de admisión de presión absoluta |kPa (absolute)|5
+41|0C|Revoluciones por minuto del motor|RPM|6
+41|0D|velocidad del vehículo|Km/h|5
+41|0E|tiempo de avance|° relativo a #1 cilindro|7
+41|0F|Temperatura en el colector de aire|°C|2
+41|10|MAF flujo de aire|g/s|8
+41|11|posición del acelarador|%|1
+41|13|Sensores de oxigeno presentes| |0
+41|14|Banco 1, Sensor 1: Sensor de oxigeno|Volts %|9
+41|15|Banco 1, Sensor 2: Sensor de oxigeno|Volts %|9
+41|16|Banco 1, Sensor 3: Sensor de oxigeno|Volts %|9
+41|17|Banco 1, Sensor 4: Sensor de oxigeno|Volts %|9
+41|18|Banco 2, Sensor 1: Sensor de oxigeno|Volts %|9
+41|19|Banco 2, Sensor 2: Sensor de oxigeno|Volts %|9
+41|1A|Banco 2, Sensor 3: Sensor de oxigeno|Volts %|9
+41|1B|Banco 2, Sensor 4: Sensor de oxigeno|Volts %|9
+41|1F|Tiempo que toma en arrancar|segundos|10
+41|20|PIDs soportados 21-40| |0
+41|21|Distancia recorrida con la luz (MIL) encendida on|km|10
+41|22|presión de combustible en el Riel (relativo al mutiple de admisión|kPa|11
+41|23|Presión de combustible (diesel)|km|12
+41|24|O2S1_WR_lambda(1):Relación de equivalencia de tensión|V|13
+41|25|O2S2_WR_lambda(1):Relación de equivalencia de tensión|V|13
+41|26|O2S3_WR_lambda(1):Relación de equivalencia de tensión|V|13
+41|27|O2S4_WR_lambda(1):Relación de equivalencia de tensión|V|13
+41|28|O2S5_WR_lambda(1):Relación de equivalencia de tensión|V|13
+41|29|O2S6_WR_lambda(1):Relación de equivalencia de tensión|V|13
+41|2A|O2S7_WR_lambda(1)Relación de equivalencia de tensión|V|13
+41|2B|O2S8_WR_lambda(1):Relación de equivalencia de tensión|V|13
+41|2C|Comandado EGR|%|1
+41|2D|EGR Error|%|3
+41|2E|Al mando de purga por evaporación|%|1
+41|2F|nivel de entrada del combustible|%|1
+41|30|# Calentamiento aún con los códigos limpiados||N/A|5
+41|31|Distancia recorrida sin limpiar los códigos de error|km|10
+41|32|Evap. Presión en el sistema de vapor|Pa|14
+41|33|Presión Barométrica|kPa (Absoluta)|5
+41|34|O2S1_WR_lambda(1): Equivalencia RatioCurrent|mA|15
+41|35|O2S2_WR_lambda(1): Equivalencia RatioCurrent|mA|15
+41|36|O2S3_WR_lambda(1): Equivalencia RatioCurrent|mA|15
+41|37|O2S4_WR_lambda(1): Equivalencia RatioCurrent|mA|15
+41|38|O2S5_WR_lambda(1): Equivalencia RatioCurrent|mA|15
+41|39|O2S6_WR_lambda(1): Equivalencia RatioCurrent|mA|15
+41|3A|O2S7_WR_lambda(1): Equivalencia RatioCurrent|mA|15
+41|3B|O2S8_WR_lambda(1): Equivalencia RatioCurrent|mA|15
+41|3C|Temperatura en el catalítico Banco 1, Sensor 1|°C|16
+41|3D|Temperatura en el catalítico Banco 2, Sensor 1|°C|16
+41|3E|Temperatura en el catalítico Banco 1, Sensor 2|°C|16
+41|3F|Temperatura en el catalítico Banco 2, Sensor 2|°C|16
+41|40|PIDs soportados 41-60| |0
+41|42|voltaje en el módulo de control|V|17
+41|43|Valor de la carga Absoluta|%|18
+41|44|Command equivalence ratio|N/A|19
+41|45|Posición relativa del acelerador|%|1
+41|46|Temperatura del aire del ambiente|°C|2
+41|47|Posición absoluta acelerador B|%|1
+41|48|Posición absoluta acelerador C|%|1
+41|49|Posición del pedal del acelerador D|%|1
+41|4A|Posición del pedal del acelerador E|%|1
+41|4B|Posición del pedal del acelerador F|%|1
+41|4C|Comadado actuador del acelerador|%|1
+41|4D|Tiempo recorrido con la luz (MIL) encendida|minutos|1
+41|4E|Tiempo sin limpiar los códigos de error|minutos|10
+41|51|tipo de combustible| |19
+41|52|cobustible ethanol %|%|1
+41|53|presión absoluta de la presión del sistema de vapor|kpa|5
+
+42|00|PIDs soportados [01 - 20]| |0
+42|01|Estados del monitor| |0
+42|02|DTC que causó la falla | |0
+42|03|Estado del sistema de cobustible| |5
+42|04|valor de carga calculado en la inyección|%|1
+42|05|Temperatura|°C|2
+42|06|Combistible a corto plazo % Asiento—Banco 1|%|3
+42|07|Long term fuel % Asiento—Banco 1|%|3
+42|08|Short term fuel % Asiento—Banco 2|%|3
+42|09|Long term fuel % Asiento—Banco 2|%|3
+42|0A|presión de combustible|kPa (gauge)|4
+42|0B|Colector de admisión de presión absoluta |kPa (absolute)|5
+42|0C|Revoluciones por minuto del motor|RPM|6
+42|0D|velocidad del vehículo|Km/h|5
+42|0E|tiempo de avance|° relativo a #1 cilindro|7
+42|0F|Temperatura en el colector de aire|°C|2
+42|10|MAF flujo de aire|g/s|8
+42|11|posición del acelarador|%|1
+42|13|Sensores de oxigeno presentes| |0
+42|14|Banco 1, Sensor 1: Sensor de oxigeno|Volts %|9
+42|15|Banco 1, Sensor 2: Sensor de oxigeno|Volts %|9
+42|16|Banco 1, Sensor 3: Sensor de oxigeno|Volts %|9
+42|17|Banco 1, Sensor 4: Sensor de oxigeno|Volts %|9
+42|18|Banco 2, Sensor 1: Sensor de oxigeno|Volts %|9
+42|19|Banco 2, Sensor 2: Sensor de oxigeno|Volts %|9
+42|1A|Banco 2, Sensor 3: Sensor de oxigeno|Volts %|9
+42|1B|Banco 2, Sensor 4: Sensor de oxigeno|Volts %|9
+42|1F|Tiempo que toma en arrancar|segundos|10
+42|20|PIDs soportados 21-40| |0
+42|21|Distancia recorrida con la luz (MIL) encendida on|km|10
+42|22|presión de combustible en el Riel (relativo al mutiple de admisión|kPa|11
+42|23|Presión de combustible (diesel)|km|12
+42|24|O2S1_WR_lambda(1):Relación de equivalencia de tensión|V|13
+42|25|O2S2_WR_lambda(1):Relación de equivalencia de tensión|V|13
+42|26|O2S3_WR_lambda(1):Relación de equivalencia de tensión|V|13
+42|27|O2S4_WR_lambda(1):Relación de equivalencia de tensión|V|13
+42|28|O2S5_WR_lambda(1):Relación de equivalencia de tensión|V|13
+42|29|O2S6_WR_lambda(1):Relación de equivalencia de tensión|V|13
+42|2A|O2S7_WR_lambda(1)Relación de equivalencia de tensión|V|13
+42|2B|O2S8_WR_lambda(1):Relación de equivalencia de tensión|V|13
+42|2C|Comandado EGR|%|1
+42|2D|EGR Error|%|3
+42|2E|Al mando de purga por evaporación|%|1
+42|2F|nivel de entrada del combustible|%|1
+42|30|# Calentamiento aún con los códigos limpiados||N/A|5
+42|31|Distancia recorrida sin limpiar los códigos de error|km|10
+42|32|Evap. Presión en el sistema de vapor|Pa|14
+42|33|Presión Barométrica|kPa (Absoluta)|5
+42|34|O2S1_WR_lambda(1): Equivalencia RatioCurrent|mA|15
+42|35|O2S2_WR_lambda(1): Equivalencia RatioCurrent|mA|15
+42|36|O2S3_WR_lambda(1): Equivalencia RatioCurrent|mA|15
+42|37|O2S4_WR_lambda(1): Equivalencia RatioCurrent|mA|15
+42|38|O2S5_WR_lambda(1): Equivalencia RatioCurrent|mA|15
+42|39|O2S6_WR_lambda(1): Equivalencia RatioCurrent|mA|15
+42|3A|O2S7_WR_lambda(1): Equivalencia RatioCurrent|mA|15
+42|3B|O2S8_WR_lambda(1): Equivalencia RatioCurrent|mA|15
+42|3C|Temperatura en el catalítico Banco 1, Sensor 1|°C|16
+42|3D|Temperatura en el catalítico Banco 2, Sensor 1|°C|16
+42|3E|Temperatura en el catalítico Banco 1, Sensor 2|°C|16
+42|3F|Temperatura en el catalítico Banco 2, Sensor 2|°C|16
+42|40|PIDs soportados 41-60| |0
+42|42|voltaje en el módulo de control|V|17
+42|43|Valor de la carga Absoluta|%|18
+42|44|Command equivalence ratio|N/A|19
+42|45|Posición relativa del acelerador|%|1
+42|46|Temperatura del aire del ambiente|°C|2
+42|47|Posición absoluta acelerador B|%|1
+42|48|Posición absoluta acelerador C|%|1
+42|49|Posición del pedal del acelerador D|%|1
+42|4A|Posición del pedal del acelerador E|%|1
+42|4B|Posición del pedal del acelerador F|%|1
+42|4C|Comadado actuador del acelerador|%|1
+42|4D|Tiempo recorrido con la luz (MIL) encendida|minutos|1
+42|4E|Tiempo sin limpiar los códigos de error|minutos|10
+42|51|tipo de combustible| |19
+42|52|cobustible ethanol %|%|1
+42|53|presión absoluta de la presión del sistema de vapor|kpa|5
+
+
+43|00|-----| |0
+44|00|-----| |0
+49|00|pids soportados [1-20]| |0
+49|02|información del vehículo| |0

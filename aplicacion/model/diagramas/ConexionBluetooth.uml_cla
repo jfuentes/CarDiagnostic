@@ -1,0 +1,507 @@
+<?xml version='1.0' encoding='UTF-8' standalone='yes'?>
+<xmi:XMI xmi:version='2.1' xmlns:xmi='http://schema.omg.org/spec/XMI/2.1' xmlns:uml='http://schema.omg.org/spec/UML/2.1.1/uml.xml'>
+ <documentation exporter='Oracle JDeveloper' exporterVersion='11.1.1.2.0'/>
+ <uml:Class xmi:uuid='urn:uuid:fb23ac0d-101d-4a1d-8a8d-6fdebda35ddb'
+   isAbstract='false'
+   isActive='false'
+   isLeaf='false'
+   name='ConexionBluetooth'
+   visibility='public'>
+  <clientDependency href='urn:uuid:72b7ccff-ddb9-4d98-a564-a79e89ca1d23'/>
+  <generalization xmi:uuid='urn:uuid:acfff181-d865-4005-9b96-b3a77c7a04eb'>
+   <general href='urn:uuid:befde27a-1815-430e-8916-81a9863bb660'/>
+  </generalization>
+  <interfaceRealization xmi:uuid='urn:uuid:72b7ccff-ddb9-4d98-a564-a79e89ca1d23'
+    name='BluetoothPortEventListener'
+    visibility='public'>
+   <contract href='urn:uuid:abe2ec44-da44-4f49-b604-59f5cf2eafb9'/>
+   <client href='urn:uuid:fb23ac0d-101d-4a1d-8a8d-6fdebda35ddb'/>
+   <supplier href='urn:uuid:abe2ec44-da44-4f49-b604-59f5cf2eafb9'/>
+  </interfaceRealization>
+  <ownedAttribute xmi:uuid='urn:uuid:0d4eae65-efe6-49b0-8b6c-114e548546f6'
+    isDerived='false'
+    isDerivedUnion='false'
+    isLeaf='false'
+    isOrdered='false'
+    isReadOnly='false'
+    isStatic='false'
+    isUnique='true'
+    name='nombreServicio'
+    aggregation='none'
+    visibility='protected'>
+   <type href='mof:/String:uml:Type'/>
+   <lowerValue xmi:type='uml:LiteralInteger' xmi:uuid='urn:uuid:93f798c9-2cb3-40da-94b3-70ed361cdb6d'
+     value='1'
+     visibility='public'/>
+   <upperValue xmi:type='uml:LiteralUnlimitedNatural' xmi:uuid='urn:uuid:10af2481-e2ad-4549-a409-53eb0450a15c'
+     value='1'
+     visibility='public'/>
+  </ownedAttribute>
+  <ownedAttribute xmi:uuid='urn:uuid:8606212c-41e6-4c86-9aad-2c573506d8c7'
+    isDerived='false'
+    isDerivedUnion='false'
+    isLeaf='false'
+    isOrdered='false'
+    isReadOnly='false'
+    isStatic='false'
+    isUnique='true'
+    name='os'
+    aggregation='none'
+    visibility='private'>
+   <type href='mof:/java:uml:NamedElement/io:uml:NamedElement/OutputStream:uml:Type'/>
+   <lowerValue xmi:type='uml:LiteralInteger' xmi:uuid='urn:uuid:37551311-14b3-4a24-978c-7372f92531f8'
+     value='1'
+     visibility='public'/>
+   <upperValue xmi:type='uml:LiteralUnlimitedNatural' xmi:uuid='urn:uuid:84c7b0e6-e92a-484a-b218-0aab003eaf9f'
+     value='1'
+     visibility='public'/>
+  </ownedAttribute>
+  <ownedAttribute xmi:uuid='urn:uuid:06d8484b-9f5d-4193-9c65-8382f23339d0'
+    isDerived='false'
+    isDerivedUnion='false'
+    isLeaf='false'
+    isOrdered='false'
+    isReadOnly='false'
+    isStatic='false'
+    isUnique='true'
+    name='is'
+    aggregation='none'
+    visibility='private'>
+   <type href='mof:/java:uml:NamedElement/io:uml:NamedElement/InputStream:uml:Type'/>
+   <lowerValue xmi:type='uml:LiteralInteger' xmi:uuid='urn:uuid:285fcbdd-2580-4b0b-8281-370aa6fdfef2'
+     value='1'
+     visibility='public'/>
+   <upperValue xmi:type='uml:LiteralUnlimitedNatural' xmi:uuid='urn:uuid:680b0a65-c110-428c-a7d7-c595a3b01331'
+     value='1'
+     visibility='public'/>
+  </ownedAttribute>
+  <ownedAttribute xmi:uuid='urn:uuid:0c4e5781-732f-4a8c-8048-76c4fea6cf6e'
+    isDerived='false'
+    isDerivedUnion='false'
+    isLeaf='false'
+    isOrdered='false'
+    isReadOnly='false'
+    isStatic='false'
+    isUnique='true'
+    name='isr'
+    aggregation='none'
+    visibility='private'>
+   <type href='mof:/java:uml:NamedElement/io:uml:NamedElement/InputStreamReader:uml:Type'/>
+   <lowerValue xmi:type='uml:LiteralInteger' xmi:uuid='urn:uuid:e37fbc5b-9a74-4b02-9cd4-5abd9365c03b'
+     value='1'
+     visibility='public'/>
+   <upperValue xmi:type='uml:LiteralUnlimitedNatural' xmi:uuid='urn:uuid:d1fb3032-a463-448f-bf2a-fae78a61c351'
+     value='1'
+     visibility='public'/>
+  </ownedAttribute>
+  <ownedAttribute xmi:uuid='urn:uuid:4a1b1ec2-5af9-4a88-9497-5b6201b56540'
+    isDerived='false'
+    isDerivedUnion='false'
+    isLeaf='false'
+    isOrdered='false'
+    isReadOnly='false'
+    isStatic='false'
+    isUnique='true'
+    name='abierto'
+    aggregation='none'
+    visibility='private'>
+   <type href='mof:/boolean:uml:Type'/>
+   <defaultValue xmi:type='uml:LiteralString' xmi:uuid='urn:uuid:d90fb37f-eecf-41bf-bd05-73552e9c8253'
+     value='false'
+     visibility='public'/>
+   <lowerValue xmi:type='uml:LiteralInteger' xmi:uuid='urn:uuid:0240403a-1968-4881-8df0-8bda6f250ecb'
+     value='1'
+     visibility='public'/>
+   <upperValue xmi:type='uml:LiteralUnlimitedNatural' xmi:uuid='urn:uuid:cb1e1f08-4fff-433f-9256-ac0705b34377'
+     value='1'
+     visibility='public'/>
+  </ownedAttribute>
+  <ownedAttribute xmi:uuid='urn:uuid:bce66121-4c33-49dc-9feb-ef8687ba2d28'
+    isDerived='false'
+    isDerivedUnion='false'
+    isLeaf='false'
+    isOrdered='false'
+    isReadOnly='false'
+    isStatic='false'
+    isUnique='true'
+    name='stream'
+    aggregation='none'
+    visibility='private'>
+   <type href='mof:/javax:uml:NamedElement/microedition:uml:NamedElement/io:uml:NamedElement/StreamConnection:uml:Type'/>
+   <defaultValue xmi:type='uml:LiteralString' xmi:uuid='urn:uuid:7413fce6-1459-4ff0-a037-7f81852e79c0'
+     value='null'
+     visibility='public'/>
+   <lowerValue xmi:type='uml:LiteralInteger' xmi:uuid='urn:uuid:48aca780-1e9a-401a-be91-7985b30254d7'
+     value='1'
+     visibility='public'/>
+   <upperValue xmi:type='uml:LiteralUnlimitedNatural' xmi:uuid='urn:uuid:d653d0eb-c13d-4acf-98df-6a83aec6de22'
+     value='1'
+     visibility='public'/>
+  </ownedAttribute>
+  <ownedOperation xmi:uuid='urn:uuid:1e011e43-095d-403c-a767-2a48ed9cdca2'
+    isAbstract='false'
+    isLeaf='false'
+    isQuery='false'
+    isStatic='true'
+    name='listarDispositivos'
+    concurrency='sequential'
+    visibility='public'>
+   <ownedComment xmi:uuid='urn:uuid:efc81bb6-9d61-4561-a5d1-4beadcc4d816'
+     body='&#xa;método estatico que busca por todos los dispositivos bluetooth que hay en el entorno&#xa;'/>
+   <ownedParameter xmi:uuid='urn:uuid:69c2a0f3-1eba-4e32-81d9-9cd37fbc0a25'
+     isException='false'
+     isOrdered='false'
+     isStream='false'
+     isUnique='true'
+     name='responder'
+     direction='in'>
+    <type href='mof:/javax:uml:NamedElement/bluetooth:uml:NamedElement/DiscoveryListener:uml:Type'/>
+    <lowerValue xmi:type='uml:LiteralInteger' xmi:uuid='urn:uuid:62f3f068-7bb3-4f20-aec8-ce66ca8c3706'
+      value='1'
+      visibility='public'/>
+    <upperValue xmi:type='uml:LiteralUnlimitedNatural' xmi:uuid='urn:uuid:e27a6a35-2e56-4891-8ced-bc1c1804630b'
+      value='1'
+      visibility='public'/>
+   </ownedParameter>
+   <ownedParameter xmi:uuid='urn:uuid:2ea0b5fc-1c41-4870-b81a-1c3ff3ff9765'
+     isException='false'
+     isOrdered='false'
+     isStream='false'
+     isUnique='true'
+     name=''
+     direction='return'>
+    <type href='mof:/void:uml:Type'/>
+    <lowerValue xmi:type='uml:LiteralInteger' xmi:uuid='urn:uuid:51de6a3a-6848-43bb-acb8-ff2ae3379382'
+      value='1'
+      visibility='public'/>
+    <ownedComment xmi:uuid='urn:uuid:198e5a6d-a35f-4193-8cff-f411aaeac5fb'
+      body='&#xa;método estatico que busca por todos los dispositivos bluetooth que hay en el entorno&#xa;'/>
+    <upperValue xmi:type='uml:LiteralUnlimitedNatural' xmi:uuid='urn:uuid:31a3e2b1-b81e-4027-8774-e4067b015d8f'
+      value='1'
+      visibility='public'/>
+   </ownedParameter>
+  </ownedOperation>
+  <ownedOperation xmi:uuid='urn:uuid:5fcad0bb-c1ff-4f42-8bc0-bcc87318b40a'
+    isAbstract='false'
+    isLeaf='false'
+    isQuery='false'
+    isStatic='true'
+    name='cancelarListarDispositivos'
+    concurrency='sequential'
+    visibility='public'>
+   <ownedComment xmi:uuid='urn:uuid:d4237f57-50df-4e05-a088-14c418786b28'
+     body='&#xa;cancela la búsqueda de dispositivos&#xa;'/>
+   <ownedParameter xmi:uuid='urn:uuid:43775a7e-78c4-406c-8364-dc61d6071ffc'
+     isException='false'
+     isOrdered='false'
+     isStream='false'
+     isUnique='true'
+     name='responder'
+     direction='in'>
+    <type href='mof:/javax:uml:NamedElement/bluetooth:uml:NamedElement/DiscoveryListener:uml:Type'/>
+    <lowerValue xmi:type='uml:LiteralInteger' xmi:uuid='urn:uuid:30f024aa-6032-4ee8-92f6-f18c3ecc7c74'
+      value='1'
+      visibility='public'/>
+    <upperValue xmi:type='uml:LiteralUnlimitedNatural' xmi:uuid='urn:uuid:fa9fba8a-2784-403f-b712-c9353ff40208'
+      value='1'
+      visibility='public'/>
+   </ownedParameter>
+   <ownedParameter xmi:uuid='urn:uuid:3707e8d5-d686-4a04-871d-a2404fb7f2ba'
+     isException='false'
+     isOrdered='false'
+     isStream='false'
+     isUnique='true'
+     name=''
+     direction='return'>
+    <type href='mof:/void:uml:Type'/>
+    <lowerValue xmi:type='uml:LiteralInteger' xmi:uuid='urn:uuid:f6b7db4a-6d31-411a-9633-bfd7e59cd259'
+      value='1'
+      visibility='public'/>
+    <ownedComment xmi:uuid='urn:uuid:cba5cc53-4c61-427e-97aa-67b64c925ae9'
+      body='&#xa;cancela la búsqueda de dispositivos&#xa;'/>
+    <upperValue xmi:type='uml:LiteralUnlimitedNatural' xmi:uuid='urn:uuid:202cb466-a72c-4a72-bc13-7392ac79924d'
+      value='1'
+      visibility='public'/>
+   </ownedParameter>
+  </ownedOperation>
+  <ownedOperation xmi:uuid='urn:uuid:8255bcf5-538b-4db2-abfe-c6cbf92fbb0f'
+    isAbstract='false'
+    isLeaf='false'
+    isQuery='false'
+    isStatic='true'
+    name='listarDispositivosConocidos'
+    concurrency='sequential'
+    visibility='public'>
+   <ownedComment xmi:uuid='urn:uuid:14b0c5bd-6d12-4ccc-9b0a-23602d928020'
+     body='&#xa;lista los dispositivos que estan incluidos en el pc como conocidos&#xa;'/>
+   <ownedParameter xmi:uuid='urn:uuid:0a720720-ed25-4853-b9e9-9ce830ddaeb0'
+     isException='false'
+     isOrdered='false'
+     isStream='false'
+     isUnique='true'
+     name=''
+     direction='return'>
+    <type href='mof:/javax:uml:NamedElement/bluetooth:uml:NamedElement/RemoteDevice:uml:Type'/>
+    <lowerValue xmi:type='uml:LiteralInteger' xmi:uuid='urn:uuid:bbbd917c-0858-4314-9133-8e318e5403b7'
+      value='0'
+      visibility='public'/>
+    <ownedComment xmi:uuid='urn:uuid:35e7be52-9175-4864-94a3-f807e49de48f'
+      body='&#xa;lista los dispositivos que estan incluidos en el pc como conocidos&#xa;'/>
+    <upperValue xmi:type='uml:LiteralUnlimitedNatural' xmi:uuid='urn:uuid:9090b360-b417-4357-a736-8a9a087777f5'
+      value='*'
+      visibility='public'/>
+   </ownedParameter>
+  </ownedOperation>
+  <ownedOperation xmi:uuid='urn:uuid:8be0ff0e-bf9d-4038-bd1c-35544508e712'
+    isAbstract='false'
+    isLeaf='false'
+    isQuery='false'
+    isStatic='true'
+    name='buscarServicios'
+    concurrency='sequential'
+    visibility='public'>
+   <ownedComment xmi:uuid='urn:uuid:bed53897-5a25-4a93-9d0b-6c866ab9d700'
+     body='&#xa;busca los servicios que brinda cierto dispositivo&#xa;'/>
+   <ownedParameter xmi:uuid='urn:uuid:d076d3a6-8fd9-4039-94b0-56f3a9553630'
+     isException='false'
+     isOrdered='false'
+     isStream='false'
+     isUnique='true'
+     name='device'
+     direction='in'>
+    <type href='mof:/javax:uml:NamedElement/bluetooth:uml:NamedElement/RemoteDevice:uml:Type'/>
+    <lowerValue xmi:type='uml:LiteralInteger' xmi:uuid='urn:uuid:6924acbf-8191-4c74-8ad7-1261c3fd81ed'
+      value='1'
+      visibility='public'/>
+    <upperValue xmi:type='uml:LiteralUnlimitedNatural' xmi:uuid='urn:uuid:839a5211-54e5-43dc-879d-aeb7f643788e'
+      value='1'
+      visibility='public'/>
+   </ownedParameter>
+   <ownedParameter xmi:uuid='urn:uuid:3829e3b9-95bb-474c-9af2-543cd3239136'
+     isException='false'
+     isOrdered='false'
+     isStream='false'
+     isUnique='true'
+     name='manejador'
+     direction='in'>
+    <type href='mof:/javax:uml:NamedElement/bluetooth:uml:NamedElement/DiscoveryListener:uml:Type'/>
+    <lowerValue xmi:type='uml:LiteralInteger' xmi:uuid='urn:uuid:058a962b-1912-4f13-bd6a-b4567bbd6a3c'
+      value='1'
+      visibility='public'/>
+    <upperValue xmi:type='uml:LiteralUnlimitedNatural' xmi:uuid='urn:uuid:4b9c21ed-243e-4206-8643-b77bbd6445bd'
+      value='1'
+      visibility='public'/>
+   </ownedParameter>
+   <ownedParameter xmi:uuid='urn:uuid:25930724-bfc3-4a40-8292-eaf1ed4cff93'
+     isException='false'
+     isOrdered='false'
+     isStream='false'
+     isUnique='true'
+     name=''
+     direction='return'>
+    <type href='mof:/void:uml:Type'/>
+    <lowerValue xmi:type='uml:LiteralInteger' xmi:uuid='urn:uuid:8202cccd-6b65-47d1-8fb7-cbd1b81302aa'
+      value='1'
+      visibility='public'/>
+    <ownedComment xmi:uuid='urn:uuid:170c5690-c262-4d70-a244-1b08fb11a3c6'
+      body='&#xa;busca los servicios que brinda cierto dispositivo&#xa;'/>
+    <upperValue xmi:type='uml:LiteralUnlimitedNatural' xmi:uuid='urn:uuid:66336e98-1559-432c-8c22-0a6e62bb6e1d'
+      value='1'
+      visibility='public'/>
+   </ownedParameter>
+  </ownedOperation>
+  <ownedOperation xmi:uuid='urn:uuid:032233b4-1b7c-4d35-8b3f-33ceda14e983'
+    isAbstract='false'
+    isLeaf='false'
+    isQuery='false'
+    isStatic='false'
+    name='abrirConexion'
+    concurrency='sequential'
+    visibility='public'>
+   <ownedComment xmi:uuid='urn:uuid:0b2ec0e6-b94e-4a23-801c-35ac4a5d0ebe'
+     body='&#xa;abre una conexion con el dispositivo bluetooth&#xa;'/>
+   <ownedParameter xmi:uuid='urn:uuid:f34b48a9-e832-43dd-8776-b8d0df34a938'
+     isException='false'
+     isOrdered='false'
+     isStream='false'
+     isUnique='true'
+     name=''
+     direction='return'>
+    <type href='mof:/void:uml:Type'/>
+    <lowerValue xmi:type='uml:LiteralInteger' xmi:uuid='urn:uuid:cf4b46de-335d-4b12-a301-e6f24594394d'
+      value='1'
+      visibility='public'/>
+    <ownedComment xmi:uuid='urn:uuid:fba318d7-68b2-410c-a3b5-2bd2a1bcfcef'
+      body='&#xa;abre una conexion con el dispositivo bluetooth&#xa;'/>
+    <upperValue xmi:type='uml:LiteralUnlimitedNatural' xmi:uuid='urn:uuid:1666e7a9-46f9-4211-9cbc-68fb8cb94c48'
+      value='1'
+      visibility='public'/>
+   </ownedParameter>
+  </ownedOperation>
+  <ownedOperation xmi:uuid='urn:uuid:12bddddc-4f54-4c6a-8b4d-252457585212'
+    isAbstract='false'
+    isLeaf='false'
+    isQuery='false'
+    isStatic='false'
+    name='cerrarConexion'
+    concurrency='sequential'
+    visibility='public'>
+   <ownedParameter xmi:uuid='urn:uuid:89aeb3d6-b294-47e6-aa2a-ccbe8cbca935'
+     isException='false'
+     isOrdered='false'
+     isStream='false'
+     isUnique='true'
+     name=''
+     direction='return'>
+    <type href='mof:/void:uml:Type'/>
+    <lowerValue xmi:type='uml:LiteralInteger' xmi:uuid='urn:uuid:452d86d5-4707-4450-99c7-d57afea3260c'
+      value='1'
+      visibility='public'/>
+    <upperValue xmi:type='uml:LiteralUnlimitedNatural' xmi:uuid='urn:uuid:0e02d068-c23b-4d86-a5bb-926c382e1b20'
+      value='1'
+      visibility='public'/>
+   </ownedParameter>
+  </ownedOperation>
+  <ownedOperation xmi:uuid='urn:uuid:f6eaf5e6-f48d-42a0-ad56-1067d6fe8df7'
+    isAbstract='false'
+    isLeaf='false'
+    isQuery='false'
+    isStatic='false'
+    name='escribirPuerto'
+    concurrency='sequential'
+    visibility='public'>
+   <ownedParameter xmi:uuid='urn:uuid:89363b1d-5df9-4384-a4ae-8315e6f00941'
+     isException='false'
+     isOrdered='false'
+     isStream='false'
+     isUnique='true'
+     name='datos'
+     direction='in'>
+    <type href='mof:/String:uml:Type'/>
+    <lowerValue xmi:type='uml:LiteralInteger' xmi:uuid='urn:uuid:1423a49e-e7f3-47e4-96a9-e0e0ef7abd5d'
+      value='1'
+      visibility='public'/>
+    <upperValue xmi:type='uml:LiteralUnlimitedNatural' xmi:uuid='urn:uuid:0fd996ed-a3a7-4075-ab9f-864e2bca404a'
+      value='1'
+      visibility='public'/>
+   </ownedParameter>
+   <ownedParameter xmi:uuid='urn:uuid:ba5cd7e3-a2a7-47d1-a1d9-c32f73c363d5'
+     isException='false'
+     isOrdered='false'
+     isStream='false'
+     isUnique='true'
+     name=''
+     direction='return'>
+    <type href='mof:/void:uml:Type'/>
+    <lowerValue xmi:type='uml:LiteralInteger' xmi:uuid='urn:uuid:ddc7c9b1-e152-40f9-b8cf-d4ce7065b7dc'
+      value='1'
+      visibility='public'/>
+    <upperValue xmi:type='uml:LiteralUnlimitedNatural' xmi:uuid='urn:uuid:bd77a729-e6d3-4b44-aa28-936c34a93430'
+      value='1'
+      visibility='public'/>
+   </ownedParameter>
+  </ownedOperation>
+  <ownedOperation xmi:uuid='urn:uuid:f1b6b36d-a0dd-41f1-a20d-274fc4d41cae'
+    isAbstract='false'
+    isLeaf='false'
+    isQuery='false'
+    isStatic='false'
+    name='bluetoothEvent'
+    concurrency='sequential'
+    visibility='public'>
+   <ownedParameter xmi:uuid='urn:uuid:287a927a-e047-4c8e-99e2-627af91fd854'
+     isException='false'
+     isOrdered='false'
+     isStream='false'
+     isUnique='true'
+     name='e'
+     direction='in'>
+    <type href='urn:uuid:8c5c5e38-d56e-4ed5-a0a5-d19d6aac4496'/>
+    <lowerValue xmi:type='uml:LiteralInteger' xmi:uuid='urn:uuid:141c7851-e45d-4a78-9109-387655d3ce1f'
+      value='1'
+      visibility='public'/>
+    <upperValue xmi:type='uml:LiteralUnlimitedNatural' xmi:uuid='urn:uuid:85c9ec62-169c-4d5c-96b1-38c8a2c32905'
+      value='1'
+      visibility='public'/>
+   </ownedParameter>
+   <ownedParameter xmi:uuid='urn:uuid:9da1aac9-b814-4986-9126-5777eee35029'
+     isException='false'
+     isOrdered='false'
+     isStream='false'
+     isUnique='true'
+     name=''
+     direction='return'>
+    <type href='mof:/void:uml:Type'/>
+    <lowerValue xmi:type='uml:LiteralInteger' xmi:uuid='urn:uuid:05624a29-171b-4cf5-8686-d73ecc439a9c'
+      value='1'
+      visibility='public'/>
+    <upperValue xmi:type='uml:LiteralUnlimitedNatural' xmi:uuid='urn:uuid:2a3ae478-03cd-4c8f-803b-3b8901d99296'
+      value='1'
+      visibility='public'/>
+   </ownedParameter>
+  </ownedOperation>
+  <ownedOperation xmi:uuid='urn:uuid:2ab4de5d-af78-4feb-ac01-999e0a726ef9'
+    isAbstract='false'
+    isLeaf='false'
+    isQuery='false'
+    isStatic='true'
+    name='cancelarGetServiciosBluetooth'
+    concurrency='sequential'
+    visibility='public'>
+   <ownedParameter xmi:uuid='urn:uuid:e1a47f8e-3116-4140-bde3-9c2f7a33f82b'
+     isException='false'
+     isOrdered='false'
+     isStream='false'
+     isUnique='true'
+     name='i'
+     direction='in'>
+    <type href='mof:/int:uml:Type'/>
+    <lowerValue xmi:type='uml:LiteralInteger' xmi:uuid='urn:uuid:6cc94873-2117-40bb-9bcc-f4b1ed6ebbf4'
+      value='1'
+      visibility='public'/>
+    <upperValue xmi:type='uml:LiteralUnlimitedNatural' xmi:uuid='urn:uuid:d4c85060-4bbf-4fa9-8230-0d8758d8b081'
+      value='1'
+      visibility='public'/>
+   </ownedParameter>
+   <ownedParameter xmi:uuid='urn:uuid:2205cf9f-147b-43e8-b979-7fee051de0fe'
+     isException='false'
+     isOrdered='false'
+     isStream='false'
+     isUnique='true'
+     name=''
+     direction='return'>
+    <type href='mof:/void:uml:Type'/>
+    <lowerValue xmi:type='uml:LiteralInteger' xmi:uuid='urn:uuid:d1d82d49-8ceb-4b43-9480-09a32bea8cfb'
+      value='1'
+      visibility='public'/>
+    <upperValue xmi:type='uml:LiteralUnlimitedNatural' xmi:uuid='urn:uuid:bd856603-ac4b-4402-a015-546ed83c9e51'
+      value='1'
+      visibility='public'/>
+   </ownedParameter>
+  </ownedOperation>
+  <ownedOperation xmi:uuid='urn:uuid:65a7f187-30ae-4925-888f-28deab4b8c4e'
+    isAbstract='false'
+    isLeaf='false'
+    isQuery='false'
+    isStatic='false'
+    name='ConexionBluetooth'
+    concurrency='sequential'
+    visibility='public'>
+   <ownedParameter xmi:uuid='urn:uuid:0564bc7d-631c-41be-957a-38b35ae6bde6'
+     isException='false'
+     isOrdered='false'
+     isStream='false'
+     isUnique='true'
+     name='nombreServicio'
+     direction='in'>
+    <type href='mof:/String:uml:Type'/>
+    <lowerValue xmi:type='uml:LiteralInteger' xmi:uuid='urn:uuid:9a020dec-6a71-43e5-a06c-fdb25d0331e9'
+      value='1'
+      visibility='public'/>
+    <upperValue xmi:type='uml:LiteralUnlimitedNatural' xmi:uuid='urn:uuid:17a31d36-8af9-4c5f-8bdc-d71343da2b8e'
+      value='1'
+      visibility='public'/>
+   </ownedParameter>
+  </ownedOperation>
+ </uml:Class>
+</xmi:XMI>

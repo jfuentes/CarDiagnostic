@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8' standalone='yes'?>
+<xmi:XMI xmi:version='2.1' xmlns:xmi='http://schema.omg.org/spec/XMI/2.1' xmlns:uml='http://schema.omg.org/spec/UML/2.1.1/uml.xml'>
+ <documentation exporter='Oracle JDeveloper' exporterVersion='11.1.1.2.0'/>
+ <uml:UseCase xmi:uuid='urn:uuid:a6e32edb-abb6-4df2-846a-1fd026ba8103'
+   isAbstract='false'
+   isLeaf='false'
+   name='Obtener valores sensores al momento de la falla'
+   visibility='public'>
+  <extensionPoint xmi:uuid='urn:uuid:d1104b9e-c87a-476f-9745-5fa01d7fe7aa'
+    isLeaf='false'
+    name='DefaultExtensionPoint'/>
+  <include xmi:uuid='urn:uuid:f247dd9d-4f1e-40e2-930c-3a57f9416e58'>
+   <addition href='urn:uuid:ec291e6b-7c4b-4610-ad5b-c8ba21eb88b0'/>
+  </include>
+ </uml:UseCase>
+</xmi:XMI>

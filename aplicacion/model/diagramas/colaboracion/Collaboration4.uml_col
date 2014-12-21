@@ -1,0 +1,63 @@
+<?xml version='1.0' encoding='UTF-8' standalone='yes'?>
+<xmi:XMI xmi:version='2.1' xmlns:xmi='http://schema.omg.org/spec/XMI/2.1' xmlns:uml='http://schema.omg.org/spec/UML/2.1.1/uml.xml'>
+ <documentation exporter='Oracle JDeveloper' exporterVersion='11.1.1.2.0'/>
+ <uml:Collaboration xmi:uuid='urn:uuid:c85905a8-7af9-4145-9886-11ce5e1a360e'
+   isAbstract='false'
+   isLeaf='false'
+   name='Collaboration4'
+   visibility='public'>
+  <collaborationRole href='urn:uuid:a53c799e-4864-44e7-9ae7-96f061a4882e'/>
+  <collaborationRole href='urn:uuid:4ead428a-3bee-47d9-ad21-385ddce4269e'/>
+  <collaborationRole href='urn:uuid:c053cf13-4082-4468-81c6-2b590b32e7cf'/>
+  <ownedAttribute xmi:uuid='urn:uuid:a53c799e-4864-44e7-9ae7-96f061a4882e'
+    isDerived='false'
+    isDerivedUnion='false'
+    isLeaf='false'
+    isOrdered='false'
+    isReadOnly='false'
+    isStatic='false'
+    isUnique='true'
+    name=''
+    aggregation='none'/>
+  <ownedAttribute xmi:uuid='urn:uuid:4ead428a-3bee-47d9-ad21-385ddce4269e'
+    isDerived='false'
+    isDerivedUnion='false'
+    isLeaf='false'
+    isOrdered='false'
+    isReadOnly='false'
+    isStatic='false'
+    isUnique='true'
+    name=''
+    aggregation='none'/>
+  <ownedAttribute xmi:uuid='urn:uuid:c053cf13-4082-4468-81c6-2b590b32e7cf'
+    isDerived='false'
+    isDerivedUnion='false'
+    isLeaf='false'
+    isOrdered='false'
+    isReadOnly='false'
+    isStatic='false'
+    isUnique='true'
+    name=''
+    aggregation='none'/>
+  <ownedBehavior xmi:type='uml:Interaction' xmi:uuid='urn:uuid:3dbb0de2-d237-4bf7-922e-e6b706cc4dca'
+    isAbstract='false'
+    isActive='false'
+    isLeaf='false'
+    isReentrant='false'
+    name='Interaction1'
+    visibility='public'>
+   <lifeline xmi:uuid='urn:uuid:691c6eb9-ad37-4547-ae22-6ef3ff67ec8a'
+     name='Lifeline1'>
+    <represents href='urn:uuid:a53c799e-4864-44e7-9ae7-96f061a4882e'/>
+   </lifeline>
+   <lifeline xmi:uuid='urn:uuid:5814bb35-5cce-459a-aa4b-8b545a9e4739'
+     name='Lifeline2'>
+    <represents href='urn:uuid:4ead428a-3bee-47d9-ad21-385ddce4269e'/>
+   </lifeline>
+   <lifeline xmi:uuid='urn:uuid:c5eff0ea-75db-4782-aedb-ae81abbc3fb6'
+     name='Lifeline3'>
+    <represents href='urn:uuid:c053cf13-4082-4468-81c6-2b590b32e7cf'/>
+   </lifeline>
+  </ownedBehavior>
+ </uml:Collaboration>
+</xmi:XMI>

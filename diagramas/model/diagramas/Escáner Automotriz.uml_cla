@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8' standalone='yes'?>
+<xmi:XMI xmi:version='2.1' xmlns:xmi='http://schema.omg.org/spec/XMI/2.1' xmlns:uml='http://schema.omg.org/spec/UML/2.1.1/uml.xml'>
+ <documentation exporter='Oracle JDeveloper' exporterVersion='11.1.1.2.0'/>
+ <uml:Class xmi:uuid='urn:uuid:4593ae47-d9a1-4d01-bc1a-cdaef577f3bf'
+   isAbstract='false'
+   isActive='false'
+   isLeaf='false'
+   name='Escáner Automotriz'
+   visibility='public'>
+  <ownedAttribute xmi:uuid='urn:uuid:e91ec39d-305b-488b-89f1-e9dfdeade5fc'
+    isDerived='false'
+    isDerivedUnion='false'
+    isLeaf='false'
+    isOrdered='false'
+    isReadOnly='false'
+    isStatic='false'
+    isUnique='true'
+    aggregation='none'>
+   <type href='urn:uuid:dd96d075-8948-4ab0-bff6-964bf01390f4'/>
+  </ownedAttribute>
+  <ownedComment xmi:uuid='urn:uuid:65b39ce3-a74d-4b2c-ad2e-51f3c264307d'
+    body='uml_uc:Subject'/>
+ </uml:Class>
+</xmi:XMI>

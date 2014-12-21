@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8' standalone='yes'?>
+<xmi:XMI xmi:version='2.1' xmlns:xmi='http://schema.omg.org/spec/XMI/2.1' xmlns:uml='http://schema.omg.org/spec/UML/2.1.1/uml.xml'>
+ <documentation exporter='Oracle JDeveloper' exporterVersion='11.1.1.2.0'/>
+ <uml:UseCase xmi:uuid='urn:uuid:ffe891ed-b225-4ba9-99e7-b12f6fe57d30'
+   isAbstract='false'
+   isLeaf='false'
+   name='Exportar a PDF-Excel'
+   visibility='public'>
+  <extend xmi:uuid='urn:uuid:e344d390-8ee6-4532-a6c6-a7512d90fa57'>
+   <extendedCase href='urn:uuid:8cc7f316-7c89-450a-aa33-7b229e6374ef'/>
+   <extensionLocation href='urn:uuid:e8781b5b-36fe-4721-a20d-a53b95a52cf2'/>
+  </extend>
+  <extend xmi:uuid='urn:uuid:cea3f3cf-4dfc-4cee-b1a8-b2e8e400c90d'>
+   <extendedCase href='urn:uuid:157be660-652d-4aa2-a7b1-52692b039554'/>
+   <extensionLocation href='urn:uuid:9b57de9d-e223-4cd8-99c5-b408627aedbc'/>
+  </extend>
+  <extensionPoint xmi:uuid='urn:uuid:7389bc2d-1d8c-4ab5-abf0-53e128b46274'
+    isLeaf='false'
+    name='DefaultExtensionPoint'/>
+ </uml:UseCase>
+</xmi:XMI>

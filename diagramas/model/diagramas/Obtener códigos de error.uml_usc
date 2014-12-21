@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8' standalone='yes'?>
+<xmi:XMI xmi:version='2.1' xmlns:xmi='http://schema.omg.org/spec/XMI/2.1' xmlns:uml='http://schema.omg.org/spec/UML/2.1.1/uml.xml'>
+ <documentation exporter='Oracle JDeveloper' exporterVersion='11.1.1.2.0'/>
+ <uml:UseCase xmi:uuid='urn:uuid:8cc7f316-7c89-450a-aa33-7b229e6374ef'
+   isAbstract='false'
+   isLeaf='false'
+   name='Obtener códigos de error'
+   visibility='public'>
+  <extensionPoint xmi:uuid='urn:uuid:e8781b5b-36fe-4721-a20d-a53b95a52cf2'
+    isLeaf='false'
+    name='DefaultExtensionPoint'/>
+  <include xmi:uuid='urn:uuid:f36d07a3-31d4-4de7-abe9-580399f295f3'
+    name=''>
+   <addition href='urn:uuid:ec291e6b-7c4b-4610-ad5b-c8ba21eb88b0'/>
+  </include>
+ </uml:UseCase>
+</xmi:XMI>

@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8' standalone='yes'?>
+<xmi:XMI xmi:version='2.1' xmlns:xmi='http://schema.omg.org/spec/XMI/2.1' xmlns:uml='http://schema.omg.org/spec/UML/2.1.1/uml.xml'>
+ <documentation exporter='Oracle JDeveloper' exporterVersion='11.1.1.2.0'/>
+ <uml:UseCase xmi:uuid='urn:uuid:613dafd0-4b16-417d-9d91-a5cf60843fc3'
+   isAbstract='false'
+   isLeaf='false'
+   name='Conectar vía Serial'
+   visibility='public'>
+  <extend xmi:uuid='urn:uuid:934a8562-e872-4f74-9a49-ea67c2caae29'>
+   <extendedCase href='urn:uuid:9cf13597-3ab3-4afb-8ac7-a011695dd092'/>
+   <extensionLocation href='urn:uuid:81ee6e82-1199-4236-ada4-6a0f2db8d315'/>
+  </extend>
+  <extend xmi:uuid='urn:uuid:6e37c87a-bb0c-4c4d-b012-796aaeffa3aa'>
+   <extendedCase href='urn:uuid:ec291e6b-7c4b-4610-ad5b-c8ba21eb88b0'/>
+   <extensionLocation href='urn:uuid:43202435-b036-48b4-86ab-1bf3b8431415'/>
+  </extend>
+  <extensionPoint xmi:uuid='urn:uuid:fa695184-acd9-45ab-8976-fcafe26b9d4b'
+    isLeaf='false'
+    name='DefaultExtensionPoint'/>
+ </uml:UseCase>
+</xmi:XMI>

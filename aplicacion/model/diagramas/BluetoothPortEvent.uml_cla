@@ -1,0 +1,124 @@
+<?xml version='1.0' encoding='UTF-8' standalone='yes'?>
+<xmi:XMI xmi:version='2.1' xmlns:xmi='http://schema.omg.org/spec/XMI/2.1' xmlns:uml='http://schema.omg.org/spec/UML/2.1.1/uml.xml'>
+ <documentation exporter='Oracle JDeveloper' exporterVersion='11.1.1.2.0'/>
+ <uml:Class xmi:uuid='urn:uuid:8c5c5e38-d56e-4ed5-a0a5-d19d6aac4496'
+   isAbstract='false'
+   isActive='false'
+   isLeaf='false'
+   name='BluetoothPortEvent'
+   visibility='public'>
+  <generalization xmi:uuid='urn:uuid:8265fb7c-7d7d-4b4a-9897-bcc29b1ed795'>
+   <general href='mof:/java:uml:NamedElement/util:uml:NamedElement/EventObject:uml:Classifier'/>
+  </generalization>
+  <ownedAttribute xmi:uuid='urn:uuid:59b696f2-bc00-4dae-b1ae-62db146d8a6e'
+    isDerived='false'
+    isDerivedUnion='false'
+    isLeaf='false'
+    isOrdered='false'
+    isReadOnly='false'
+    isStatic='false'
+    isUnique='true'
+    name='tipo'
+    aggregation='none'
+    visibility='private'>
+   <type href='mof:/int:uml:Type'/>
+   <lowerValue xmi:type='uml:LiteralInteger' xmi:uuid='urn:uuid:34b1d9ad-f43c-46cc-9567-0a2ceaad16ff'
+     value='1'
+     visibility='public'/>
+   <upperValue xmi:type='uml:LiteralUnlimitedNatural' xmi:uuid='urn:uuid:bb8a7dd9-2689-48a2-a625-c7eb7e53a1a2'
+     value='1'
+     visibility='public'/>
+  </ownedAttribute>
+  <ownedAttribute xmi:uuid='urn:uuid:f4d758ed-473b-4f7e-8c2f-03df67c955a6'
+    isDerived='false'
+    isDerivedUnion='false'
+    isLeaf='false'
+    isOrdered='false'
+    isReadOnly='true'
+    isStatic='true'
+    isUnique='true'
+    name='DATO_DISPONIBLE'
+    aggregation='none'
+    visibility='public'>
+   <type href='mof:/int:uml:Type'/>
+   <defaultValue xmi:type='uml:LiteralString' xmi:uuid='urn:uuid:8f85445f-48c7-47af-bb10-6649e75a254f'
+     value='1'
+     visibility='public'/>
+   <lowerValue xmi:type='uml:LiteralInteger' xmi:uuid='urn:uuid:facf20e1-72bc-46a2-a00d-a5cb9669f7cf'
+     value='1'
+     visibility='public'/>
+   <upperValue xmi:type='uml:LiteralUnlimitedNatural' xmi:uuid='urn:uuid:ad0d972c-e6b8-4abc-9b14-23bfeb2488fd'
+     value='1'
+     visibility='public'/>
+  </ownedAttribute>
+  <ownedComment xmi:uuid='urn:uuid:719429b3-82e9-4415-bb44-a3eaa4018869'
+    body='&#xa;evento que es lanzado cuando se detecta un dato disponible en el bluetooth.&#xa;'/>
+  <ownedOperation xmi:uuid='urn:uuid:932f8979-fbe7-492d-952e-8da009c26ad8'
+    isAbstract='false'
+    isLeaf='false'
+    isQuery='false'
+    isStatic='false'
+    name='getTipo'
+    concurrency='sequential'
+    visibility='public'>
+   <ownedComment xmi:uuid='urn:uuid:5c8ac829-b780-40e8-9b36-853e2a4ea2b7'
+     body='&#xa;obtiene el tipo del evento&#xa;'/>
+   <ownedParameter xmi:uuid='urn:uuid:12921905-1699-4da4-9643-f9fad6d64a0f'
+     isException='false'
+     isOrdered='false'
+     isStream='false'
+     isUnique='true'
+     name=''
+     direction='return'>
+    <type href='mof:/int:uml:Type'/>
+    <lowerValue xmi:type='uml:LiteralInteger' xmi:uuid='urn:uuid:e13a75d2-e494-4f50-a380-dcff9a7fab1e'
+      value='1'
+      visibility='public'/>
+    <ownedComment xmi:uuid='urn:uuid:05f51fcc-4b2f-45c4-85c0-7f0b4ded2aca'
+      body='&#xa;obtiene el tipo del evento&#xa;'/>
+    <upperValue xmi:type='uml:LiteralUnlimitedNatural' xmi:uuid='urn:uuid:e7368b24-c031-4da7-bca7-9806ed2ba4bc'
+      value='1'
+      visibility='public'/>
+   </ownedParameter>
+  </ownedOperation>
+  <ownedOperation xmi:uuid='urn:uuid:04613729-8b28-4a53-84b8-3d918d0438fe'
+    isAbstract='false'
+    isLeaf='false'
+    isQuery='false'
+    isStatic='false'
+    name='BluetoothPortEvent'
+    concurrency='sequential'
+    visibility='public'>
+   <ownedParameter xmi:uuid='urn:uuid:468fc983-a5e8-4dfb-a011-8c26c8e2ec10'
+     isException='false'
+     isOrdered='false'
+     isStream='false'
+     isUnique='true'
+     name='fuente'
+     direction='in'>
+    <type href='mof:/conexion:uml:NamedElement/ManejadorEntradaBluetooth:uml:Type'/>
+    <lowerValue xmi:type='uml:LiteralInteger' xmi:uuid='urn:uuid:d086b757-bf29-49f5-8871-4f5343d0c102'
+      value='1'
+      visibility='public'/>
+    <upperValue xmi:type='uml:LiteralUnlimitedNatural' xmi:uuid='urn:uuid:0d832aaa-fe46-49f6-a738-20f34c07a58e'
+      value='1'
+      visibility='public'/>
+   </ownedParameter>
+   <ownedParameter xmi:uuid='urn:uuid:ab7b8f0d-bd96-4049-9f49-19444ad20395'
+     isException='false'
+     isOrdered='false'
+     isStream='false'
+     isUnique='true'
+     name='tipo'
+     direction='in'>
+    <type href='mof:/int:uml:Type'/>
+    <lowerValue xmi:type='uml:LiteralInteger' xmi:uuid='urn:uuid:b4d6ea9e-dfc3-4c7b-9dfd-a8ff35bf728f'
+      value='1'
+      visibility='public'/>
+    <upperValue xmi:type='uml:LiteralUnlimitedNatural' xmi:uuid='urn:uuid:be8f65cf-dc33-4929-80ac-9eb6b6e7e408'
+      value='1'
+      visibility='public'/>
+   </ownedParameter>
+  </ownedOperation>
+ </uml:Class>
+</xmi:XMI>

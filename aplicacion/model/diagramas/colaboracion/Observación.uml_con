@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8' standalone='yes'?>
+<xmi:XMI xmi:version='2.1' xmlns:xmi='http://schema.omg.org/spec/XMI/2.1' xmlns:uml='http://schema.omg.org/spec/UML/2.1.1/uml.xml'>
+ <documentation exporter='Oracle JDeveloper' exporterVersion='11.1.1.2.0'/>
+ <uml:Constraint xmi:uuid='urn:uuid:245461ec-fd35-433b-afc9-41c8b558a7b6'
+   name='Observación'
+   visibility='public'>
+  <specification xmi:type='uml:OpaqueExpression' xmi:uuid='urn:uuid:75157e39-05c6-4788-99fd-b4c37ce9a69b'
+    visibility='public'>
+   <body>Diagrama de secuencia que muestra, la forma en que se hace una lectura desde la Interfaz. Todas las consultas son bloqueantes
+</body>
+  </specification>
+ </uml:Constraint>
+</xmi:XMI>

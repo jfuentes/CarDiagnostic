@@ -1,0 +1,2072 @@
+P0001|Circuito regulador del flujo de combustible /Abierto
+P0002|Rango del circuito regulador del flujo de combustible/ funcionando
+P0003|Circuito regulador del flujo de combustible / Bajo
+P0004|Circuito regulador del flujo de combustible / Alto
+P0005|Circuito de control Válvula de cierre del combustible "A" /Abierto
+P0006|Circuito de control Válvula de cierre del combustible "A" /Bajo
+P0007|Circuito de control Válvula de cierre del combustible "A" /Alto
+P0008|Sistema de posicionamiento de inyección /Funcionando
+P0009|Sistema de posicionamiento de inyección /Funcionando
+P0010|Circuito del actuador de posición A del árbol de levas (Banco 1)  
+P0011|Posición del árbol de levas A - Exceso de avance o desempeño del sistema(Banco1) 
+P0012|Posición del árbol de levas A - Exceso de retardo (Banco 1)  
+P0013|Circuito del actuador de posición B del árbol de levas (Banco 1)  
+P0014|Posición del árbol de levas B - Exceso de avance o desempeño del sistema(Banco1) 
+P0015|Posición del árbol de levas B - Exceso de retardo (Banco 1)  
+P0020|Circuito del actuador de posición A del árbol de levas (Banco 2)  
+P0021|Posición del árbol de levas A - Exceso de avance o desempeño del sistema(Banco2) 
+P0022|Posición del árbol de levas A - Exceso de retardo (Banco 2)  
+P0023|Circuito del actuador de posición B del árbol de levas (Banco 2)  
+P0024|Posición del árbol de levas B - Exceso de avance o desempeñodel sistema(Banco2) 
+P0025|Posición del árbol de levas B - Exceso de retardo (Banco 2)  
+P0030|Circuito de control del sensor de oxígeno (Banco 1 Sensor 1)  
+P0031|Circuito de control del sensor de oxígeno bajo (Banco 1 Sensor 1)
+P0032|Circuito de control del sensor de oxígeno alto (Banco 1 Sensor 1)
+P0033|Circuito de control de la válvula de bypass del turbocargador
+P0034|Circuito de control de la válvula de bypass del turbocargador bajo
+P0035|Circuito de control de la válvula de bypass del turbocargador alto
+P0036|Circuito de control del sensor de oxígeno (Banco 1 Sensor 2)
+P0037|Circuito de control del sensor de oxígeno bajo (Banco 1 Sensor 2)
+P0038|Circuito de control del sensor de oxígeno alto (Banco 1 Sensor 2)
+P0042|Circuito de control del sensor de oxígeno (Banco 1 Sensor 3)
+P0043|Circuito de control del sensor de oxígeno bajo (Banco 1 Sensor 3)
+P0044|Circuito de control del sensor de oxígeno alto (Banco 1 Sensor 3)
+P0050|Circuito de control del sensor de oxígeno (Banco 2 Sensor 1)
+P0051|Circuito de control del sensor de oxígeno bajo (Banco 2 Sensor 1)
+P0052|Circuito de control del sensor de oxígeno alto (Banco 2 Sensor 1)
+P0056|Circuito de control del sensor de oxígeno (Banco 2 Sensor 2)
+P0057|Circuito de control del sensor de oxígeno bajo (Banco 2 Sensor 2)
+P0058|Circuito de control del sensor de oxígeno alto (Banco 2 Sensor 2)
+P0062|Circuito de control del sensor de oxígeno (Banco 2 Sensor 3)
+P0063|Circuito de control del sensor de oxígeno bajo (Banco 2 Sensor 3)
+P0064|Circuito de control del sensor de oxígeno alto (Banco 2 Sensor 3)
+P0065|Rango/desempeño del control del inyección con auxilio de aire
+P0066|Circuito de control de inyección con auxilio de aire o circuito bajo
+P0067|Circuito de control de inyección con auxilio de aire alto
+P0070|Circuito del sensor de temperatura del aire ambiente
+P0071|Rango/desempeño del sensor de temperatura del aire ambiente
+P0072|Circuito del sensor de temperatura del aire ambiente entrada baja
+P0073|Circuito del sensor de temperatura del aire ambiente entrada alta
+P0074|Circuito del sensor de temperatura del aire ambiente intermitente
+P0075|Circuito del solenoide de control de la válvula de admisión (Banco 1)
+P0076|Circuito del solenoide de control de la válvula de admisión bajo (Banco1)
+P0077|Circuito del solenoide de control de la válvula de admisión alto (Banco1)
+P0078|Circuito del solenoide de control de la válvula de escape (Banco 1)
+P0079|Circuito del solenoide de control de la válvula de escape bajo (Banco 1) 
+P0080|Circuito del solenoide de control de la válvula de escape alto (Banco 1) 
+P0081|Circuito del solenoide de control de la válvula de admisión (Banco 2) 
+P0082|Circuito del solenoide de control de la válvula de admisión bajo (Banco2)
+P0083|Circuito del solenoide de control de la válvula de admisión alto (Banco2)
+P0084|Circuito del solenoide de control de la válvula de escape (Banco 2) 
+P0085|Circuito del solenoide de control de la válvula de escape bajo (Banco 2) 
+P0086|Circuito del solenoide de control de la válvula de escape alto (Banco 2) 
+P0100|Mal funcionamiento en el circuito de caudal de masa o volumétrico de aire 
+P0101|Problema de rango/operación en el circuito de caudal de masa o volumétrico
+P0102|Baja entrada en el circuito de caudal másico o volumétrico 
+P0103|Alta entrada en el circuito de caudal másico o volumétrico 
+P0104|Intermitente en el circuito de caudal másico o volumétrico 
+P0105|Mal funcionamiento del circuito de presión absoluta de múltiple de admisión/presión barométrica
+P0106|Problema de rango/operación del circuito de presión absoluta de múltiplede admisión/presión barométrica
+P0107|Entrada baja en el circuito de presión absoluta de múltiple de admisión/presiónbarométrica
+P0108|Entrada alta en el circuito de presión absoluta de múltiple de admisión/presiónbarométrica
+P0109|Intermitente en el circuito de presión absoluta de múltiple de admisión/presiónbarométrica
+P0110|Mal funcionamiento en el circuito de temperatura del aire de admisión 
+P0111|Problema de rango/operación en el circuito de temperatura del aire de admisión
+P0112|Entrada baja en el circuito de temperatura del aire de admisión
+P0113|Entrada alta en el circuito de temperatura del aire de admisión
+P0114|Intermitente en el circuito de temperatura del aire de admisión
+P0115|Mal funcionamiento en el circuito de temperatura del refrigerante del motor
+P0116|Problema de rango/operación en el circuito de temperatura del refrigerante del motor
+P0117|Entrada baja en el circuito de temperatura del refrigerante del motor
+P0118|Entrada alta en el circuito de temperatura del refrigerante del motor
+P0119|Intermitente en el circuito de temperatura del refrigerante del motor
+P0120|Mal funcionamiento en el circuito del sensor de posición del acelerador/pedal/interruptor A
+P0121|Problema de rango/operación en el circuito del sensor de posición del acelerador/pedal/interruptor A
+P0122|Entrada baja en el circuito del sensor de posición del acelerador/pedal/ interruptor A
+P0123|Entrada alta en el circuito del sensor de posición del acelerador/pedal/ interruptor A
+P0124|Intermitente en el circuito del sensor de posición del acelerador/pedal/ interruptor A
+P0125|Temperatura del refrigerante del motor insuficiente para control de combustible a lazo cerrado
+P0126|Temperatura del refrigerante del motor insuficiente para operación estable 
+P0127|Temperatura del aire de admisión demasiado alta
+P0128|Termostato del refrigerante del motor (temperatura del refrigerante inferior a la temperatura de regulación del termostato)
+P0129|Barometric Pressure Too Low
+P0130|Mal funcionamiento en el circuito del sensor de O2 (Banco 1 Sensor 1)
+P0131|Bajo voltaje en el circuito del sensor de O2 (Banco 1 Sensor 1
+P0132|Alto voltaje en el circuito del sensor de O2 (Banco 1 Sensor 1)
+P0133|Respuesta lenta en el circuito del sensor de O2 (Banco 1 Sensor 1)
+P0134|No se detecta actividad en el circuito del sensor de O2 (Banco 1 Sensor 1)
+P0135|Mal funcionamiento en el circuito del calefactor del sensor de O2 (Banco 1 Sens  or 1)
+P0136|Mal funcionamiento en el circuito del sensor de O2 (Banco 1 Sensor 2) 
+P0137|Bajo voltaje en el circuito del sensor de O2 (Banco 1 Sensor 2) 
+P0138|Alto voltaje en el circuito del sensor de O2 (Banco 1 Sensor 2) 
+P0139|Respuesta lenta en el circuito del sensor de O2 (Banco 1 Sensor 2)
+P0140|No se detecta actividad en el circuito del sensor de O2 (Banco 1 Sensor  2)
+P0141|Mal funcionamiento en el circuito del calefactor del sensor de O2 (Banco  1 Sensor 2)
+P0142|Mal funcionamiento en el circuito del sensor de O2 (Banco 1 Sensor 3)
+P0143|Bajo voltaje en el circuito del sensor de O2 (Banco 1 Sensor 3)
+P0144|Alto voltaje en el circuito del sensor de O2 (Banco 1 Sensor 3)
+P0145|Respuesta lenta en el circuito del sensor de O2 (Banco 1 Sensor 3)
+P0146|No se detecta actividad en el circuito del sensor de O2 (Banco 1 Sensor 3)
+P0147|Mal funcionamiento en el circuito del calefactor del sensor de O2 (Banco  1 Sensor 3)
+P0148|Error de caudal de combustible
+P0149|Error de sincronización del combustible
+P0150|Mal funcionamiento en el circuito del sensor de O2 (Banco 2 Sensor 1)
+P0151|Bajo voltaje en el circuito del sensor de O2 (Banco 2 Sensor 1)
+P0152|Alto voltaje en el circuito del sensor de O2 (Banco 2 Sensor 1)
+P0153|Respuesta lenta en el circuito del sensor de O2 (Banco 2 Sensor 1)
+P0154|No se detecta actividad en el circuito del sensor de O2 (Banco 2 Sensor 1)
+P0155|Mal funcionamiento en el circuito del calefactor del sensor de O2 (Banco 2 Sensor 1)
+P0156|Mal funcionamiento en el circuito del sensor de O2 (Banco 2 Sensor 2)
+P0157|Bajo voltaje en el circuito del sensor de O2 (Banco 2 Sensor 2) 
+P0158|Alto voltaje en el circuito del sensor de O2 (Banco 2 Sensor 2) 
+P0159|Respuesta lenta en el circuito del sensor de O2 (Banco 2 Sensor 2)
+P0160|No se detecta actividad en el circuito del sensor de O2 (Banco 2 Sensor  2)
+P0161|Mal funcionamiento en el circuito del calefactor del sensor de O2 (Banco 2 Sensor 2)
+P0162|Mal funcionamiento en el circuito del sensor de O2 (Banco 2 Sensor 3)
+P0163|Bajo voltaje en el circuito del sensor de O2 (Banco 2 Sensor 3)
+P0164|Alto voltaje en el circuito del sensor de O2 (Banco 2 Sensor 3)
+P0165|Respuesta lenta en el circuito del sensor de O2 (Banco 2 Sensor 3)
+P0166|No se detecta actividad en el circuito del sensor de O2 (Banco 2 Sensor  3)
+P0167|Mal funcionamiento en el circuito del calefactor del sensor de O2 (Banco  2 Sensor 3)
+P0168|Temperatura del combustible demasiado alta
+P0169|Composición incorrecta del combustible 
+P0170|Mal funcionamiento en el ajuste de combustible (Banco 1)
+P0171|Sistema demasiado pobre (Banco 1)
+P0172|Sistema demasiado rico (Banco 1)
+P0173|Mal funcionamiento en el ajuste de combustible (Banco 2)
+P0174|Sistema demasiado pobre (Banco 2)
+P0175|Sistema demasiado rico (Banco 2)
+P0176|Mal funcionamiento en el circuito del sensor de composición del combustible
+P0177|Problema de rango/operación en el circuito del sensor de composición del combustible
+P0178|Entrada baja en el circuito del sensor de composición del combustible
+P0179|Entrada alta en el circuito del sensor de composición del combustible
+P0180|Mal funcionamiento en el circuito del sensor A de temperatura del combustible
+P0181|Problema de rango/operación en el circuito del sensor A de temperatura del combustible
+P0182|Entrada baja en el circuito del sensor A de temperatura del combustible 
+P0183|Entrada alta en el circuito del sensor A de temperatura del combustible 
+P0184|Intermitente en el circuito del sensor A de temperatura del combustible
+P0185|Mal funcionamiento en el circuito del sensor B de temperatura del combustible
+P0186|Problema de rango/operación en el circuito del sensor B de temperatura del combustible
+P0187|Entrada baja en el circuito del sensor B de temperatura del combustible
+P0188|Entrada alta en el circuito del sensor B de temperatura del combustible
+P0189|Intermitente en el circuito del sensor B de temperatura del combustible
+P0190|Mal funcionamiento en el circuito del sensor de presión en el riel de combustible
+P0191|Problema de rango/operación en el circuito del sensor de presión en el riel decombustible
+P0192|Entrada baja en el circuito del sensor de presión en el riel de combustible
+P0193|Entrada alta en el circuito del sensor de presión en el riel de combustible
+P0194|Intermitente en el circuito del sensor de presión en el riel de combustible
+P0195|Mal funcionamiento en el sensor de temperatura del aceite del motor
+P0196|Problema de rango/operación en el sensor de temperatura del aceite del motor
+P0197|Entrada baja en el sensor de temperatura del aceite del motor
+P0198|Entrada alta en el sensor de temperatura del aceite del motor
+P0199|Intermitente en el sensor de temperatura del aceite del motor
+P0200|Mal funcionamiento en circuito de inyector
+P0201|Mal funcionamiento en circuito de inyector - Cilindro 1
+P0202|Mal funcionamiento en circuito de inyector - Cilindro 2
+P0203|Mal funcionamiento en circuito de inyector - Cilindro 3
+P0204|Mal funcionamiento en circuito de inyector - Cilindro 4
+P0205|Mal funcionamiento en circuito de inyector - Cilindro 5
+P0206|Mal funcionamiento en circuito de inyector - Cilindro 6
+P0207|Mal funcionamiento en circuito de inyector - Cilindro 7
+P0208|Mal funcionamiento en circuito de inyector - Cilindro 8
+P0209|Mal funcionamiento en circuito de inyector - Cilindro 9
+P0210|Mal funcionamiento en circuito de inyector - Cilindro 10
+P0211|Mal funcionamiento en circuito de inyector - Cilindro 11
+P0212|Mal funcionamiento en circuito de inyector - Cilindro 12
+P0213|Mal funcionamiento en inyector 1 de arranque frío
+P0214|Mal funcionamiento en inyector 2 de arranque frío
+P0215|Mal funcionamiento en solenoide de paro del motor
+P0216|Mal funcionamiento en el circuito de control sincronización de la inyección
+P0217|Exceso de temperatura en el motor
+P0218|Exceso de temperatura en la transmisión
+P0219|Exceso de velocidad en el motor
+P0220|Mal funcionamiento en el circuito del sensor de posición del acelerador/pedal/interruptor B
+P0221|Problema de rango/operación en el circuito del sensor de posición del acelerador/pedal/interruptor B
+P0222|Entrada baja en el circuito del sensor de posición del acelerador/pedal/interruptor B
+P0223|Entrada alta en el circuito del sensor de posición del acelerador/pedal/interruptor B
+P0224|Intermitente en el circuito del sensor de posición del acelerador/pedal/interruptor B
+P0225|Mal funcionamiento en el circuito del sensor de posición del acelerador/pedal/interruptor C
+P0226|Problema de rango/operación en el circuito del sensor de posición del acelerador/pedal/interruptor C
+P0227|Entrada baja en el circuito del sensor de posición del acelerador/pedal/interruptor C
+P0228|Entrada alta en el circuito del sensor de posición del acelerador/pedal/interruptor C
+P0229|Intermitente en el circuito del sensor de posición del acelerador/pedal/interruptor C
+P0230|Mal funcionamiento del circuito primario de la bomba de combustible
+P0231|Circuito secundario de la bomba de combustible bajo
+P0232|Circuito secundario de la bomba de combustible alto
+P0233|Intermitente en circuito secundario de la bomba de combustible
+P0234|Exceso de presión en el múltiple de admisión
+P0235|Mal funcionamiento en el circuito del sensor A de presión del turbocargador
+P0236|Problema de rango/operación en el circuito del sensor A de presión del turbocargador
+P0237|Circuito del sensor A de presión del turbocargador bajo
+P0238|Circuito del sensor A de presión del turbocargador alto
+P0239|Mal funcionamiento en el circuito del sensor B de presión del turbocargador
+P0240|Problema de rango/operación en el circuito del sensor B de presión del turbocargador
+P0241|Circuito del sensor B de presión del turbocargador bajo
+P0242|Circuito del sensor B de presión del turbocargador alto
+P0243|Mal funcionamiento en solenoide A de compuerta de alivio del turbocargador
+P0244|Problema de rango/operación en solenoide A de compuerta de alivio del turbocargador
+P0245|Solenoide A de compuerta de alivio del turbocargador bajo
+P0246|Solenoide A de compuerta de alivio del turbocargador alto
+P0247|Mal funcionamiento en solenoide B de compuerta de alivio del turbocargador
+P0248|Problema de rango/operación en solenoide B de compuerta de alivio del turbocargador
+P0249|Solenoide B de compuerta de alivio del turbocargador bajo
+P0250|Solenoide B de compuerta de alivio del turbocargador alto
+P0251|Mal funcionamiento en rotor/leva de la bomba de inyección A
+P0252|Problema de rango/operación en rotor/leva de la bomba de inyección A
+P0253|Rotor/leva de la bomba de inyección A bajo
+P0254|Rotor/leva de la bomba de inyección A alto
+P0255|Intermitente en rotor/leva de la bomba de inyección A
+P0256|Mal funcionamiento en rotor/leva de la bomba de inyección B
+P0257|Problema de rango/operación en rotor/leva de la bomba de inyección B
+P0258|Rotor/leva de la bomba de inyección B bajo
+P0259|Rotor/leva de la bomba de inyección B alto
+P0260|Intermitente en rotor/leva de la bomba de inyección B
+P0261|Circuito del inyector del cilindro 1 bajo
+P0262|Circuito del inyector del cilindro 1 alto
+P0263|Falla en contribución/balance del cilindro 1
+P0264|Circuito del inyector del cilindro 2 bajo
+P0265|Circuito del inyector del cilindro 2 alto
+P0266|Falla en contribución/balance del cilindro 2
+P0267|Circuito del inyector del cilindro 3 bajo
+P0268|Circuito del inyector del cilindro 3 alto
+P0269|Falla en contribución/balance del cilindro 3
+P0270|Circuito del inyector del cilindro 4 bajo
+P0271|Circuito del inyector del cilindro 4 alto
+P0272|Falla en contribución/balance del cilindro 4
+P0273|Circuito del inyector del cilindro 5 bajo
+P0274|Circuito del inyector del cilindro 5 alto
+P0275|Falla en contribución/balance del cilindro 5
+P0276|Circuito del inyector del cilindro 6 bajo
+P0277|Circuito del inyector del cilindro 6 alto
+P0278|Falla en contribución/balance del cilindro 6
+P0279|Circuito del inyector del cilindro 7 bajo
+P0280|Circuito del inyector del cilindro 7 alto
+P0281|Falla en contribución/balance del cilindro 7
+P0282|Circuito del inyector del cilindro 8 bajo
+P0283|Circuito del inyector del cilindro 8 alto
+P0284|Falla en contribución/balance del cilindro 8
+P0285|Circuito del inyector del cilindro 9 bajo
+P0286|Circuito del inyector del cilindro 9 alto
+P0287|Falla en contribución/balance del cilindro 9
+P0288|Circuito del inyector del cilindro 10 bajo
+P0289|Circuito del inyector del cilindro 10 alto
+P0290|Falla en contribución/balance del cilindro 10
+P0291|Circuito del inyector del cilindro 11 bajo
+P0292|Circuito del inyector del cilindro 11 alto
+P0293|Falla en contribución/balance del cilindro 11
+P0294|Circuito del inyector del cilindro 12 bajo
+P0295|Circuito del inyector del cilindro 12 alto
+P0296|Falla en contribución/balance del cilindro 12
+P0297|Vehicle Overspeed Condition
+P0298|Exceso de temperatura del aceite del motor
+P0300|Mala combustión detectada general/cilindros múltiples
+P0301|Mala combustión detectada en cilindro 1
+P0302|Mala combustión detectada en cilindro 2
+P0303|Mala combustión detectada en cilindro 3
+P0304|Mala combustión detectada en cilindro 4
+P0305|Mala combustión detectada en cilindro 5
+P0306|Mala combustión detectada en cilindro 6
+P0307|Mala combustión detectada en cilindro 7
+P0308|Mala combustión detectada en cilindro 8
+P0309|Mala combustión detectada en cilindro 9
+P0310|Mala combustión detectada en cilindro 10
+P0311|Mala combustión detectada en cilindro 11
+P0312|Mala combustión detectada en cilindro 12
+P0313|Mala combustión detectada con bajo combustible
+P0314|Mala combustión en un solo cilindro (no se especifica el cilindro)
+P0315|Crankshaft Position System Variation Not Learned
+P0316|Engine Misfire Detected on Startup (First 1000 Revolutions)
+P0317|Rough Road Hardware Not Present
+P0318|Rough Road Sensor "A" Signal Circuit
+P0319|Rough Road Sensor "B"
+P0320|Mal funcionamiento en circuito de entrada de encendido/distribuidor velocidad del motor
+P0321|Problema de rango/operación en circuito de entrada de encendido/distribuidor velocidad del motor
+P0322|No hay señal en circuito de entrada de encendido/distribuidor velocidaddel motor
+P0323|Intermitente en circuito de entrada de encendido/distribuidor velocidaddel motor
+P0324|Error en sistema de control de detonación
+P0325|Mal funcionamiento en circuito de sensor 1 de detonación (Banco 1 o un solo sensor)
+P0326|Problema de rango/operación en circuito de sensor 1 de detonación (Banco1 o unsolo sensor)
+P0327|Entrada baja en circuito de sensor 1 de detonación (Banco 1 o un solo sensor)
+P0328|Entrada alta en circuito de sensor 1 de detonación (Banco 1 o un solo sensor)
+P0329|Intermitente en circuito de sensor 1 de detonación (Banco 1 o un solo sensor)
+P0330|Mal funcionamiento en circuito de sensor 2 de detonación (Banco 2)
+P0331|Problema de rango/operación en circuito de sensor 2 de detonación (Banco2)
+P0332|Entrada baja en circuito de sensor 2 de detonación (Banco 2)
+P0333|Entrada alta en circuito de sensor 2 de detonación (Banco 2)
+P0334|Intermitente en circuito de sensor 2 de detonación (Banco 2)
+P0335|Mal funcionamiento en circuito del sensor A de posición del cigüeñal
+P0336|Problema de rango/operación en circuito del sensor A de posición del cigüeñal
+P0337|Entrada baja en circuito del sensor A de posición del cigüeñal
+P0338|Entrada alta en circuito del sensor A de posición del cigüeñal
+P0339|Intermitente en circuito del sensor A de posición del cigüeñal
+P0340|Mal funcionamiento en circuito del sensor de posición del árbol de levas
+P0341|Problema de rango/operación en circuito del sensor de posición del árbolde levas
+P0342|Entrada baja en circuito del sensor de posición del árbol de levas
+P0343|Entrada alta en circuito del sensor de posición del árbol de levas
+P0344|Intermitente en circuito del sensor de posición del árbol de levas
+P0345|Circuito del sensor de posición A del árbol de levas (Banco 2)
+P0346|Rango/desempeño del circuito del sensor de posición A del árbol de levas(Banco2)
+P0347|Circuito del sensor de posición A del árbol de levas entrada baja (Banco2)
+P0348|Circuito del sensor de posición A del árbol de levas entrada alta (Banco2)
+P0349|Circuito del sensor de posición A del árbol de levas intermitente (Banco2)
+P0350|Mal funcionamiento en circuito primario/secundario de bobina de encendido
+P0351|Mal funcionamiento en circuito primario/secundario de bobina de encendido A
+P0352|Mal funcionamiento en circuito primario/secundario de bobina de encendido B
+P0353|Mal funcionamiento en circuito primario/secundario de bobina de encendido C
+P0354|Mal funcionamiento en circuito primario/secundario de bobina de encendido D
+P0355|Mal funcionamiento en circuito primario/secundario de bobina de encendido E
+P0356|Mal funcionamiento en circuito primario/secundario de bobina de encendido F
+P0357|Mal funcionamiento en circuito primario/secundario de bobina de encendido G
+P0358|Mal funcionamiento en circuito primario/secundario de bobina de encendido H
+P0359|Mal funcionamiento en circuito primario/secundario de bobina de encendido I
+P0360|Mal funcionamiento en circuito primario/secundario de bobina de encendido J
+P0361|Mal funcionamiento en circuito primario/secundario de bobina de encendido K
+P0362|Mal funcionamiento en circuito primario/secundario de bobina de encendido L
+P0363|Misfire Detected - Fueling Disabled
+P0364|Reserved
+P0365|Circuito del sensor de posición B del árbol de levas (Banco 1)
+P0366|Rango/desempeño del circuito del sensor de posición B del árbol de levas(Banco1)
+P0367|Circuito del sensor de posición B del árbol de levas entrada baja (Banco1)
+P0368|Circuito del sensor de posición B del árbol de levas entrada alta (Banco1)
+P0369|Circuito del sensor de posición B del árbol de levas intermitente (Banco1)
+P0370|Mal funcionamiento en señal A de alta resolución de referencia de sincronización
+P0371|Señal A de alta resolución de referencia de sincronización exceso de pulsos
+P0372|Señal A de alta resolución de referencia de sincronización defecto de pulsos
+P0373|Señal A de alta resolución de referencia de sincronización intermitente/pulsoserráticos
+P0374|Señal A de alta resolución de referencia de sincronización no hay pulsos
+P0375|Mal funcionamiento en señal B de alta resolución de referencia de sincronización
+P0376|Señal B de alta resolución de referencia de sincronización exceso de pulsos
+P0377|Señal B de alta resolución de referencia de sincronización defecto de pulsos
+P0378|Señal B de alta resolución de referencia de sincronización intermitente/pulsoserráticos
+P0379|Señal B de alta resolución de referencia de sincronización no hay pulsos
+P0380|Mal funcionamiento en bujía calefactora/circuito de calefactor
+P0381|Mal funcionamiento en circuito indicador bujía calefactora/calefactor
+P0382|Mal funcionamiento en bujía calefactora/circuito de calefactor B
+P0383|Reserved by SAE J2012
+P0384|Reserved by SAE J2012
+P0385|Mal funcionamiento en circuito del sensor B de posición del cigüeñal
+P0386|Problema de rango/operación en circuito del sensor B de posición del cigüeñal
+P0387|Entrada baja en circuito del sensor B de posición del cigüeñal
+P0388|Entrada alta en circuito del sensor B de posición del cigüeñal
+P0389|Intermitente en circuito del sensor B de posición del cigüeñal
+P0390|Circuito del sensor de posición B del árbol de levas (Banco 2)
+P0391|Rango/desempeño del circuito del sensor de posición B del árbol de levas(Banco2)
+P0392|Circuito del sensor de posición B del árbol de levas entrada baja (Banco2)
+P0393|Circuito del sensor de posición B del árbol de levas entrada alta (Banco2)
+P0394|Circuito del sensor de posición B del árbol de levas intermitente (Banco2)
+P0400|Mal funcionamiento en caudal de recirculación de gases de escape
+P0401|Insuficiente caudal de recirculación de gases de escape detectado
+P0402|Exceso de caudal de recirculación de gases de escape detectado
+P0403|Mal funcionamiento en circuito de recirculación de gases de escape
+P0404|Problema de rango/operación en circuito de recirculación de gases de escape
+P0405|Circuito del sensor A de recirculación de gases de escape bajo
+P0406|Circuito del sensor A de recirculación de gases de escape alto
+P0407|Circuito del sensor B de recirculación de gases de escape bajo
+P0408|Circuito del sensor B de recirculación de gases de escape alto
+P0409|Circuito del sensor A de recirculación de gases de escape
+P0410|Mal funcionamiento en sistema de inyección de aire secundario
+P0411|Sistema de inyección de aire secundario caudal incorrecto detectado
+P0412|Mal funcionamiento en circuito de válvula de cambio A del sistema de inyecciónde aire secundario
+P0413|Circuito de válvula de cambio A del sistema de inyección de aire secundario abierto
+P0414|Circuito de válvula de cambio A del sistema de inyección de aire secundario encorto circuito
+P0415|Mal funcionamiento en circuito de válvula de cambio B del sistema de inyecciónde aire secundario
+P0416|Circuito de válvula de cambio B del sistema de inyección de aire secundario abierto
+P0417|Circuito de válvula de cambio B del sistema de inyección de aire secundario encorto circuito
+P0418|Mal funcionamiento en circuito de relevador A del sistema de inyección de airesecundario
+P0419|Mal funcionamiento en circuito de relevador B del sistema de inyección de airesecundario
+P0420|Eficiencia del sistema de catalizador inferior al umbral (Banco 1)
+P0421|Eficiencia del catalizador de calentamiento inferior al umbral (Banco 1)
+P0422|Eficiencia del catalizador principal inferior al umbral (Banco 1)
+P0423|Eficiencia del catalizador con calefactor inferior al umbral (Banco 1)
+P0424|Temperatura del catalizador con calefactor inferior al umbral (Banco 1)
+P0425|Sensor de temperatura del catalizador (Banco 1)
+P0426|Rango/desempeño del sensor de temperatura del catalizador (Banco 1)
+P0427|Sensor de temperatura del catalizador entrada baja (Banco 1)
+P0428|Sensor de temperatura del catalizador entrada alta (Banco 1)
+P0429|Circuito de control del calefactor del catalizador (Banco 1)
+P0430|Eficiencia del sistema de catalizador inferior al umbral (Banco 2)
+P0431|Eficiencia del catalizador de calentamiento inferior al umbral (Banco 2)
+P0432|Eficiencia del catalizador principal inferior al umbral (Banco 2)
+P0433|Eficiencia del catalizador con calefactor inferior al umbral (Banco 2)
+P0434|Temperatura del catalizador con calefactor inferior al umbral (Banco 2)
+P0435|Sensor de temperatura del catalizador (Banco 2)
+P0436|Rango/desempeño del sensor de temperatura del catalizador (Banco 2)
+P0437|Sensor de temperatura del catalizador entrada baja (Banco 2)
+P0438|Sensor de temperatura del catalizador entrada alta (Banco 2)
+P0439|Circuito de control del calefactor del catalizador (Banco 2)
+P0440|Mal funcionamiento en sistema de control de emisión de evaporación de combustible a la atmósfera
+P0441|Sistema de control de emisión de evaporación de combustible a la atmósfe"ra; cau"dal de purga incorrecto
+P0442|Fuga pequeña detectada en sistema de control de emisión de evaporación de combustible a la atmósfera
+P0443|Mal funcionamiento en circuito de la válvula de control del sistema de emisiónde evaporación de combustible a la atmósfera
+P0444|Circuito de la válvula de control del sistema de emisión de evaporaciónde combustible a la atmósfera abierto
+P0445|Circuito de la válvula de control del sistema de emisión de evaporaciónde combustible a la atmósfera en corto circuito
+P0446|Mal funcionamiento en circuito de la válvula de alivio del sistema de emisión de evaporación de combustible a la atmósfera
+P0447|Circuito de la válvula de alivio del sistema de emisión de evaporación de combustible a la atmósfera abierto
+P0448|Circuito de la válvula de alivio del sistema de emisión de evaporación de combustible a la atmósfera en corto circuito
+P0449|Mal funcionamiento en circuito del solenoide/válvula de alivio del sistema de emisión de evaporación de combustible a la atmósfera
+P0450|Mal funcionamiento en sensor de presión del sistema de control de emisión de evaporación de combustible a la atmósfera
+P0451|Problema de rango/operación en sensor de presión del sistema de controlde emisión de evaporación de combustible a la atmósfera
+P0452|Entrada baja en sensor de presión del sistema de control de emisión de evaporación de combustible a la atmósfera
+P0453|Entrada alta en sensor de presión del sistema de control de emisión de evaporación de combustible a la atmósfera
+P0454|Intermitente en sensor de presión del sistema de control de emisión de evaporación de combustible a la atmósfera
+P0455|Fuga grande detectada en sistema de control de emisión de evaporación decombustible a la atmósfera
+P0456|Fuga detectada en sistema de control de contaminación por evaporación (fuga muypequeña)
+P0457|Fuga detectada en sistema de control de contaminación por evaporación (tapa deldepósito de combustible suelta/faltante)
+P0458|Evaporative Emission System Purge Control Valve Circuit Low
+P0459|Evaporative Emission System Purge Control Valve Circuit High
+P0460|Mal funcionamiento en circuito del sensor de nivel de combustible
+P0461|Problema de rango/operación en circuito del sensor de nivel de combustible
+P0462|Entrada baja en circuito del sensor de nivel de combustible
+P0463|Entrada alta en circuito del sensor de nivel de combustible
+P0464|Intermitente en circuito del sensor de nivel de combustible
+P0465|Mal funcionamiento en circuito del sensor de caudal de purga
+P0466|Problema de rango/operación en circuito del sensor de caudal de purga
+P0467|Entrada baja en circuito del sensor de caudal de purga
+P0468|Entrada alta en circuito del sensor de caudal de purga
+P0469|Intermitente en circuito del sensor de caudal de purga
+P0470|Mal funcionamiento en sensor de presión de escape
+P0471|Problema de rango/operación en sensor de presión de escape
+P0472|Entrada baja en sensor de presión de escape
+P0473|Entrada alta en sensor de presión de escape
+P0474|Intermitente en sensor de presión de escape
+P0475|Mal funcionamiento en válvula de control de presión de escape
+P0476|Problema de rango/operación en válvula de control de presión de escape
+P0477|Entrada baja en válvula de control de presión de escape
+P0478|Entrada alta en válvula de control de presión de escape
+P0479|Intermitente en válvula de control de presión de escape
+P0480|Mal funcionamiento en circuito de control de ventilador de enfriamiento1
+P0481|Mal funcionamiento en circuito de control de ventilador de enfriamiento2
+P0482|Mal funcionamiento en circuito de control de ventilador de enfriamiento3
+P0483|Mal funcionamiento de razonabilidad en verificación del ventilador de enfriamiento
+P0484|Exceso de corriente en circuito del ventilador de enfriamiento
+P0485|Mal funcionamiento en circuito de alimentación/tierra del ventilador deenfriamiento
+P0486|Circuito del sensor B de recirculación de gases de escape
+P0487|Circuito de control de posición de mariposa de admisión de recirculaciónde gases de escape
+P0488|Rango/desempeño del circuito de control de posición de mariposa de admisión derecirculación de gases de escape
+P0489|Exhaust Gas Recirculation Control Circuit Low
+P0490|Exhaust Gas Recirculation Control Circuit High
+P0491|Sistema de inyección de aire secundario (Banco 1)
+P0492|Sistema de inyección de aire secundario (Banco 2)
+P0493|Fan Overspeed
+P0494|Fan Speed Low
+P0495|Fan Speed High
+P0496|Evaporative Emission System High Purge Flow
+P0497|Evaporative Emission System Low Purge Flow
+P0498|Evaporative Emission System Vent Valve Control Circuit Low
+P0499|Evaporative Emission System Vent Valve Control Circuit High
+P0500|Mal funcionamiento en sensor de velocidad del vehículo
+P0501|Problema de rango/operación en sensor de velocidad del vehículo
+P0502|Entrada baja en circuito del sensor de velocidad del vehículo
+P0503|Sensor de velocidad del vehículo intermitente/errático/alto
+P0504|Brake Switch "A"/"B" Correlation
+P0505|Mal funcionamiento en sistema de control de velocidad a marcha lenta delmotor
+P0506|RPM de velocidad a marcha lenta del motor inferior a lo esperado
+P0507|RPM de velocidad a marcha lenta del motor superior a lo esperado
+P0508|Circuito de control de velocidad mínima del motor bajo
+P0509|Circuito de control de velocidad mínima del motor alto
+P0510|Mal funcionamiento en interruptor de mariposa de admisión en posición cerrada
+P0511|Idle Air Control Circuit
+P0512|Circuito de solicitud de motor de arranque
+P0513|"Llave del inmovilizador incorrecta (""inmovilizador"" pendiente de aprobación por SAE J1930)
+P0514|Battery Temperature Sensor Circuit Range/Performance
+P0515|Circuito del sensor de temperatura de la batería
+P0516|Circuito del sensor de temperatura de la batería bajo
+P0517|Circuito del sensor de temperatura de la batería alto
+P0518|Idle Air Control Circuit Intermittent
+P0519|Idle Air Control System Performance
+P0520|Mal funcionamiento en circuito de presión/interruptor de presión de aceite delmotor
+P0521|Problema de rango/operación en circuito de presión/interruptor de presión de aceite del motor
+P0522|Bajo voltaje en circuito de presión/interruptor de presión de aceite delmotor
+P0523|Alto voltaje en circuito de presión/interruptor de presión de aceite delmotor
+P0524|Presión de aceite del motor demasiado baja
+P0525|Cruise Control Servo Control Circuit Range/Performance
+P0526|Fan Speed Sensor Circuit
+P0527|Fan Speed Sensor Circuit Range/Performance
+P0528|Fan Speed Sensor Circuit No Signal
+P0529|Fan Speed Sensor Circuit Intermittent
+P0530|Mal funcionamiento en circuito del sensor de presión del refrigerante deA/C
+P0531|Problema de rango/operación en circuito del sensor de presión del refrigerantede A/C
+P0532|Entrada baja en circuito del sensor de presión del refrigerante de A/C
+P0533|Entrada alta en circuito del sensor de presión del refrigerante de A/C
+P0534|Pérdida de la carga de refrigerante del A/C
+P0535|A/C Evaporator Temperature Sensor Circuit
+P0536|A/C Evaporator Temperature Sensor Circuit Range/Performance
+P0537|A/C Evaporator Temperature Sensor Circuit Low
+P0538|A/C Evaporator Temperature Sensor Circuit High
+P0539|A/C Evaporator Temperature Sensor Circuit Intermittent
+P0540|Circuito de calefacción del aire de admisión
+P0541|Circuito de calefacción del aire de admisión bajo
+P0542|Circuito de calefacción del aire de admisión alto
+P0544|Circuito del sensor de temperatura del gas de escape (Banco 1)
+P0545|Circuito del sensor de temperatura del gas de escape bajo (Banco 1)
+P0546|Circuito del sensor de temperatura del gas de escape alto (Banco 1)
+P0547|Circuito del sensor de temperatura del gas de escape (Banco 2)
+P0548|Circuito del sensor de temperatura del gas de escape bajo (Banco 2)
+P0549|Circuito del sensor de temperatura del gas de escape alto (Banco 2)
+P0550|Mal funcionamiento en circuito del sensor de presión de la dirección hidráulica
+P0551|Problema de rango/operación en circuito del sensor de presión de la dirección hidráulica
+P0552|Entrada baja en circuito del sensor de presión de la dirección hidráulica
+P0553|Entrada alta en circuito del sensor de presión de la dirección hidráulica
+P0554|Intermitente en circuito del sensor de presión de la dirección hidráulica
+P0555|Brake Booster Pressure Sensor Circuit
+P0556|Brake Booster Pressure Sensor Circuit Range/Performance
+P0557|Brake Booster Pressure Sensor Circuit Low Input
+P0558|Brake Booster Pressure Sensor Circuit High Input
+P0559|Brake Booster Pressure Sensor Circuit Intermittent
+P0560|Mal funcionamiento de voltaje en el sistema
+P0561|Voltaje inestable en el sistema
+P0562|Voltaje bajo en el sistema
+P0563|Voltaje alto en el sistema
+P0564|Señal de entrada multifunción del sistema de control de velocidad de crucero
+P0565|"Mal funcionamiento en señal ""ON"" del control de velocidad de crucero"
+P0566|"Mal funcionamiento en señal ""OFF"" del control de velocidad de crucero"
+P0567|"Mal funcionamiento en señal ""reanudar"" del control de velocidad de cruce"ro
+P0568|"Mal funcionamiento en señal ""fijar velocidad"" del control de velocidad d"e crucero
+P0569|"Mal funcionamiento en señal ""dejar correr sin potencia"" (coast) del cont"rol develocidad de crucero
+P0570|"Mal funcionamiento en señal ""acelerar"" del control de velocidad de cruce"ro
+P0571|Mal funcionamiento en control de velocidad de crucero/interruptor de freno A
+P0572|Circuito bajo en control de velocidad de crucero/interruptor de freno A
+P0573|Circuito alto en control de velocidad de crucero/interruptor de freno A
+P0574|Sistema de control de velocidad de crucero - Velocidad del vehículo excesiva
+P0575|Circuito de entrada del control de velocidad de crucero
+P0576|Circuito de entrada del control de velocidad de crucero bajo
+P0577|Circuito de entrada del control de velocidad de crucero alto
+P0578|Reservados para códigos del sistema de control de velocidad de crucero
+P0579|Reservados para códigos del sistema de control de velocidad de crucero
+P0580|Reservados para códigos del sistema de control de velocidad de crucero
+P0581|Control de velocidad crusero, entrada Multi-Función "A" circuito alto 
+P0582|Circuito de control de vacio para el control de velocidad crusero / abierto 
+P0583|Circuito de control de vacio para el control de velocidad crusero /bajo
+P0584| Circuito de control de vacio para el control de velocidad crusero / alto
+P0585|Control de velocidad crusero para la entrada Multi-Función "A" / "B" Correlación 
+P0586|Circuito de control de ventilación para el control de velocidad crusero / abierto  
+P0587| Circuito de control de ventilación para el control de velocidad crusero /bajo
+P0588|Circuito de control de ventilación para el control de velocidad crusero / alto
+P0589| Control de velocidad crusero, entrada Multi-Función "B" del circuito 
+P0590|Control de velocidad crusero, entrada Multi-Función "B" Circuito Atascado 
+P0591|Control de velocidad crusero, entrada Multi-Función "B" Circuito radio / rendimiento 
+P0592|Control de velocidad crusero, entrada Multi-Función "B" del circuito   bajo 
+P0593|Control de velocidad crusero, entrada Multi-Función "B" del circuito   alto 
+P0594|Control de velocidad crusero, Circuito Servo Control / Abierto 
+P0595|Control de velocidad crusero, Circuito Servo Control / bajo 
+P0596|Control de velocidad crusero, Circuito Servo Control / alto
+P0597|Circuito de control del termostato del calentador / abierto 
+P0598|Circuito de control del termostato del calentador / bajo 
+P0599|Circuito de control del termostato del calentador /alto 
+
+P0600|Mal funcionamiento en enlace serial de comunicaciones
+P0601|Error de suma de verificación en memoria interna del módulo de control
+P0602|Error de programación en módulo de control
+P0603|Error en memoria interna no borrable (keep alive memory-KAM) del módulode control
+P0604|Error en memoria interna RAM del módulo de control
+P0605|Error en memoria interna ROM del módulo de control
+P0606|Falla en procesador del PCM
+P0607|Desempeño del módulo de control
+P0608|Mal funcionamiento en salida A del sensor de velocidad del vehículo delmódulode control
+P0609|Mal funcionamiento en salida B del sensor de velocidad del vehículo delmódulode control
+P0610|Error de opciones del vehículo en el módulo de control
+P0611|Fuel Injector Control Module Performance
+P0612|Fuel Injector Control Module Relay Control
+P0613|TCM Processor
+P0614|ECM / TCM Incompatible
+P0615|Circuito del relevador del motor de arranque
+P0616|Circuito del relevador del motor de arranque bajo
+P0617|Circuito del relevador del motor de arranque alto
+P0618|Error de KAM en módulo de control de combustible alternativo
+P0619|Error de RAM/ROM en módulo de control de combustible alternativo
+P0620|Mal funcionamiento en circuito de control del generador
+P0621|"Mal funcionamiento en circuito de control de la lamparilla ""L"" del gener"ador
+P0622|"Mal funcionamiento en circuito de control de la lamparilla ""F"" del gener"ador
+P0623|Circuito de control de la luz del generador
+P0624|Circuito de control de la luz de la tapa del depósito de combustible
+P0625|Generator Field/F Terminal Circuit Low
+P0626|Generator Field/F Terminal Circuit High
+P0627|Fuel Pump "A" Control Circuit /Open
+P0628|Fuel Pump "A" Control Circuit Low
+P0629|Fuel Pump "A" Control Circuit High
+P0630|VIN no programado o no concuerda - ECM/PCM
+P0631|VIN no programado o no concuerda - TCM
+P0635|Circuito de control de la dirección hidráulica
+P0636|Circuito de control de la dirección hidráulica bajo
+P0637|Circuito de control de la dirección hidráulica alto
+P0638|Rango/desempeño del control del actuador de la mariposa de admisión (Banco 1)
+P0639|Rango/desempeño del control del actuador de la mariposa de admisión (Banco 2)
+P0640|Circuito de control del calefactor de aire de admisión
+P0641|Sensor Reference Voltage "A" Circuit/Open
+P0642|Sensor Reference Voltage "A" Circuit Low
+P0643|Sensor Reference Voltage "A" Circuit High
+P0644|Driver Display Serial Communication Circuit
+P0645|Circuito de control del relevador del embrague de A/C
+P0646|Circuito de control del relevador del embrague de A/C bajo
+P0647|Circuito de control del relevador del embrague de A/C alto
+P0648|"Circuito de control de la luz del inmovilizador (""inmovilizador"" pendien"te de aprobación por SAE J1930)
+P0649|Circuito de control de la luz de velocidad
+P0650|Mal funcionamiento en el circuito de control de la luz indicadora de malfuncionamiento (MIL)
+P0651|Sensor Reference Voltage "B" Circuit/Open
+P0652|Sensor Reference Voltage "B" Circuit Low
+P0653|Sensor Reference Voltage "B" Circuit High
+P0654|Mal funcionamiento en circuito de salida de RPM del motor
+P0655|Mal funcionamiento en circuito de salida a luz indicadora de motor sobrecalentado
+P0656|Mal funcionamiento en circuito de salida de nivel de combustible
+P0657|Actuator Supply Voltage "A" Circuit/Open
+P0658|Actuator Supply Voltage "A" Circuit Low
+P0659|Actuator Supply Voltage "A" Circuit High
+P0660|Circuito de control de la válvula de sintonización del múltiple de admisión (Banco 1)
+P0661|Circuito de control de la válvula de sintonización del múltiple de admisión bajo (Banco 1)
+P0662|Circuito de control de la válvula de sintonización del múltiple de admisión alto (Banco 1)
+P0663|Circuito de control de la válvula de sintonización del múltiple de admisión (Banco 2)
+P0664|Circuito de control de la válvula de sintonización del múltiple de admisión bajo (Banco 2)
+P0665|Circuito de control de la válvula de sintonización del múltiple de admisión alto (Banco 2)
+
+P0666|PCM/ECM/TCM Circuito de temperatura interna
+P0667|PCM/ECM/TCM Circuito de temperatura interna/ funcionando
+P0668|PCM/ECM/TCM entrada baja en el circuito de temperatura interna
+P0669|PCM/ECM/TCM entrada alta en el circuito de temperatura interna
+
+P0700|Mal funcionamiento en sistema de control de la transmisión
+P0701|Problema de rango/operación en sistema de control de la transmisión
+P0702|Problema eléctrico en sistema de control de la transmisión
+P0703|Mal funcionamiento en circuito del convertidor de par/interruptor de frenos B
+P0704|Mal funcionamiento en circuito de entrada del interruptor del embrague
+P0705|Mal funcionamiento en circuito del sensor del rango de la transmisión (entradaPRNDL)
+P0706|Problema de rango/operación en circuito del sensor del rango de la transmisión
+P0707|Entrada baja en circuito del sensor del rango de la transmisión
+P0708|Entrada alta en circuito del sensor del rango de la transmisión
+P0709|Intermitente en circuito del sensor del rango de la transmisión
+P0710|Mal funcionamiento en circuito del sensor de temperatura del fluido de la transmisión
+P0711|Problema de rango/operación en circuito del sensor de temperatura del fluido dela transmisión
+P0712|Entrada baja en circuito del sensor de temperatura del fluido de la transmisión
+P0713|Entrada alta en circuito del sensor de temperatura del fluido de la transmisión
+P0714|Intermitente en circuito del sensor de temperatura del fluido de la transmisión
+P0715|Mal funcionamiento en circuito del sensor de velocidad de entrada/turbina
+P0716|Problema de rango/operación en circuito del sensor de velocidad de entrada/turbina
+P0717|No hay señal en el circuito del sensor de velocidad de entrada/turbina
+P0718|Intermitente en circuito del sensor de velocidad de entrada/turbina
+P0719|Circuito del convertidor de par/interruptor de frenos B bajo
+P0720|Mal funcionamiento en circuito del sensor de velocidad de salida
+P0721|Problema de rango/operación en circuito del sensor de velocidad de salida
+P0722|No hay señal en el circuito del sensor de velocidad de salida
+P0723|Intermitente en circuito del sensor de velocidad de salida
+P0724|Circuito del convertidor de par/interruptor de frenos B alto
+P0725|Mal funcionamiento en circuito de entrada de velocidad del motor
+P0726|Problema de rango/operación en circuito de entrada de velocidad del motor
+P0727|No hay señal en el circuito de entrada de velocidad del motor
+P0728|Intermitente en circuito de entrada de velocidad del motor
+P0729|Gear 6 Incorrect Ratio
+P0730|Relación de engranes incorrecta
+P0731|Relación de engranes incorrecta en primera
+P0732|Relación de engranes incorrecta en segunda
+P0733|Relación de engranes incorrecta en tercera
+P0734|Relación de engranes incorrecta en cuarta
+P0735|Relación de engranes incorrecta en quinta
+P0736|Relación de engranes incorrecta en reversa
+P0737|Circuito de salida de velocidad del motor del TCM
+P0738|Circuito de salida de velocidad del motor del TCM bajo
+P0739|Circuito de salida de velocidad del motor del TCM alto
+P0740|Mal funcionamiento en circuito de embrague del convertidor de par
+P0741|Problema de operación en el circuito del embrague del convertidor de paro no embraga
+P0742|Circuito del embrague del convertidor de par siempre energizado
+P0743|Problema eléctrico en el circuito del embrague del convertidor de par
+P0744|Intermitente en el circuito del embrague del convertidor de par
+P0745|Mal funcionamiento en el solenoide de control de presión
+P0746|Problema de rango/operación en el solenoide de control de presión o atorado apagado
+P0747|Solenoide de control de presión o atorado encendido
+P0748|Problema eléctrico en el solenoide de control de presión
+P0749|Intermitente en el solenoide de control de presión
+P0750|Mal funcionamiento en el solenoide de cambios A
+P0751|Problema de rango/operación en el solenoide de cambios A o atorado apagado
+P0752|Solenoide de cambios A atorado encendido
+P0753|Problema eléctrico en el solenoide de cambios A
+P0754|Intermitente en el solenoide de cambios A
+P0755|Mal funcionamiento en el solenoide de cambios B
+P0756|Problema de rango/operación en el solenoide de cambios B o atorado apagado
+P0757|Solenoide de cambios B atorado encendido
+P0758|Problema eléctrico en el solenoide de cambios B
+P0759|Intermitente en el solenoide de cambios B
+P0760|Mal funcionamiento en el solenoide de cambios C
+P0761|Problema de rango/operación en el solenoide de cambios C o atorado apagado
+P0762|Solenoide de cambios C atorado encendido
+P0763|Problema eléctrico en el solenoide de cambios C
+P0764|Intermitente en el solenoide de cambios C
+P0765|Mal funcionamiento en el solenoide de cambios D
+P0766|Problema de rango/operación en el solenoide de cambios D o atorado apagado
+P0767|Solenoide de cambios D atorado encendido
+P0768|Problema eléctrico en el solenoide de cambios D
+P0769|Intermitente en el solenoide de cambios C
+P0770|Mal funcionamiento en el solenoide de cambios E
+P0771|Problema de rango/operación en el solenoide de cambios E o atorado apagado
+P0772|Solenoide de cambios E atorado encendido
+P0773|Problema eléctrico en el solenoide de cambios E
+P0774|Intermitente en el solenoide de cambios E
+P0775|Solenoide B de control de presión
+P0776|Desempeño del solenoide B de control de presión o pegado apagado
+P0777|Solenoide B de control de presión pegado encendido
+P0778|Solenoide B de control de presión problema eléctrico
+P0779|Solenoide B de control de presión intermitente
+P0780|Mal funcionamiento en cambios
+P0781|Mal funcionamiento en cambio 1 a 2
+P0782|Mal funcionamiento en cambio 2 a 3
+P0783|Mal funcionamiento en cambio 3 a 4
+P0784|Mal funcionamiento en cambio 4 a 5
+P0785|Mal funcionamiento en solenoide de sincronización de cambios
+P0786|Problema de rango/operación en solenoide de sincronización de cambios
+P0787|Solenoide de sincronización de cambios bajo
+P0788|Solenoide de sincronización de cambios alto
+P0789|Intermitente en solenoide de sincronización de cambios
+P0790|Mal funcionamiento en circuito del interruptor normal/alto desempeño
+P0791|Circuito del sensor de velocidad del eje intermedio
+P0792|Rango/desempeño del circuito del sensor de velocidad del eje intermedio
+P0793|Circuito del sensor de velocidad del eje intermedio no tiene señal
+P0794|Circuito del sensor de velocidad del eje intermedio intermitente
+P0795|Solenoide C de control de presión
+P0796|Desempeño del solenoide C de control de presión o pegado apagado
+P0797|Solenoide C de control de presión pegado encendido
+P0798|Solenoide C de control de presión problema eléctrico
+P0799|Solenoide C de control de presión intermitente
+P0800|Transfer Case Control System (MIL Request)
+P0801|Mal funcionamiento en circuito de control de inhibición de reversa
+P0803|Mal funcionamiento en circuito de control del solenoide de cambio 1 a 4(skip shift)
+P0804|Mal funcionamiento en circuito de control de la luz indicadora de cambio1 a 4(skip shift)
+P0805|Circuito del sensor de posición del embrague
+P0806|Rango/desempeño del circuito del sensor de posición del embrague
+P0807|Circuito del sensor de posición del embrague bajo
+P0808|Circuito del sensor de posición del embrague alto
+P0809|Circuito del sensor de posición del embrague intermitente
+P0810|Error en control de posición del embrague
+P0811|Deslizamiento excesivo en el embrague
+P0812|Circuito de entrada invertido
+P0813|Circuito de salida invertido
+P0814|Circuito del indicador de posición de la transmisión
+P0815|Circuito de control de cambio ascendente
+P0816|Circuito de control de cambio descendente
+P0817|Circuito de inhabilitación del motor de arranque
+P0818|Circuito del interruptor de desconexión del tren motriz
+P0819|Up and Down Shift Switch to Transmission Range Correlation
+P0820|Circuito del sensor de posición X-Y de la palanca de cambios
+P0821|Circuito de posición X de la palanca de cambios
+P0822|Circuito de posición Y de la palanca de cambios
+P0823|Circuito de posición X de la palanca de cambios intermitente
+P0824|Circuito de posición Y de la palanca de cambios intermitente
+P0825|Interruptor de tirar-empujar de la palanca de cambios (anticipación de cambios)
+
+P0826|arriba y abajo, circuito caja cambios
+P0827|arriba y abajo, circuito caja cambios /bajo
+P0828|arriba y abajo, circuito caja cambios / alto
+P0829|5-6 cambio
+
+P0830|Circuito del interruptor A del pedal del embrague
+P0831|Circuito del interruptor A del pedal del embrague bajo
+P0832|Circuito del interruptor A del pedal del embrague alto
+P0833|Circuito del interruptor B del pedal del embrague
+P0834|Circuito del interruptor B del pedal del embrague bajo
+P0835|Circuito del interruptor B del pedal del embrague alto
+P0836|Circuito del interruptor de tracción en las 4 ruedas (4WD)
+P0837|Rango/desempeño en circuito del interruptor de tracción en las 4 ruedas(4WD)
+P0838|Circuito del interruptor de tracción en las 4 ruedas (4WD) bajo
+P0839|Circuito del interruptor de tracción en las 4 ruedas (4WD) alto
+P0840|Circuito del sensor/interruptor A de presión del fluido de la transmisión
+P0841|Rango/desempeño en circuito del sensor/interruptor A de presión del fluido de la transmisión
+P0842|Circuito del sensor/interruptor A de presión del fluido de la transmisión bajo
+P0843|Circuito del sensor/interruptor A de presión del fluido de la transmisión alto
+P0844|Circuito del sensor/interruptor A de presión del fluido de la transmisión intermitente
+P0845|Circuito del sensor/interruptor B de presión del fluido de la transmisión
+P0846|Rango/desempeño en circuito del sensor/interruptor B de presión del fluido de la transmisión
+P0847|Circuito del sensor/interruptor B de presión del fluido de la transmisión bajo
+P0848|Circuito del sensor/interruptor B de presión del fluido de la transmisión alto
+P0849|Circuito del sensor/interruptor B de presión del fluido de la transmisión intermitente
+P0850|Parque / Circuito neutro Interruptor de entrada 
+P0851|Interruptor Estacionamiento / entrada baja en el circuito del Neutro
+P0852|Parque / entrada Alta en el circuito del Neutro
+P0853|unidad de cambio de circuito de entrada 
+P0854|Unidad entrada de interruptor de circuito / Bajo
+P0855|Unidad entrada de interruptor de circuito / Alto 
+P0856|Control de Tracción de entrada de señal 
+P0857|Control de Tracción señal de entrada de radio / rendimiento 
+P0858|Tracción de control de entrada de señal / Bajo 
+P0859|Tracción de control de entrada de señal / Alto 
+P0860|Engranaje de cambio de circuito del módulo de comunicación 
+P0861|Palanca de Cambios módulo de comunicación /  circuito bajo 
+P0862|Palanca de Cambios módulo de comunicación  / circuito Alto 
+P0863|TCM circuito de la comunicación 
+P0864|Comunicación TCM Gama Circuito / rendimiento 
+P0865|TCM circuito de la comunicación / Bajo 
+P0866|TCM circuito de la comunicación / Alto 
+P0867|La presión del líquido de transmisión  
+P0868|Transmisión de presión de fluido / Bajo 
+P0869|Transmisión de fluidos /  presión alta 
+P0870|Transmisión del sensor de presión de fluidos / Switch "C" del circuito 
+P0871|sensor de presión de fluido de transmisión / Switch "C" Rango Circuito / rendimiento 
+P0872|Sensor de transmisión de presión de fluidos / Switch "C" del circuito / Bajo 
+P0873|Sensor de líquido de transmisión de presión / interruptor de "C" del circuito / Alto 
+P0874|sensor de presión de fluido de transmisión / Switch "C" del circuito intermitente 
+P0875|Líquido de la transmisión del sensor de presión / interruptor de "D" del circuito 
+P0876|Sensor de presión de fluido de transmisión / Switch "D" Rango Circuito / Rendimiento  
+P0877|sensor de presión de fluido de transmisión / Switch "D" del circuito / Bajo 
+P0878|Sensor de transmisión de presión de fluidos / Switch "D" del circuito / Alto 
+P0879|Sensor de transmisión de presión de fluidos / Switch "D" del circuito intermitente 
+P0880|señal TCM Energía de entrada 
+P0881|Entrada TCM alimentación Gama de señal / rendimiento 
+P0882|TCM señal de entrada de energía / Bajo 
+P0883|TCM señal de entrada de energía / Alto 
+P0884|Fuentes de TCM intermitentes Señal de entrada 
+P0885|Fuentes de TCM relé del circuito de control / Open 
+P0886|TCM relé de potencia del circuito de control / Bajo 
+P0887|TCM relé de potencia del circuito de control / Alto 
+P0888|TCM relé de potencia del circuito Sentido 
+P0889|TCM relé de potencia sentido Gama Circuito / rendimiento 
+P0890|TCM relé de potencia del circuito bajo sentido 
+P0891|TCM relé de potencia del circuito alto sentido 
+P0892|TCM relé de potencia del circuito Sentido intermitentes 
+P0893|Engranajes múltiples Comprometido 
+P0894|Transmisión de componentes deslizamiento 
+P0895|cambio de tiempo demasiado corto 
+P0896|Cambio de tiempo demasiado largo 
+P0897|líquido de transmisión deteriorado 
+P0898|Transmisión Circuito Sistema de Control de Solicitud / Bajo MIL 
+P0899|Sistema de control de transmisión MIL Solicitud / Alto del circuito 
+P0900|Circuito de accionamiento del embrague / Open 
+P0901|Actuador embrague Circuito radio / rendimiento 
+P0902|Circuito de accionamiento del embrague / Bajo 
+P0903|Circuito de accionamiento del embrague / Alto 
+P0904|Circuito Puerta Posición Seleccione 
+P0905|Puerta Seleccionar rango Circuito Posición / rendimiento 
+P0906|Circuito Puerta Posición baja Seleccione 
+P0907|Puerta Circuito Posición Seleccione Alto 
+P0908|Puerta Circuito Posición Seleccione intermitentes 
+P0909|Puerta de Control de Errores Seleccione 
+P0910|Puerta de Circuito del actuador Seleccionar / Abierto 
+P0911|puerta de la gama Seleccione Circuito de actuador / rendimiento 
+P0912|Puerta de Circuito del actuador Seleccione Baja 
+P0913|Puerta de Circuito del actuador Seleccione Alto 
+P0914|engranajes Circuito cambiar de posición 
+P0915|Palanca de Cambios de posición Circuito radio / rendimiento 
+P0916|caja de cambios de posición baja del circuito 
+P0917|engranajes Circuito de cambio de posición / Alto 
+P0918|Circuito de engranajes de cambio de posición intermitente 
+P0919|Equipo Posición del cambio de control de errores 
+P0920|cambio de marcha hacia adelante Circuito del actuador / Abierto 
+P0921|Cambio velocidad de avance del actuador del circuito radio / rendimiento 
+P0922|velocidad de avance de cambio de circuito del actuador / Bajo 
+P0923|velocidad de avance de cambio de circuito / Alto del actuador 
+P0924|Engranaje de cambio de circuito actuador hacia atrás / Abrir 
+P0925|Cambio Actuadores inversa Rango Circuito / rendimiento 
+P0926|cambio de marcha atrás actuador bajo del circuito 
+P0927|Engranaje reverso Cambio de Circuito del actuador / Alto 
+P0928|Palanca de Cambios Bloqueo de Control de Circuito Solenoide / Abierto 
+P0929|Palanca de Cambios Rango de solenoide de bloqueo del circuito de control / Rendimiento 
+P0930|Palanca de Cambios Bloqueo de Control de Circuito del solenoide de bajo 
+P0931|engranajes Circuito Bloquear mayúsculas solenoide de control / Alto 
+P0932|Circuito del sensor de presión hidráulica 
+P0933|Rango hidráulico sensor de presión y de rendimiento 
+P0934|Circuito hidráulico sensor / Bajo presión 
+P0935|Circuito hidráulico sensor / Alto presión 
+P0936|Circuito hidráulico sensor de presión intermitente 
+P0937|temperatura del aceite hidráulico del circuito del sensor 
+P0938|Temperatura del aceite hidráulico del alcance del sensor / rendimiento 
+P0939|Temperatura del aceite hidráulico del circuito del sensor / Bajo 
+P0940|Sensor de temperatura del aceite hidráulico del circuito / Alto 
+P0941|temperatura del aceite hidráulico del circuito del sensor intermitentes 
+P0942|Unidad de presión hidráulica 
+P0943|Unidad de Presión Hidráulica Periodo de Ciclismo de Too Short 
+P0944|La pérdida de presión hidráulica de la unidad de presión 
+P0945|Bomba hidráulica del circuito de relé / Abierto 
+P0946|Relé hidráulico de la bomba del circuito Gama / Desempeño 
+P0947|Circuito hidráulico de la bomba relé / Bajo 
+P0948|Circuito relé de la bomba hidráulica / Alto 
+P0949|Manual de cambio automático adaptativo no aprender completo 
+P0950|Auto Manual de Cambio de Control de Circuito 
+P0951|Cambio Automático Manual de Control de Circuito radio / rendimiento 
+P0952|Auto Manual de Cambio de Control de Circuito / Bajo 
+P0953|Auto Manual de Cambio de Control de Circuito / Alto 
+P0954|cambio automático de control manual intermitente Circuito 
+P0955|Auto cambio manual Modo Circuito 
+P0956|Auto cambio manual Modo Circuito radio / rendimiento 
+P0957|Auto Manual Modo de cambio de circuito / Bajo 
+P0958|Auto Manual de Turno del Circuito modo / Alto 
+P0959|Auto Manual de Turno del Circuito de modo intermitente 
+P0960|Control de presión solenoide "A" del circuito de control / Abierto 
+P0961|Control de presión solenoide "A" Alcance del circuito de control / Rendimiento 
+P0962|Control de presión solenoide "A" del circuito de control / Bajo 
+P0963|Control de presión solenoide "A" del circuito de control / Alto 
+P0964|Control de presión solenoide "B" del circuito de control / Open 
+P0965|Control de presión solenoide "B" del circuito de control radio / rendimiento 
+P0966|Control de presión solenoide "B" del circuito de control / Bajo 
+P0967|Control de presión solenoide "B" del circuito de control / Alto 
+P0968|Control de presión solenoide "C" del circuito de control / Open 
+P0969|Control de presión solenoide "C" Rango de circuito de control / Rendimiento 
+P0970|Control de presión solenoide "C" del circuito de control / Bajo 
+P0971|Control de presión solenoide "C" del circuito de control / Alto 
+P0972|Cambio solenoide "A" Alcance del circuito de control / Rendimiento 
+P0973|Cambio solenoide "A" del circuito de control / Bajo 
+P0974|Cambio solenoide "A" del circuito de control / Alto 
+P0975|Cambio solenoide "B" del circuito de control radio / rendimiento 
+P0976|Cambio solenoide "B" del circuito de control / Bajo 
+P0977|Cambio solenoide "B" del circuito de control / Alto 
+P0978|Cambio Solenoide "C" Rango de circuito de control / Rendimiento 
+P0979|Cambio Solenoide "C" del circuito de control / Bajo 
+P0980|Cambio Solenoide "C" de control del circuito / Alto 
+P0981|Cambio Solenoide "D" Rango de circuito de control / Rendimiento 
+P0982|Cambio Solenoide "D" del circuito de control / Bajo 
+P0983|Cambio Solenoide "D" del circuito de control / Alto 
+P0984|Cambio Solenoide "E" del circuito de control radio / rendimiento 
+P0985|Cambio Solenoide "E" del circuito de control / Bajo 
+P0986|Cambio Solenoide "E" del circuito de control / Alto 
+P0987|sensor de presión de fluido de transmisión / Switch "E" del circuito 
+P0988|Sensor de transmisión de presión de fluidos / Switch "E" Circuito radio / rendimiento 
+P0989|Transmisión del sensor de presión de fluidos / Switch "E" del circuito / Bajo 
+P0990|Transmisión del sensor de presión de fluidos / Switch "E" del circuito / Alto 
+P0991|sensor de presión de fluido de transmisión / Switch "E" del circuito intermitente 
+P0992|Sensor de transmisión de presión de fluidos / Switch "F" del circuito 
+P0993|sensor de presión de fluido de transmisión / Switch "F" Circuito de rendimiento 
+P0994|sensor de presión de fluido de transmisión / Switch "F" del circuito / Bajo 
+P0995|sensor de presión de fluido de transmisión / Switch "F" del circuito / Alto 
+P0996|sensor de presión de fluido de transmisión / Switch "F" del circuito intermitente 
+P0997|Cambio Solenoide "F" del circuito de control / Rendimiento 
+P0998|Cambio Solenoide "F" del circuito de control / Bajo 
+P0999|Cambio Solenoide "F" del circuito de control / Alto 
+P0A00|Motor Co refrigerante del circuito del sensor de temperatura 
+P0A01|Motor electrónico del sensor de temperatura del refrigerante del circuito Gama / Desempeño 
+P0A02|Motor Co refrigerante del circuito del sensor de temperatura baja 
+P0A03|Motor Co circuito de refrigeración del sensor / Alto temperatura 
+P0A04|Motor Co circuito de refrigeración del sensor de temperatura intermitente 
+P0A05|Electrónica circuito de refrigeración del motor de control de bomba / Abierto 
+P0A06|Electrónica circuito de refrigeración del motor de control de bomba / Bajo 
+P0A07|Electrónica del motor de la bomba de refrigerante del circuito de control / Alto 
+P0A08|DC / DC de circuito de estado 
+P0A09|CC / CC de estado del circuito convertidor de entrada / Bajo 
+P0A10|DC / DC convertidor de estado del circuito de entrada de alto 
+P0A11|DC / DC Habilitar Circuito Abierto 
+P0A12|DC / DC permite el circuito / Bajo 
+P0A13|DC / DC permite el circuito / Alto 
+P0A14|Soporte del motor del circuito de control / Abierto 
+P0A15|Soporte del motor de control de circuito / Bajo 
+P0A16|Motor de Control de Circuito Monte Alto 
+P0A17|Motor Circuito del sensor de par 
+P0A18|Par Motor Circuito del sensor Rango / rendimiento 
+P0A19|Motor Circuito de par sensor / Bajo 
+P0A20|motor de par de sensores / Alto Circuito 
+P0A21|Motor Circuito del sensor de par intermitentes 
+P0A22|Generador Circuito del sensor de par 
+P0A23|Par generador del Circuito Sensor de radio / rendimiento 
+P0A24|Generador de par sensor / Bajo del circuito 
+P0A25|Generador Circuito par de sensores / Alto 
+P0A26|Par Generador Circuito del sensor intermitentes 
+P0A27|Batería de apagado del circuito 
+P0A28|energía de la batería fuera del circuito / Bajo 
+P0A29|energía de la batería fuera del circuito / Alto 
+P2000|NOx eficiencia de las trampas por debajo del umbral 
+P2001|trampas de NOx por debajo del umbral de eficiencia 
+P2002|Eficiencia trampa de partículas por debajo del umbral 
+P2003|Eficiencia trampa de partículas por debajo del umbral 
+P2004|Control de colector de admisión corredor quedado abierta 
+P2005|Control de colector de admisión corredor quedado abierta 
+P2006|Control de Admisión Corredor Múltiple atascada 
+P2007|Admisión Control Runner colector atascada 
+P2008|Corredor de admisión del colector del circuito de control / Abierto 
+P2009|colector de admisión corredor bajo control del Circuito 
+P2010|Corredor Múltiple de admisión de control del circuito / Alto 
+P2011|Circuito del colector de admisión Control Runner / Abierto 
+P2012|colector de admisión de Control de Circuito Corredor / Bajo 
+P2013|Circuito del colector de admisión de Control de Corredores 
+P2014|Corredor de admisión del colector del sensor de posición / cambio de circuito 
+P2015|colector de admisión Sensor de Posición del Corredor / interruptor de circuito Gama / Desempeño 
+P2016|Corredor de admisión del colector del sensor de posición / cambio de circuito / Bajo 
+P2017|colector de admisión Sensor de Posición del Corredor / interruptor de circuito / Alto 
+P2018|colector de admisión Sensor de Posición del Corredor / interruptor de circuito intermitente 
+P2019|Corredor de admisión del colector del sensor de posición / cambio de circuito 
+P2020|colector de admisión Sensor de Posición del Corredor / interruptor de circuito Gama / Desempeño 
+P2021|colector de admisión Sensor de Posición del Corredor / interruptor de circuito / Bajo 
+P2022|colector de admisión Sensor de Posición del Corredor / interruptor de circuito / Alto 
+P2023|colector de admisión Sensor de Posición del Corredor / interruptor de circuito intermitente 
+P2024|Las emisiones por evaporación (EVAP) de vapor de combustible Circuito del sensor de temperatura  
+P2025|Las emisiones por evaporación (EVAP) de vapor de combustible rendimiento del sensor de temperatura 
+P2026|Las emisiones por evaporación (EVAP) de vapor de combustible sensor de temperatura del circuito / Bajo tensión 
+P2027|Las emisiones por evaporación (EVAP) de vapor de combustible temperatura del circuito del sensor de alto voltaje 
+P2028|Las emisiones por evaporación (EVAP) de vapor de combustible Circuito del sensor de temperatura intermitente 
+P2029|calentador de combustible despedido de movilidad reducida 
+P2030|Despedido rendimiento de combustible del calentador 
+P2031|temperatura de los gases de escape del circuito del sensor 
+P2032|temperatura de los gases de escape del circuito del sensor / Bajo 
+P2033|temperatura de los gases de escape del circuito del sensor / Alto 
+P2034|temperatura de los gases de escape del circuito del sensor 
+P2035|temperatura de los gases de escape del circuito del sensor / Bajo 
+P2036|temperatura de los gases de escape del circuito del sensor / Alto 
+P2037|Reductor de inyección de aire a presión del circuito del sensor 
+P2038|Reductor de presión de inyección de aire del sensor Rango Circuito / rendimiento 
+P2039|Reductor de presión de inyección de aire de entrada del sensor del circuito / Bajo 
+P2040|Reductor de presión de inyección de aire de entrada del sensor de circuito / Alto 
+P2041|Reductor de inyección de aire a presión del circuito del sensor intermitentes 
+P2042|Circuito Reductor del sensor de temperatura 
+P2043|Reductor sensor Rango de temperatura del circuito / rendimiento 
+P2044|Reductor de temperatura del circuito de entrada del sensor / Bajo 
+P2045|Reductor de temperatura del circuito de entrada del sensor / Alto 
+P2046|Circuito Reductor del sensor de temperatura intermitente 
+P2047|inyector Reductor Circuito Abierto 
+P2048|Circuito Reductor de inyectores / Bajo 
+P2049|Circuito Reductor de inyectores / Alto 
+P2050|Circuito Reductor inyector / Abierto 
+P2051|Reductor Circuito del inyector / Bajo 
+P2052|Circuito Reductor de inyectores / Alto 
+P2053|Circuito Reductor inyector / Abierto 
+P2054|Circuito Reductor de inyectores / Bajo 
+P2055|Circuito Reductor de inyectores / Alto 
+P2056|inyector Reductor Circuito Abierto 
+P2057|Reductor Circuito del inyector / Bajo 
+P2058|Circuito Reductor de inyectores / Alto 
+P2059|Reductor de aire bomba de inyección del circuito de control / Abierto 
+P2060|Reductor de aire bomba de inyección del circuito de control / Bajo 
+P2061|Reductor de inyección de aire de la bomba del circuito de control / Alto 
+P2062|Circuito Reductor control de la alimentación / Abierto 
+P2063|Circuito Reductor de control de alimentación / Bajo 
+P2064|Circuito Reductor de control de alimentación / Alto 
+P2065|Sensor de nivel de combustible "B" del circuito 
+P2066|Sensor de nivel de combustible "B" de rendimiento 
+P2067|Sensor de nivel de combustible "B" del circuito / Bajo 
+P2068|Sensor de nivel de combustible "B" del circuito / Alto 
+P2069|Sensor de nivel de combustible "B" del circuito intermitente 
+P2070|colector de admisión Tuning (IMT) de la válvula ha quedado abierta 
+P2071|Asistente para la optimización del colector de admisión (IMT) de la válvula atascada 
+P2075|colector de admisión Tuning (IMT) del sensor de posición de la válvula / cambio de circuito 
+P2076|colector de admisión Tuning (IMT) del sensor de posición de la válvula / interruptor de circuito Gama / Desempeño 
+P2077|colector de admisión Tuning (IMT) Sensor de posición de la válvula / el interruptor del circuito / Bajo 
+P2078|colector de admisión Tuning (IMT) del sensor de posición de la válvula / interruptor de circuito / Alto 
+P2079|colector de admisión Tuning (IMT) del sensor de posición de la válvula / el interruptor del circuito intermitente 
+P2080|escape de gas del sensor de temperatura Rango de Circuito de rendimiento 
+P2081|temperatura de los gases de escape del circuito del sensor intermitentes 
+P2082|escape de gas del sensor de temperatura Rango de Circuito de rendimiento 
+P2083|temperatura de los gases de escape del circuito del sensor intermitentes 
+P2084|escape de gas del sensor de temperatura Rango de Circuito de rendimiento 
+P2085|temperatura de los gases de escape del circuito del sensor intermitentes 
+P2086|escape de gas del sensor de temperatura Rango de Circuito de rendimiento 
+P2087|temperatura de los gases de escape del circuito del sensor intermitentes 
+P2088|"A" del árbol de levas de posición del actuador del circuito de control / Bajo 
+P2089|"A" del árbol de levas de posición del actuador del circuito de control / Alto 
+P2090|"B" Posición del árbol de levas del actuador del circuito de control / Bajo 
+P2091|"B" Posición del árbol de levas del actuador del circuito de control / Alto 
+P2092|"A" del actuador de posición del árbol de levas de Control de Circuito / Bajo 
+P2093|"A" del actuador de posición del árbol de levas del circuito de control / Alto 
+P2094|"B" Posición del árbol de levas del actuador del circuito de control / Bajo 
+P2095|"B" Posición del árbol de levas del actuador del circuito de control / Alto 
+P2096|Catalizador sostén del sistema de ajuste de combustible con mezcla muy pobre 
+P2097|Catalizador Post combustible Trim System demasiado rico 
+P2098|Post Catalizador de combustible Trim System demasiado pobre 
+P2099|Post Catalizador de combustible Trim System demasiado rico 
+P2100|Circuito de control del acelerador del motor del actuador / Abierto 
+P2101|Control del regulador Actuador Motor Circuito de radio / rendimiento 
+P2102|acelerador de control del actuador del circuito del motor / Bajo 
+P2103|acelerador de control del actuador del circuito del motor / Alto 
+P2104|Actuador del acelerador del sistema de control - forzoso de inactividad 
+P2105|Actuador del acelerador del sistema de control - apagado del motor forzoso 
+P2106|Actuador del acelerador del sistema de control - Power Limited forzoso 
+P2107|acelerador de control del actuador Módulo de procesador 
+P2108|Desempeño de control del actuador del acelerador Módulo 
+P2109|acelerador / pedal del sensor de posición "A" de rendimiento mínimo de parada 
+P2110|Sistema de control del actuador del acelerador - RPM Limitada forzoso 
+P2111|actuador del acelerador de control del sistema - Stuck Abierto 
+P2112|Actuador del acelerador del sistema de control - Stuck cerrado 
+P2113|acelerador / pedal del sensor de posición "B" de rendimiento mínimo de parada 
+P2114|acelerador / pedal del sensor de posición "C" de rendimiento mínimo de parada 
+P2115|acelerador / pedal del sensor de posición "D" de rendimiento mínimo de parada 
+P2116|acelerador / pedal del sensor de posición "E" de rendimiento mínimo de parada 
+P2117|acelerador / pedal del sensor de posición "F" de rendimiento mínimo de parada 
+P2118|actuador del acelerador de control de motores Gama de la corriente / rendimiento 
+P2119|Control del regulador del actuador del acelerador Rango Cuerpo / rendimiento 
+P2120|acelerador / pedal del sensor de posición / Switch "D" del circuito 
+P2121|acelerador / pedal del sensor de posición / Switch "D" Rango Circuito / rendimiento 
+P2122|acelerador / pedal del sensor de posición / Switch "D" de entrada del circuito / Bajo 
+P2123|acelerador / pedal del sensor de posición / Switch "D" del circuito de entrada de alto 
+P2124|acelerador / pedal del sensor de posición / Switch "D" del circuito intermitente 
+P2125|acelerador / pedal del sensor de posición / Switch "E" del circuito 
+P2126|acelerador / pedal del sensor de posición / Switch "E" Rango Circuito / rendimiento 
+P2127|acelerador / pedal del sensor de posición / Switch "E" del circuito de entrada / Bajo 
+P2128|acelerador / pedal del sensor de posición / Switch "E" del circuito de entrada / Alto 
+P2129|acelerador / pedal del sensor de posición / Switch "E" del circuito intermitente 
+P2130|acelerador / pedal del sensor de posición / Switch "F" del circuito 
+P2131|acelerador / pedal del sensor de posición / Switch "F" Gama de funcionamiento del circuito 
+P2132|acelerador / pedal del sensor de posición / Switch "F" de entrada del circuito / Bajo 
+P2133|acelerador / pedal del sensor de posición / Switch "F" del circuito de entrada de alto 
+P2134|acelerador / pedal del sensor de posición / Switch "F" del circuito intermitente 
+P2135|acelerador / pedal del sensor de posición / Switch "A" / "B" Correlación de tensión 
+P2136|acelerador / pedal del sensor de posición / Switch "A" / "C" Correlación de tensión 
+P2137|acelerador / pedal del sensor de posición / Switch "B" / "C" Correlación de tensión 
+P2138|acelerador / pedal del sensor de posición / Switch "D" / "E" Correlación de tensión 
+P2139|acelerador / pedal del sensor de posición / Switch "D" / "F" Correlación de tensión 
+P2140|acelerador / pedal del sensor de posición / Switch "E" / "F" Correlación de tensión 
+P2141|recirculación de los gases de escape del circuito de control del acelerador / Bajo 
+P2142|recirculación de los gases de escape del circuito de control del acelerador / Alto 
+P2143|recirculación de los gases de escape de ventilación del circuito de control / Abierto 
+P2144|recirculación de los gases de escape de ventilación de Control de Circuito / Bajo 
+P2145|recirculación de los gases de escape de ventilación del circuito de control / Alto 
+P2146|Grupo de inyector de combustible "A" de suministro de voltaje de circuito / Abierto 
+P2147|inyector de combustible Grupo "A" del circuito de suministro / Bajo tensión 
+P2148|inyector de combustible Grupo "A" del circuito de alimentación de alto voltaje 
+P2149|Inyección de Combustible Grupo "B" Tensión de Circuito Abierto 
+P2150|Inyección de Combustible Grupo "B" Circuito de fuente / Bajo tensión 
+P2151|Grupo del inyector de combustible "B" Circuito de fuente de alto voltaje 
+P2152|inyector de combustible Grupo "C" Circuito de fuente de voltaje / Abierto 
+P2153|inyector de combustible Grupo "C" del circuito de suministro / Bajo tensión 
+P2154|inyector de combustible del grupo "C" fuente de alto voltaje de circuito 
+P2155|inyector de combustible Grupo "D" Tensión de alimentación Circuito Abierto 
+P2156|inyector de combustible del Grupo "D" del circuito de suministro / Bajo tensión 
+P2157|inyector de combustible Grupo "D" del circuito de alimentación de alto voltaje 
+P2158|Sensor de velocidad del vehículo "B" 
+P2159|Sensor de velocidad del vehículo "B" radio / rendimiento 
+P2160|Sensor de velocidad del vehículo "B" del circuito / Bajo 
+P2161|Sensor de velocidad del vehículo "B" intermitentes / irregulares 
+P2162|Sensor de velocidad del vehículo "A" / "B" Correlación 
+P2163|acelerador / pedal del sensor de posición "A" Detener máximo rendimiento 
+P2164|acelerador / pedal del sensor de posición "B" el máximo rendimiento Detener 
+P2165|acelerador / pedal del sensor de posición "C" el máximo rendimiento Detener 
+P2166|acelerador / pedal del sensor de posición "D" Detener máximo rendimiento 
+P2167|acelerador / pedal del sensor de posición "E" el máximo rendimiento Detener 
+P2168|acelerador / pedal del sensor de posición "F" Detener máximo rendimiento 
+P2169|Regulador de presión de escape de ventilación de Control de Circuito Solenoide / Abierto 
+P2170|Regulador de presión de escape de ventilación de Control de Circuito del solenoide de bajo 
+P2171|Regulador de presión de escape de ventilación de Control de Circuito de solenoide / Alto 
+P2172|Actuador del acelerador del sistema de control - El flujo de aire / Alto repentina Detectado 
+P2173|Sistema de control del actuador del acelerador - El flujo de aire / Alto Detectado 
+P2174|Actuador del acelerador del sistema de control - El flujo de aire / Bajo repentina Detectado 
+P2175|actuador del acelerador de control del sistema - El flujo de aire bajo Detectado 
+P2176|actuador del acelerador Sistema de Control - Posición de espera no aprendidas 
+P2177|Sistema de mezcla muy pobre fuera de inactividad 
+P2178|demasiado rico fuera de inactividad del sistema 
+P2179|Sistema de mezcla muy pobre fuera de inactividad 
+P2180|demasiado rico fuera de inactividad del sistema 
+P2181|rendimiento del sistema de refrigeración 
+P2182|La temperatura del refrigerante del motor Sensor de dos circuitos 
+P2183|La temperatura del refrigerante del motor Sensor de Rango 2 Circuito de rendimiento 
+P2184|Sensor de temperatura del refrigerante del motor dos circuitos / Bajo 
+P2185|La temperatura del refrigerante del motor Sensor de dos circuitos / Alto 
+P2186|La temperatura del refrigerante del motor Sensor de dos circuitos intermitentes / irregulares 
+P2187|Sistema de mezcla muy pobre en la marcha lenta 
+P2188|demasiado rico en inactividad del sistema 
+P2189|muy pobre en la marcha lenta del sistema 
+P2190|demasiado rico en inactividad del sistema 
+P2191|Sistema de mezcla muy pobre en la mayor carga 
+P2192|demasiado rico en mayor carga del sistema 
+P2193|muy pobre en mayor carga del sistema 
+P2194|demasiado rico en mayor carga del sistema 
+P2195|señal del sensor de O2 Pegado Lean 
+P2196|señal del sensor de O2 Pegado Rico 
+P2197|señal del sensor de O2 Pegado Lean 
+P2198|señal del sensor de O2 Pegado Rico 
+P2199|La temperatura de entrada de aire del sensor 1.2 Correlación 
+P2200|Circuito del sensor de NOx 
+P2201|Rango de Sensor de NOx Circuito / rendimiento 
+P2202|Circuito de entrada del sensor de NOx baja 
+P2203|sensor de NOx de entrada del circuito / Alto 
+P2204|Circuito de entrada del sensor de NOx intermitentes 
+P2205|calentador del sensor de NOx del circuito de control / Abierto 
+P2206|NOx calentador del sensor de control de circuito / Bajo 
+P2207|NOx calentador del sensor de control de circuito / Alto 
+P2208|calentador del sensor de NOx sentido Circuito 
+P2209|calentador del sensor de NOx sentido Circuito radio / rendimiento 
+P2210|calentador del sensor de NOx Circuito bajo sentido de entrada 
+P2211|calentador del sensor de NOx sentido del circuito de entrada / Alto 
+P2212|calentador del sensor de NOx Circuito sentido intermitentes 
+P2213|Circuito del sensor de NOx 
+P2214|sensor de NOx Circuito radio / rendimiento 
+P2215|sensor de NOx de entrada del circuito / Bajo 
+P2216|NOx de entrada del sensor de circuito / Alto 
+P2217|sensor de NOx Circuito de entrada intermitentes 
+P2218|calentador del sensor de NOx del circuito de control / Abierto 
+P2219|sensor de NOx de control del calentador / Bajo del circuito 
+P2220|NOx sensor de control del calentador del circuito / Alto 
+P2221|NOx calentador del sensor de circuito Sentido 
+P2222|calentador del sensor de NOx sentido Circuito radio / rendimiento 
+P2223|calentador del sensor de NOx bajo sentido del Circuito 
+P2224|calentador del sensor de NOx alto sentido de Circuito 
+P2225|calentador del sensor de NOx Circuito sentido intermitentes 
+P2226|Presión barométrica Circuito 
+P2227|Rango de presión barométrica Circuito / rendimiento 
+P2228|Circuito / Bajo presión barométrica 
+P2229|El circuito de presión barométrica alta 
+P2230|El circuito de presión barométrica intermitentes 
+P2231|Circuito de señal del sensor de O2 en corto de circuito del calentador 
+P2232|Circuito de señal del sensor de O2 en corto de circuito del calentador 
+P2233|Circuito de señal del sensor de O2 en corto de circuito del calentador 
+P2234|Circuito de señal del sensor de O2 en corto de circuito del calentador 
+P2235|Circuito de señal del sensor de O2 en corto de circuito del calentador 
+P2236|Circuito de señal del sensor de O2 en corto de circuito del calentador 
+P2237|sensor de O2 positivos Circuito de control actual o abrir 
+P2238|sensor de O2 positivos de Control de Circuito / Bajo corriente 
+P2239|sensor de O2 positivo del circuito de control / Alto corriente 
+P2240|sensor de O2 positivos Circuito de control actual o abrir 
+P2241|sensor de O2 positivos Circuito de control actual / Bajo 
+P2242|sensor de O2 positivo del circuito de control / Alto corriente 
+P2243|Referencia O2 Sensor de voltaje de circuito / Abierto 
+P2244|O2 Sensor de voltaje de referencia de rendimiento 
+P2245|O2 de referencia del sensor / Bajo tensión del circuito 
+P2246|O2 de referencia del sensor de circuito de alto voltaje 
+P2247|Referencia O2 Sensor de voltaje de circuito / Abierto 
+P2248|O2 rendimiento de referencia del sensor de voltaje 
+P2249|O2 de referencia del sensor de circuito / Bajo tensión 
+P2250|O2 de referencia del sensor de circuito de alto voltaje 
+P2251|sensor de O2 negativo Circuito de control actual o abrir 
+P2252|sensor de O2 negativo del circuito de control / Bajo corriente 
+P2253|sensor de O2 negativo del circuito de control / Alto corriente 
+P2254|sensor de O2 negativo Circuito de control actual o abrir 
+P2255|sensor de O2 negativo Circuito de control actual / Bajo 
+P2256|sensor de O2 negativo del circuito de control / Alto corriente 
+P2257|Inyección Secundaria de Aire Sistema de Control "A" del circuito / Bajo 
+P2258|Inyección Secundaria de Aire Sistema de Control "A" del circuito / Alto 
+P2259|Inyección Secundaria de Aire Sistema de Control "B" del circuito / Bajo 
+P2260|Inyección Secundaria de Aire Sistema de Control "B" del circuito / Alto 
+P2261|Turbo / Super Cargador de la válvula de derivación - Mecánica 
+P2262|presión del turbo no detectado - Mecánica 
+P2263|Turbo / Super Cargador Aumenta el rendimiento del sistema 
+P2264|El agua en circuito del sensor de combustible 
+P2265|Rango de agua en circuito del sensor de combustible / rendimiento 
+P2266|El agua en combustible sensor de circuito / Bajo 
+P2267|El agua en circuito del sensor de combustible / Alto 
+P2268|El agua en circuito del sensor de combustible intermitentes 
+P2269|El agua en el estado del combustible 
+P2270|señal del sensor de O2 Pegado Lean 
+P2271|señal del sensor de O2 Pegado Rico 
+P2272|señal del sensor de O2 Pegado Lean 
+P2273|señal del sensor de O2 Pegado Rico 
+P2274|señal del sensor de O2 Pegado Lean 
+P2275|señal del sensor de O2 Pegado Rico 
+P2276|señal del sensor de O2 Pegado Lean 
+P2277|señal del sensor de O2 Pegado Rico 
+P2278|Señales del sensor de O2 intercambiado Banco 1 Sensor 3 / Banco 2 Sensor 3 
+P2279|Sistema de admisión de aire de fugas 
+P2280|Aire restricción de flujo de aire o fugas entre el filtro de aire y MAF 
+P2281|Fuga de aire entre el cuerpo del acelerador y MAF 
+P2282|Fuga de aire entre el cuerpo del acelerador y las válvulas de admisión 
+P2283|inyector de presión del circuito de control del sensor 
+P2284|Control de inyector con sensor de presión del circuito radio / rendimiento 
+P2285|inyector de presión del circuito de control del sensor / Bajo 
+P2286|inyector de presión del circuito de control del sensor / Alto 
+P2287|Control de inyector con sensor de presión del circuito intermitente 
+P2288|Presión inyector de control demasiado alto 
+P2289|inyector de control de presión demasiado alta - Apagado del motor 
+P2290|Presión inyector de control demasiado bajo 
+P2291|inyector de control de presión demasiado baja - arranque del motor 
+P2292|inyector de control de presión irregular 
+P2293|Regulador de presión de combustible 2 Rendimiento 
+P2294|Regulador de presión de combustible 2 Circuito de control 
+P2295|Regulador de presión de combustible 2 Circuito de control / Bajo 
+P2296|Regulador de presión de combustible 2 Circuito de control / Alto 
+P2297|O2 sensor fuera de rango durante la desaceleración 
+P2298|O2 salida del sensor de rango Durante desaceleración 
+P2299|pedal de freno de posición / posición del acelerador incompatibles 
+P2300|Bobinas de encendido "A" del circuito de control / Bajo Primaria  
+P2301|Bobinas de encendido "A" del circuito de control primario / Alto 
+P2302|Bobinas de encendido "A" del circuito secundario  
+P2303|Bobinas de encendido "B" del circuito de control principal / Bajo 
+P2304|Bobinas de encendido "B" del circuito de control primario / Alto 
+P2305|Bobinas de encendido "B" del circuito secundario 
+P2306|bobina de encendido "C" del circuito de control / Bajo Primaria 
+P2307|Bobinas de encendido "C" del circuito de control / Alto Primaria 
+P2308|Bobinas de encendido "C" del circuito secundario 
+P2309|Bobinas de encendido "D" del circuito de control / Bajo Primaria 
+P2310|Bobinas de encendido "D" del circuito de control / Alto Primaria 
+P2311|bobina de encendido "D" del circuito secundario 
+P2312|Bobinas de encendido "E" del circuito de control principal / Bajo 
+P2313|Bobinas de encendido "E" del circuito de control primario / Alto 
+P2314|Bobinas de encendido "E" del circuito secundario 
+P2315|bobina de encendido "F" del circuito de control / Bajo Primaria 
+P2316|Bobinas de encendido "F" del circuito de control / Alto Primaria 
+P2317|bobina de encendido "F" del circuito secundario 
+P2318|bobina de encendido "G" del circuito de control / Bajo Primaria 
+P2319|Bobinas de encendido "G" del circuito de control primario / Alto 
+P2320|bobina de encendido "G" del circuito secundario 
+P2321|bobina de encendido "H" del circuito de control principal / Bajo 
+P2322|Bobinas de encendido "H" del circuito de control primario / Alto 
+P2323|Bobinas de encendido "H" del circuito secundario 
+P2324|bobina de encendido "I" del circuito de control / Bajo Primaria 
+P2325|bobina de encendido "I" del circuito de control / Alto Primaria 
+P2326|bobina de encendido "I" del circuito secundario 
+P2327|Bobinas de encendido "J" del circuito de control / Bajo Primaria 
+P2328|bobina de encendido "J" del circuito de control / Alto Primaria 
+P2329|bobina de encendido "J" del circuito secundario 
+P2330|Bobinas de encendido "K" del circuito de control principal / Bajo 
+P2331|Bobinas de encendido "K" del circuito de control primario / Alto 
+P2332|Bobinas de encendido "K" del circuito secundario 
+P2333|Bobinas de encendido "L" del circuito de control principal / Bajo 
+P2334|Bobinas de encendido "L" del circuito de control primario / Alto 
+P2335|Bobinas de encendido "L" del circuito secundario 
+P2336|Cilindro # 1 Por encima del umbral Knock 
+P2337|Cilindro # 2 Por encima del umbral Knock 
+P2338|Cilindro # 3 Por encima del umbral Knock 
+P2339|Cilindro # 4 Por encima del umbral Knock 
+P2340|Cilindro # 5 Por encima del umbral Knock 
+P2341|Cilindro # 6 arriba del umbral Knock 
+P2342|Cilindro # 7 Por encima del umbral Knock 
+P2343|Cilindro # 8 Por encima del umbral Knock 
+P2344|Cilindro # 9 Por encima del umbral Knock 
+P2345|Cilindro # 10 Por encima del umbral Knock 
+P2346|Cilindro # 11 Por encima del umbral Knock 
+P2347|Cilindro # 12 Por encima del umbral Knock 
+P2400|Sistema de emisiones de evaporación de detección de fugas de la bomba del circuito de control / Abierto 
+P2401|evaporación del sistema de emisión de detección de fugas de la bomba del circuito de control / Bajo 
+P2402|Sistema de emisiones de evaporación de detección de fugas de la bomba del circuito de control / Alto 
+P2403|Sistema de emisiones de evaporación de detección de fugas del circuito Sentido de la bomba / Abierto 
+P2404|Sistema de emisiones de evaporación de detección de fugas de la bomba sentido Gama Circuito / rendimiento 
+P2405|Sistema de emisiones de evaporación de detección de fugas de la bomba del circuito bajo sentido 
+P2406|Sistema de emisiones de evaporación de detección de fugas de la bomba del circuito alto sentido 
+P2407|evaporación del sistema de emisión de detección de fugas de la bomba del circuito Sentido intermitentes / irregulares 
+P2408|Tapa del sensor de combustible / cambio de circuito 
+P2409|sensor de combustible Cap / interruptor de circuito Gama / Desempeño 
+P2410|Tapa del sensor de combustible / interruptor de circuito / Bajo 
+P2411|sensor de combustible Cap / interruptor de circuito / Alto 
+P2412|sensor de combustible Cap / interruptor de circuito intermitentes / irregulares 
+P2413|recirculación de los gases de escape de rendimiento del sistema 
+P2414|O2 sensor de escape de error de muestra 
+P2415|O2 sensor de escape de error de muestra 
+P2416|Señales del sensor de O2 intercambiado Banco 1 sensor de 2 / Banco 1 Sensor 3 
+P2417|Las señales del sensor de O2 intercambiado Banco 2 sensor de 2 / Banco 2 Sensor 3 
+P2418|Sistema de emisiones por evaporación de conmutación de circuito de la válvula de control / Abierto 
+P2419|Sistema de emisiones por evaporación de conmutación de circuito de la válvula de control / Bajo 
+P2420|Sistema de emisiones por evaporación de conmutación de circuito de la válvula de control / Alto 
+P2421|Sistema de emisiones por evaporación de la válvula de ventilación quedado abierta 
+P2422|Sistema de emisiones por evaporación de ventilación de la válvula atascada 
+P2423|adsorción HC eficiencia del catalizador por debajo del umbral 
+P2424|adsorción HC eficiencia del catalizador por debajo del umbral 
+P2425|escape de recirculación de los gases de enfriamiento del circuito de la válvula de control / Abierto 
+P2426|escape de recirculación de los gases de enfriamiento del circuito de la válvula de control / Bajo 
+P2427|escape de recirculación de los gases de enfriamiento del circuito de la válvula de control / Alto 
+P2428|temperatura de escape de gas demasiado alto 
+P2429|temperatura de escape de gas demasiado alto 
+P2430|Inyección Secundaria de Aire Sistema de Flujo de Aire / Circuito del sensor de presión 
+P2431|inyección secundaria de aire del sistema de flujo de aire / sensor de presión Gama Circuito / rendimiento 
+P2432|inyección secundaria de aire del sistema de flujo de aire / presión del circuito del sensor / Bajo 
+P2433|inyección secundaria de aire de flujo del sistema de aire / Circuito del sensor / Alto presión 
+P2434|inyección secundaria de aire del sistema de flujo de aire / presión del circuito del sensor intermitentes / irregulares 
+P2435|Inyección Secundaria de Aire Sistema de Flujo de Aire / Circuito del sensor de presión 
+P2436|inyección secundaria de aire del sistema de flujo de aire / sensor de presión Gama Circuito / rendimiento 
+P2437|inyección secundaria de aire del sistema de flujo de aire / presión del circuito del sensor / Bajo 
+P2438|inyección secundaria de aire de flujo del sistema de aire / Circuito del sensor / Alto presión 
+P2439|Inyección Secundaria de Aire Sistema de Aire / Circuito del sensor de presión intermitentes / irregulares de flujo 
+P2440|Sistema de inyección de aire secundario de la válvula de conmutación quedado abierta 
+P2441|inyección secundaria de aire de la válvula del sistema de conmutación atascada 
+P2442|inyección secundaria de aire de la válvula del sistema de conmutación quedado abierta 
+P2443|Sistema de inyección de aire secundario de la válvula de conmutación atascada 
+P2444|Sistema de inyección de aire secundario de la bomba de Stuck On 
+P2445|Sistema de inyección de aire secundario de la bomba pegado Off 
+P2446|Sistema de inyección de aire secundario de la bomba de Stuck On 
+P2447|Sistema de inyección de aire secundario de la bomba pegado Off 
+P2500|generador de la lámpara / Circuito L-Terminal / Bajo 
+P2501|generador de la lámpara / Circuito L-Terminal / Alto 
+P2502|Tensión de carga del sistema 
+P2503|Sistema de carga de bajo voltaje 
+P2504|Tensión de carga del sistema / Alto 
+P2505|ECM / PCM de energía de señal de entrada 
+P2506|ECM / PCM de energía Rango de entrada de señal / rendimiento 
+P2507|ECM / PCM de energía de entrada de señal baja 
+P2508|ECM / PCM señal de entrada de energía / Alto 
+P2509|ECM / PCM señal de entrada de energía intermitente 
+P2510|ECM / PCM relé de potencia sentido Circuito radio / rendimiento 
+P2511|ECM / PCM relé de potencia sentido circuito intermitente 
+P2512|grabadora de datos de eventos Solicitud de Circuito Abierto 
+P2513|Evento Data Recorder Circuito Solicitud / Bajo 
+P2514|Evento Registrador de Datos de Solicitud de circuito / Alto 
+P2515|A / C del sensor de presión del refrigerante "B" del circuito 
+P2516|Una presión C / refrigerante sensor "B" Rango Circuito / rendimiento 
+P2517|A / C del sensor de presión del refrigerante "B" del circuito / Bajo 
+P2518|A / C del sensor de presión del refrigerante "B" del circuito / Alto 
+P2519|Una solicitud C / "A" del circuito 
+P2520|Una solicitud C / "A" del circuito / Bajo 
+P2521|Una solicitud C / "A" del circuito / Alto 
+P2522|A / Solicitud de C "B" del circuito 
+P2523|A / Solicitud de C "B" del circuito / Bajo 
+P2524|A / Solicitud de C "B" del circuito / Alto 
+P2525|Vacío presión del yacimiento Circuito del sensor 
+P2526|depósito de vacío del sensor de presión del circuito radio / rendimiento 
+P2527|Vacío presión del yacimiento Circuito del sensor / Bajo 
+P2528|Vacío presión del yacimiento Circuito del sensor / Alto 
+P2529|Vacío presión del yacimiento Circuito del sensor intermitentes 
+P2530|Interruptor de encendido la posición de ejecución del Circuito 
+P2531|Interruptor de encendido la posición de ejecución del circuito / Bajo 
+P2532|Interruptor de encendido la posición de ejecución del circuito / Alto 
+P2533|Interruptor de encendido Ejecutar / Posición de inicio del circuito 
+P2534|Interruptor de encendido Ejecutar / Posición de inicio del circuito / Bajo 
+P2535|Interruptor de encendido Ejecutar / Inicio Circuito de posición / Alto 
+P2536|Interruptor de encendido Circuito posición para accesorios 
+P2537|Interruptor de encendido Circuito posición para accesorios / Bajo 
+P2538|Encendido de cambio de circuito / Alto posición de accesorios 
+P2539|combustible / Bajo presión del sistema de circuito del sensor 
+P2540|Sistema / Bajo presión de combustible del sensor Rango Circuito / rendimiento 
+P2541|Baja presión de combustible Circuito del sistema de sensor / Bajo 
+P2542|combustible / Bajo presión del sistema de circuito del sensor / Alto 
+P2543|combustible / Bajo presión del sistema de circuito del sensor intermitentes 
+P2544|Solicitud de gestión del esfuerzo de torsión de señal de entrada "A" 
+P2545|administración de torque Solicitud de señal de entrada "A" radio / rendimiento 
+P2546|administración de torque Solicitud de señal de entrada "A" / Bajo 
+P2547|Solicitud de gestión del esfuerzo de torsión de señal de entrada "A" / Alto 
+P2548|Par Solicitud de gestión de la señal de entrada "B" 
+P2549|Par Solicitud de gestión de la señal de entrada "B" radio / rendimiento 
+P2550|Solicitud de gestión del esfuerzo de torsión de señal de entrada "B" / Bajo 
+P2551|Solicitud de gestión del esfuerzo de torsión de señal de entrada "B" / Alto 
+P2552|acelerador / combustible inhibe el circuito 
+P2553|acelerador / combustible inhibición Gama Circuito / rendimiento 
+P2554|acelerador / inhibe el circuito de combustible / Bajo 
+P2555|acelerador / inhibe el circuito de combustible / Alto 
+P2556|Sensor de nivel del refrigerante del motor / cambio de circuito 
+P2557|Sensor de nivel del refrigerante del motor y alcance del cambio de circuito / Rendimiento  
+P2558|refrigerante del motor Sensor de Nivel / interruptor de circuito / Bajo 
+P2559|refrigerante del motor Sensor de Nivel / interruptor de circuito / Alto 
+P2560|motor de bajo nivel de refrigerante 
+P2561|Un Módulo C / Control de iluminación requerido MIL 
+P2562|Turbocompresor control del alza de Circuito del sensor de posición 
+P2563|Aumenta turbocompresor de control del sensor de posición del Circuito radio / rendimiento 
+P2564|turbocompresor de control para impulsar la posición del circuito del sensor / Bajo 
+P2565|turbocompresor de control para impulsar la posición del circuito del sensor / Alto 
+P2566|Aumenta turbocompresor de control de posición del circuito del sensor intermitentes 
+P2567|Reducción Directa del Ozono catalizador de circuito del sensor de temperatura 
+P2568|Reducción Directa del Ozono catalizador sensor de temperatura del circuito radio / rendimiento 
+P2569|Reducción Directa del Ozono catalizador de circuito del sensor de temperatura baja 
+P2570|Reducción Directa del Ozono catalizador de circuito del sensor / Alto temperatura 
+P2571|Reducción Directa del Ozono catalizador de circuito del sensor de temperatura intermitentes / irregulares 
+P2572|Reducción Directa del Ozono catalizador deterioro Circuito del sensor 
+P2573|El deterioro de Reducción Directa del Ozono catalizador del sensor Rango Circuito / rendimiento 
+P2574|Reducción Directa del Ozono catalizador deterioro Circuito del sensor / Bajo 
+P2575|Reducción Directa del Ozono catalizador deterioro Circuito del sensor / Alto 
+P2576|Reducción Directa del Ozono catalizador deterioro Circuito del sensor intermitentes / irregulares 
+P2577|Reducción Directa del Ozono catalizador de eficiencia por debajo del umbral 
+P2600|circuito de refrigeración de la bomba de control / Abierto 
+P2601|Control de la bomba de refrigerante del circuito radio / rendimiento 
+P2602|Circuito de control de la bomba de refrigerante bajo 
+P2603|circuito de refrigeración de control de bomba / Alto 
+P2604|calentador de aire de admisión "A" Circuito radio / rendimiento 
+P2605|calentador de aire de admisión "A" Circuito Abierto 
+P2606|toma de aire del calentador "B" Circuito radio / rendimiento 
+P2607|toma de aire del calentador "B" del circuito / Bajo 
+P2608|admisión de aire del calentador "B" del circuito / Alto 
+P2609|calentador de aire de admisión del rendimiento del sistema 
+P2610|ECM / PCM motor interno de descuento de rendimiento del temporizador 
+P2611|A / C de la válvula de distribución de refrigerante del circuito de control / Abierto 
+P2612|A / C de la válvula de distribución de refrigerante del circuito de control / Bajo 
+P2613|A / C de la válvula de distribución de refrigerante del circuito de control / Alto 
+P2614|Posición del árbol de levas de señal de salida del circuito / Abierto 
+P2615|señal de posición del árbol de levas de salida del circuito / Bajo 
+P2616|señal de la posición del árbol de levas de circuito de alto rendimiento 
+P2617|señal de posición del cigüeñal Circuito de salida / Abierto 
+P2618|señal de posición del cigüeñal del circuito de salida / Bajo 
+P2619|Circuito de señal de posición del cigüeñal de alto rendimiento 
+P2620|Posición de salida del circuito del acelerador / Abierto 
+P2621|Circuito de posición del acelerador bajos de la salida 
+P2622|Circuito de posición del acelerador de alto rendimiento 
+P2623|Control de Inyector regulador de presión del circuito / Abierto 
+P2624|inyector de presión del circuito de control del regulador / Bajo 
+P2625|inyector de presión del circuito de control del regulador / Alto 
+P2626|sensor de O2 de bombeo Circuito ajuste actual o abrir 
+P2627|sensor de O2 de bombeo Circuito ajuste actual / Bajo 
+P2628|sensor de O2 de bombeo Circuito ajuste actual / Alto 
+P2629|sensor de O2 de bombeo Circuito ajuste actual o abrir 
+P2630|sensor de O2 de bombeo Circuito ajuste actual / Bajo 
+P2631|sensor de O2 de bombeo Circuito ajuste actual / Alto 
+P2632|Bomba de combustible "B" del circuito de control / Abierto 
+P2633|Bomba de combustible "B" del circuito de control / Bajo 
+P2634|Bomba de combustible "B" de control del circuito / Alto 
+P2635|Bomba de combustible "A" de flujo bajo / rendimiento 
+P2636|Bomba de Combustible "B" de flujo bajo / rendimiento 
+P2637|Gestión de la señal de par de votos "A" 
+P2638|Gestión par de votos de señal "A" radio / rendimiento 
+P2639|Gestión par de votos de señal "A" / Bajo 
+P2640|Gestión par de votos de señal "A" / Alto 
+P2641|Gestión par de votos de señal "B" 
+P2642|Gestión par de votos de señal "B" radio / rendimiento 
+P2643|Gestión par de votos de señal "B" / Bajo 
+P2644|Gestión par de votos de señal "B" / Alto 
+P2645|"A" del brazo oscilante del actuador del circuito de control / Abierto 
+P2646|"A" del brazo oscilante del actuador del rendimiento del sistema o cerrados 
+P2647|"A" del brazo oscilante sistema actuador atascado en 
+P2648|"A" del brazo oscilante del actuador del circuito de control / Bajo 
+P2649|"A" del brazo oscilante del actuador del circuito de control / Alto 
+P2650|"B" del brazo oscilante del actuador del circuito de control / Abierto 
+P2651|"B" del brazo oscilante del actuador del rendimiento del sistema o cerrados 
+P2652|"B" del brazo oscilante sistema actuador atascado en 
+P2653|"B" del brazo oscilante del actuador del circuito de control / Bajo 
+P2654|"B" del brazo oscilante del actuador del circuito de control / Alto 
+P2655|"A" del brazo oscilante del actuador del circuito de control / Abierto 
+P2656|"A" del brazo oscilante del actuador del rendimiento del sistema o cerrados 
+P2657|"A" del brazo oscilante sistema actuador atascado en 
+P2658|"A" del brazo oscilante del actuador del circuito de control / Bajo 
+P2659|"A" del brazo oscilante del actuador del circuito de control / Alto 
+P2660|"B" del brazo oscilante del actuador del circuito de control / Abierto 
+P2661|"B" del brazo oscilante del actuador del rendimiento del sistema o cerrados 
+P2662|"B" del brazo oscilante sistema actuador atascado en 
+P2663|"B" del brazo oscilante del actuador del circuito de control / Bajo 
+P2664|"B" del brazo oscilante del actuador del circuito de control / Alto 
+P2665|cierre de válvula de combustible "B" del circuito de control / Abierto 
+P2666|Válvula de cierre de combustible "B" de control del circuito / Bajo 
+P2667|cierre de válvula de combustible "B" del circuito de control / Alto 
+P2668|Combustible Indicador de modo de lámpara de Control de Circuito 
+P2669|Suministro de tensión del actuador "B" Circuito Abierto 
+P2670|Actuador Tensión "B" del circuito / Bajo 
+P2671|Actuador Voltaje de alimentación "B" del circuito / Alto 
+P2700|Transmisión de elementos de fricción "A" Aplicar intervalo de tiempo / rendimiento 
+P2701|Elemento de transmisión de fricción "B" Aplicar intervalo de tiempo / rendimiento 
+P2702|Transmisión de elementos de fricción "C" Aplicar intervalo de tiempo / rendimiento 
+P2703|Elemento de transmisión de fricción "D" Aplicar intervalo de tiempo / rendimiento 
+P2704|Transmisión de elementos de fricción "E" Aplicar intervalo de tiempo / rendimiento 
+P2705|Elemento de transmisión de fricción "F" Aplicar intervalo de tiempo / rendimiento 
+P2706|Cambio Solenoide "F" 
+P2707|Cambio Solenoide "F" de rendimiento o cerrados 
+P2708|Cambio Solenoide "F" Stuck On 
+P2709|Cambio Solenoide "F" eléctrico 
+P2710|Cambio Solenoide "F" intermitente 
+P2711|Separación mecánica de engranajes inesperado  
+P2712|fuga Grupo hidráulico 
+P2713|Control de presión solenoide "D" 
+P2714|Control de presión solenoide "D" de rendimiento o cerrados 
+P2715|Control de presión solenoide "D" Stuck On 
+P2716|Control de presión solenoide "D" eléctrico 
+P2717|Control de presión solenoide "D" intermitentes 
+P2718|Control de presión solenoide "D" del circuito de control / Abierto 
+P2719|Control de presión solenoide "D" del circuito de control radio / rendimiento 
+P2720|Control de presión solenoide "D" del circuito de control / Bajo 
+P2721|Control de presión solenoide "D" del circuito de control / Alto 
+P2722|Control de presión solenoide "E" 
+P2723|Control de presión solenoide "E" de rendimiento o cerrados 
+P2724|Control de presión solenoide "E" Stuck On 
+P2725|Control de presión solenoide "E" Eléctrico 
+P2726|Control de presión solenoide "E" intermitente 
+P2727|Control de presión solenoide "E" del circuito de control / Abierto 
+P2728|Control de presión solenoide "E" Rango de circuito de control / Rendimiento 
+P2729|Control de presión solenoide "E" del circuito de control / Bajo 
+P2730|control de presión solenoide "E" de control del circuito / Alto 
+P2731|Control de presión solenoide "F" 
+P2732|Control de presión solenoide "F" de rendimiento o cerrados 
+P2733|Control de presión solenoide "F" Stuck On 
+P2734|Control de presión solenoide "F" eléctrico 
+P2735|Control de presión solenoide "F" intermitente 
+P2736|Control de presión solenoide "F" del circuito de control / Abierto 
+P2737|Control de presión solenoide "F" del circuito de control / Rendimiento 
+P2738|control de presión solenoide "F" del circuito de control / Bajo 
+P2739|control de presión solenoide "F" del circuito de control / Alto 
+P2740|Sensor de temperatura del fluido de transmisión "B" del circuito " 
+P2741|Transmisión del sensor de temperatura de fluidos "B" Circuito gama de funcionamiento 
+P2742|Temperatura líquido de transmisión del sensor "B" del circuito / Bajo 
+P2743|Transmisión del sensor de temperatura de fluidos "B" del circuito / Alto 
+P2744|Transmisión del sensor de temperatura de fluidos "B" del circuito intermitente 
+P2745|Velocidad del eje intermedio del sensor "B" del circuito 
+P2746|Velocidad del eje intermedio del sensor "B" Circuito radio / rendimiento 
+P2747|Velocidad del eje intermedio del sensor "B" Circuito Sin señal 
+P2748|Velocidad del eje intermedio del sensor "B" del circuito intermitente 
+P2749|Velocidad del eje intermedio del sensor "C" del circuito 
+P2750|Velocidad del eje intermedio del sensor "C" Rango Circuito / rendimiento 
+P2751|Velocidad del eje intermedio del sensor "C" del circuito sin señal 
+P2752|Velocidad del eje intermedio del sensor "C" del circuito intermitente 
+P2753|Transmisión Circuito de fluido refrigerador de control / Abierto 
+P2754|Transmisión refrigerador líquido del circuito de control / Bajo 
+P2755|Transmisión refrigerador líquido del circuito de control / Alto 
+P2756|convertidor de par del embrague de control de presión solenoide 
+P2757|convertidor de par del embrague de control de presión solenoide de control de rendimiento del circuito o cerrados 
+P2758|convertidor de par de presión del embrague de Control de Circuito solenoide de control de Stuck On 
+P2759|Par embrague del convertidor de presión del circuito de control de solenoide de control eléctrico 
+P2760|Par embrague del convertidor de presión del circuito de control de solenoide de control intermitente 
+P2761|convertidor de par del embrague de control de presión del circuito de control del solenoide / Abierto 
+P2762|embrague del convertidor de par de control de presión solenoide de control del Circuito Gama / Desempeño 
+P2763|Par embrague del convertidor de presión del circuito de control de control / Alto solenoide 
+P2764|convertidor de par del embrague de control de presión del circuito de control de bajo solenoide 
+P2765|Entrada / velocidad de la turbina del sensor "B" del circuito 
+P2766|Entrada / velocidad de la turbina del sensor "B" Rango Circuito / rendimiento 
+P2767|Entrada / velocidad de la turbina del sensor "B" Circuito Sin señal 
+P2768|Entrada / velocidad de la turbina del sensor "B" del circuito intermitente 
+P2769|Circuito del embrague del convertidor de par bajo 
+P2770|embrague del convertidor de torsión / Alto Circuito 
+P2771|cuatro ruedas (4WD) de cambio de circuito / Bajo 
+P2772|Impulsión de cuatro ruedas (4WD) Interruptor de rango bajo Circuito de rendimiento 
+P2773|Impulsión de cuatro ruedas (4WD) de cambio de circuito Baja Baja 
+P2774|Impulsión de cuatro ruedas (4WD) de cambio de circuito / Alto baja 
+P2775|Rango de cambio ascendente de cambio de circuito / rendimiento 
+P2776|cambio ascendente de cambio de circuito / Bajo 
+P2777|cambio ascendente de cambio de circuito / Alto 
+P2778|cambio de circuito cambio ascendente intermitentes / irregulares 
+P2779|Rango de desplazamiento hacia abajo de cambio de circuito / rendimiento 
+P2780|cambio de circuito desplazamiento hacia abajo / Bajo 
+P2781|desplazamiento hacia abajo de cambio de circuito / Alto 
+P2782|cambio de circuito desplazamiento hacia abajo intermitentes / irregulares 
+P2783|La temperatura del convertidor de torsión demasiado alto 
+P2784|Entrada / sensor de velocidad de la turbina "A" / "B" Correlación 
+P2785|Temperatura del actuador del embrague demasiado alto 
+P2786|Palanca de Cambios de temperatura del actuador demasiado alto 
+P2787|Embrague temperatura demasiado alta 
+P2788|Cambio automático / manual de aprendizaje adaptativo al límite 
+P2789|Embrague de aprendizaje adaptativo a Límite 
+P2790|Circuito Puerta Dirección Seleccionar 
+P2791|Puerta Circuito Dirección Seleccionar baja 
+P2792|Puerta Circuito Seleccione Alta Dirección 
+P2793|engranajes Circuito de cambio de dirección 
+P2794|engranajes Circuito Dirección de descentrado / Bajo 
+P2795|engranajes Circuito Mayús Alta Dirección 
+P2A00|sensor de O2 Rango Circuito / rendimiento 
+P2A01|sensor de O2 Rango Circuito / rendimiento 
+P2A02|sensor de O2 Rango Circuito / rendimiento 
+P2A03|sensor de O2 Rango Circuito / rendimiento 
+P2A04|sensor de O2 Rango Circuito / rendimiento 
+P2A05|sensor de O2 Rango Circuito / rendimiento 
+P3400|Sistema de desactivación de cilindros 
+P3401|Cilindro 1 Desactivación / lntake Válvula de Control de Circuito Abierto 
+P3402|Cilindro 1 Desactivación / lntake válvula de control de rendimiento 
+P3403|Cilindro 1 Desactivación / lntake válvula de control del circuito / Bajo 
+P3404|Cilindro 1 Desactivación / lntake válvula de control del circuito / Alto 
+P3405|Cilindro de un circuito de escape de la válvula de control / Abierto 
+P3406|Cilindro de un escape de funcionamiento de la válvula de control 
+P3407|Cilindro de un circuito de escape de la válvula de control / Bajo 
+P3408|Cilindro de un circuito de escape de la válvula de control / Alto 
+P3409|Cilindro 2 Desactivación / lntake Válvula de Control de Circuito Abierto 
+P3410|Cilindro 2 Desactivación / lntake válvula de control de rendimiento 
+P3411|Cilindro 2 Desactivación / lntake válvula de control del circuito / Bajo 
+P3412|Cilindro 2 Desactivación / lntake válvula de control del circuito / Alto 
+P3413|Cilindro 2 de escape del circuito de la válvula de control / Abierto 
+P3414|Cilindro 2 de escape de funcionamiento de la válvula de control 
+P3415|Cilindro 2 de escape del circuito de la válvula de control / Bajo 
+P3416|Cilindro 2 de escape del circuito de la válvula de control / Alto 
+P3417|Cilindro 3 Desactivación / lntake Válvula de Control de Circuito Abierto 
+P3418|Cilindro 3 Desactivación / lntake válvula de control de rendimiento 
+P3419|Cilindro 3 Desactivación / lntake válvula de control del circuito / Bajo 
+P3420|Cilindro 3 Desactivación / lntake válvula de control del circuito / Alto 
+P3421|Cilindro 3 de escape del circuito de la válvula de control / Abierto 
+P3422|Cilindro 3 de escape de rendimiento de la válvula de control 
+P3423|Cilindro 3 de escape del circuito de la válvula de control / Bajo 
+P3424|Cilindro 3 de escape del circuito de la válvula de control / Alta 
+P3425|cilindro 4 Desactivación / lntake Válvula de Control de Circuito Abierto 
+P3426|cilindro 4 Desactivación / lntake válvula de control de rendimiento 
+P3427|cilindro 4 Desactivación / lntake válvula de control del circuito / Bajo 
+P3428|desactivación de cilindros 4 / lntake válvula de control del circuito / Alta 
+P3429|cilindro 4 de escape del circuito de la válvula de control / Abierto 
+P3430|cilindro 4 de escape de rendimiento de la válvula de control 
+P3431|cilindro 4 de escape del circuito de la válvula de control / Bajo 
+P3432|cilindro 4 de escape del circuito de la válvula de control / Alta 
+P3433|Cilindro 5 Desactivación / lntake Válvula de Control de Circuito Abierto 
+P3434|Cilindro 5 Desactivación / lntake válvula de control de rendimiento 
+P3435|Cilindro 5 Desactivación / lntake válvula de control del circuito / Bajo 
+P3436|Cilindro 5 Desactivación / lntake válvula de control del circuito / Alta 
+P3437|Cilindro 5 de escape del circuito de la válvula de control / Abierto 
+P3438|Cilindro 5 de escape de funcionamiento de la válvula de control 
+P3439|Cilindro 5 de escape del circuito de la válvula de control / Bajo 
+P3440|Cilindro 5 de escape del circuito de la válvula de control / Alta 
+P3441|Cilindro 6 Desactivación / lntake Válvula de Control de Circuito Abierto 
+P3442|Cilindro 6 Desactivación / lntake válvula de control de rendimiento 
+P3443|Cilindro 6 Desactivación / lntake válvula de control del circuito / Bajo 
+P3444|Cilindro 6 Desactivación / lntake válvula de control del circuito / Alta 
+P3445|Cilindro 6 de escape del circuito de la válvula de control / Abierto 
+P3446|Cilindro 6 de escape de rendimiento de la válvula de control 
+P3447|Cilindro 6 de escape del circuito de la válvula de control / Bajo 
+P3448|Cilindro 6 de escape del circuito de la válvula de control / Alta 
+P3449|cilindro 7 Desactivación / lntake Válvula de Control de Circuito Abierto 
+P3450|cilindro 7 Desactivación / lntake válvula de control de rendimiento 
+P3451|cilindro 7 Desactivación / lntake válvula de control del circuito / Bajo 
+P3452|cilindro 7 Desactivación / lntake válvula de control del circuito / Alta 
+P3453|cilindro 7 de escape del circuito de la válvula de control / Abierto 
+P3454|cilindro 7 de escape de funcionamiento de la válvula de control 
+P3455|cilindro 7 de escape del circuito de la válvula de control / Bajo 
+P3456|cilindro 7 de escape del circuito de la válvula de control / Alta 
+P3457|Cilindro 8 Desactivación / lntake Válvula de Control de Circuito Abierto 
+P3458|desactivación de cilindros 8 / lntake válvula de control de rendimiento 
+P3459|desactivación de cilindros 8 / lntake válvula de control del circuito / Bajo 
+P3460|Cilindro 8 Desactivación / lntake válvula de control del circuito / Alta 
+P3461|Cilindro 8 de escape del circuito de la válvula de control / Abierto 
+P3462|Cilindro 8 de escape de funcionamiento de la válvula de control 
+P3463|Cilindro 8 de escape del circuito de la válvula de control / Bajo 
+P3464|Cilindro 8 de escape del circuito de la válvula de control / Alta 
+P3465|Cilindro 9 Desactivación / lntake Válvula de Control de Circuito Abierto 
+P3466|Cilindro 9 Desactivación / lntake válvula de control de rendimiento 
+P3467|Cilindro 9 Desactivación / lntake válvula de control del circuito / Bajo 
+P3468|Cilindro 9 Desactivación / lntake válvula de control del circuito / Alta 
+P3469|Cilindro 9 de escape del circuito de la válvula de control / Abierto 
+P3470|Cilindro 9 de escape de funcionamiento de la válvula de control 
+P3471|Cilindro 9 de escape del circuito de la válvula de control / Bajo 
+P3472|Cilindro 9 de escape del circuito de la válvula de control / Alta 
+P3473|Cilindro 10 Desactivación / lntake Válvula de Control de Circuito Abierto 
+P3474|Cilindro 10 Desactivación / lntake válvula de control de rendimiento 
+P3475|Cilindro 10 Desactivación / lntake válvula de control del circuito / Bajo 
+P3476|Cilindro 10 Desactivación / lntake válvula de control del circuito / Alta 
+P3477|Cilindro 10 Circuito de escape de la válvula de control / Abierto 
+P3478|Cilindro 10 de escape de rendimiento de la válvula de control 
+P3479|Cilindro 10 Circuito de escape de la válvula de control / Bajo 
+P3480|Cilindro 10 Circuito de escape de la válvula de control / Alta 
+P3481|Cilindro 11 Desactivación / lntake Válvula de Control de Circuito Abierto 
+P3482|Cilindro 11 Desactivación / lntake válvula de control de rendimiento 
+P3483|Cilindro 11 Desactivación / lntake válvula de control del circuito / Bajo 
+P3484|Cilindro 11 Desactivación / lntake válvula de control del circuito / Alta 
+P3485|Cilindro 11 Circuito de escape de la válvula de control / Abierto 
+P3486|Cilindro 11 de escape de rendimiento de la válvula de control 
+P3487|Cilindro 11 Circuito de escape de la válvula de control / Bajo 
+P3488|Cilindro 11 Circuito de escape de la válvula de control / Alta 
+P3489|Cilindro 12 Desactivación / lntake Válvula de Control de Circuito Abierto 
+P3490|Cilindro 12 Desactivación / lntake válvula de control de rendimiento 
+P3491|Cilindro 12 Desactivación / lntake válvula de control del circuito / Bajo 
+P3492|Cilindro 12 Desactivación / lntake válvula de control del circuito / Alta 
+P3493|Cilindro 12 Circuito de escape de la válvula de control / Abierto 
+P3494|Cilindro 12 de escape de rendimiento de la válvula de control 
+P3495|Cilindro 12 Circuito de escape de la válvula de control /baja
+P3496|Cilindro 12 Circuito de escape de la válvula de control /alta 
+P3497|Sistema de desactivación de cilindros 
+B0001|PCM Velocidad de entrada discreta señal de error 
+B0004|PCM de entrada discreta de señales de velocidad no está presente 
+B0005|En Mal funcionamiento del interruptor de circuito del Parque 
+B0016|RF / Bucle de implementación de pasajeros frontales (de una sola etapa o etapa 1) / Bajo resistencia 
+B0017|RF / Bucle de implementación de pasajeros frontales (de una sola etapa o etapa 1) Abrir 
+B0018|RF / Bucle de implementación de pasajeros frontales (de una sola etapa o fase 1) Breve de salida de tensión de tierra / de intervalo 
+B0022|LF / controlador de bucle de implementación frontal (una sola etapa o etapa 1) / Bajo resistencia 
+B0024|LF / Bucle de despliegue del controlador frontal (una sola etapa o etapa 1) corta a la Zona de entrada / salida de voltaje de rango 
+B0026|LF / controlador de bucle de implementación frontal (una sola etapa o etapa 1) Abrir 
+B0028|RF / Passenger Side de implementación de resistencia del circuito / Bajo 
+B0029|RF / Passenger Side de bucle abierto de implementación 
+B0030|RF / Passenger Side de implementación a corto lazo a tierra de entrada / salida de voltaje de rango 
+B0035|ADS cerrado / cortocircuito a tierra 
+B0036|ADS Abrir / Desaparecidos / cortocircuito a la batería 
+B0037|AUX interruptor cerrado / cortocircuito a tierra 
+B0038|AUX interruptor abierto / cortocircuito a la batería 
+B0040|LF / lateral de despliegue del controlador resistencia del circuito / Bajo 
+B0041|LF / lateral de despliegue del controlador de lazo abierto 
+B0045|LF lado Implementar corto a tierra de entrada / salida de voltaje de rango bucle 
+B0051|Despliegue Ordenado 
+B0053|Despliegue Ordenado con lazo fallos de funcionamiento actual 
+B0057|RF / Pretensor pasajeros de implementación del lazo / Bajo resistencia 
+B0058|RF / Pretensor pasajeros de bucle abierto de implementación 
+B0059|RF / Pretensor pasajeros de implementación a corto lazo a tierra de entrada / salida de voltaje de rango 
+B0064|LF / Pretensor de despliegue del controlador resistencia del circuito / Bajo 
+B0065|LF / Pretensor implementación del controlador de bucle abierto 
+B0066|LF / Pretensor controlador de bucle de implementación de corto a tierra de entrada / salida de voltaje de rango 
+B0073|Implementación de consulta Bucle n º 1 / Bajo resistencia 
+B0074|Implementación de consulta Bucle n º Abierto 1 
+B0075|Implementación de consulta bucle # corto a tierra de entrada / salida de tensión de un rango 
+B0077|LF / controlador de mal funcionamiento del SIS 
+B0078|RF / pasajero mal funcionamiento del SIS 
+B0079|LF incorrecto / SIS controlador instalado 
+B0080|LF Descartar / Driver SIS 
+B0081|RF incorrecto / SIS de pasajeros instalados 
+B0082|Descartar RF / SIS de pasajeros 
+B0086|Implementación de consulta Bucle n º 2 / Bajo resistencia 
+B0087|Despliegue adicional de lazo abierto # 2 
+B0088|Implementación de consulta bucle # corto a tierra de entrada / salida de voltaje de rango 2 
+B0090|Active interruptor de voltaje fuera de rango 
+B0091|Activa el interruptor: estado incorrecto 
+B0092|pasajeros PPS detección de errores 
+B0093|PPS / CPS mal funcionamiento de autodiagnóstico 
+B0094|silla de bebe CPS detección de errores 
+B0095|SDM-PPS/CPS mal funcionamiento desajuste 
+B0126|descarga Derecha temperatura Falla 
+B0131|Derecho / Alta temperatura del calentador de fallos 
+B0159|Temperatura del aire exterior del circuito del sensor Rango / rendimiento 
+B0164|Sensor de temperatura del compartimiento de pasajeros # 1 (sensor individual o LH) Rango Circuito / rendimiento 
+B0169|En Temp-coche Fallo del sensor (pasajero no utilizados) 
+B0174|Aire de salida del sensor de temperatura # 1 (superior, individual o LH) Rango Circuito / rendimiento 
+B0179|Aire de salida del sensor de temperatura # 2 (Baja; individual o LH) Rango Circuito / rendimiento 
+B0184|carga solar del sensor # 1 Rango CKT 
+B0189|Sensor de carga solar # 2 Rango CKT 
+B0248|Modo de error puerta inoperante 
+B0249|Calefacción / Descongelamiento / Error de CA Rango de la puerta 
+B0268|A / puerta me inoperante error 
+B0269|Aire puerta de entrada de gama de error 
+B0408|Control de temperatura malfuncionamiento # 1 (Principal / Frente) Circuito 
+B0409|Aire puerta Mix # 1 Error Gama 
+B0419|Aire puerta Mix # 2 Error Gama 
+B0423|Aire puerta Mix # 2 Error que no funcionan 
+B0428|Aire puerta Mix # 3 Error inoperante 
+B0429|Control de Temperatura # 3 Rango circuito trasero / rendimiento 
+B0510|alta humedad relativa Grupo Fallo del sensor de temperatura 
+B0515|alta humedad relativa del calentador del sensor de temperatura fracaso 
+B0520|Temp posterior descarga Fallo del sensor 
+B0530|Sensor de nivel de combustible atascado 
+B0532|sensor de combustible en cortocircuito a tierra 
+B0533|sensor de combustible abierto / cortocircuito a B + 
+B0688|Seguridad Circuito Sistema de Indicadores / Alta 
+B0768|Servicio de Circuito Indicador / Alta 
+B0846|5 voltios de salida de referencia de rango 
+B0856|Batería 2 Fuera de alcance 
+U0001|Alta velocidad CAN-Bus de Comunicación 
+U0002|Alta velocidad CAN Bus de rendimiento de Comunicación 
+U0003|/ Alta velocidad de bus CAN Comunicación (+) abierto  
+U0004|/ Alta velocidad de comunicación CAN Bus (+) Bajo  
+U0005|/ Alta velocidad de comunicación CAN Bus (+) Alta  
+U0006|/ Alta velocidad de bus CAN de comunicaciones (-) abierto  
+U0007|/ Alta velocidad de comunicación CAN Bus (-) Baja  
+U0008|/ Alta velocidad de comunicación CAN Bus (-) Alto  
+U0009|alta velocidad de comunicación CAN Bus (-) corto de autobús (+) 
+U0010|Medio Velocidad CAN-Bus de Comunicación 
+U0011|Medio Velocidad CAN Bus de rendimiento de Comunicación 
+U0012|Medio Velocidad CAN-Bus de comunicaciones (+) abierto 
+U0013|Medio Velocidad CAN Bus de Comunicación (+) Bajo  
+U0014|Medio Velocidad CAN Bus de Comunicación (+) Alta  
+U0015|Medio Velocidad CAN Bus de Comunicación (-) abierto  
+U0016|Medio Velocidad CAN Bus de Comunicación (-) Baja 
+U0017|Medio Velocidad CAN Bus de Comunicación (-) Alto  
+U0018|velocidad media de Comunicación CAN bus (-) corto de autobús (+) 
+U0019|Baja Velocidad CAN-Bus de Comunicación 
+U0020|CAN / Bajo velocidad 
+U0021|Baja Velocidad CAN bus de comunicación (+) abierto 
+U0022|/ Bajo velocidad de bus CAN Comunicación (+) Bajo 
+U0023|/ Bajo velocidad de bus CAN Comunicación (+) Alta  
+U0024|Comunicación CAN / Bajo velocidad de bus (-) abierto
+U0025|Comunicación CAN / Bajo velocidad de bus (-) Baja
+U0026|Comunicación CAN / Bajo velocidad de bus (-) Alto
+U0027|Comunicación CAN / Bajo velocidad de bus (-) corto de autobús (+) 
+U0028|Comunicación con el vehículo bus A
+U0029|Vehículo Bus de Comunicación Un rendimiento 
+U0030|Vehículo Comunicación Bus A (+) abierto 
+U0031|Vehículo Bus Comunicación A (+) Baja 
+U0032|Vehículo Comunicación Bus A (+) Alta 
+U0033|Vehículo Bus Comunicación A (-) abierto 
+U0034|Vehículo Comunicación Bus A (-) Baja 
+U0035|Vehículo Comunicación Bus A (-) Alto 
+U0036|Vehículo Comunicación Bus A (-) corto de autobús A (+) 
+U0037|Vehículo Bus de Comunicación B 
+U0038|Vehículo bus de comunicación de rendimiento B 
+U0039|Comunicación del vehículo bus B (+) abierto
+U0040|Comunicación del vehículo bus B (+) Baja 
+U0041|Comunicación del vehículo bus B (+) Alta 
+U0042|Comunicación del vehículo bus B (-) abierto 
+U0043|Comunicación del vehículo bus B (-) Baja 
+U0044|Comunicación del vehículo bus B (-) Alto 
+U0045|Vehículo de comunicación de bus B (-) corto de autobús B (+) 
+U0046|Vehículo Comunicación Bus C 
+U0047|Vehículo bus de comunicación de rendimiento C 
+U0048|Comunicación de vehículos autobús C (+) abierto 
+U0049|Comunicación de vehículos autobús C (+) Baja 
+U0050|Comunicación de vehículos autobús C (+) Alta 
+U0051|Comunicación de vehículos autobús C (-) abierto 
+U0052|Comunicación de vehículos autobús C (-) Baja 
+U0053|Comunicación de vehículos autobús C (-) Alto 
+U0054|Vehículo Comunicación autobús C (-) corto de autobús C (+) 
+U0055|Vehículo bus de comunicación D 
+U0056|Vehículo Comunicación Bus D rendimiento 
+U0057|Vehículo bus de comunicación D (+) abierto 
+U0058|Vehículo bus de comunicación D (+) Baja 
+U0059|Vehículo bus de comunicación D (+) Alta 
+U0060|Vehículo Comunicación Bus D (-) abierto 
+U0061|Vehículo bus de comunicación D (-) Baja 
+U0062|Vehículo bus de comunicación D (-) Alto 
+U0063|Vehículo Comunicación Bus D (-) corto de autobús D (+) 
+U0064|Vehículo Bus de Comunicación E 
+U0065|Vehículo bus de comunicación de rendimiento E 
+U0066|Vehículo Comunicación Bus E (+) abierto 
+U0067|Comunicación Vehicle Bus E (+) Baja 
+U0068|Comunicación Vehicle Bus E (+) Alta 
+U0069|Comunicación Vehicle Bus E (-) abierto
+U0070|Comunicación Vehicle Bus E (-) Baja 
+U0071|Comunicación Vehicle Bus E (-) Alto 
+U0072|Vehículo Comunicación Bus E (-) corto de bus E (+) 
+U0073|Módulo de control de comunicación apagado 
+U0074|Reservados por el Documento 
+U0075|Reservados por el Documento 
+U0076|Reservados por el Documento 
+U0077|Reservados por el Documento 
+U0078|Reservados por el Documento 
+U0079|Reservados por el Documento 
+U0080|Reservados por el Documento 
+U0081|Reservados por el Documento 
+U0082|Reservados por el Documento 
+U0083|Reservados por el Documento 
+U0084|Reservados por el Documento 
+U0085|Reservados por el Documento 
+U0086|Reservados por el Documento 
+U0087|Reservados por el Documento 
+U0088|Reservados por el Documento 
+U0089|Reservados por el Documento 
+U0090|Reservados por el Documento 
+U0091|Reservados por el Documento 
+U0092|Reservados por el Documento 
+U0093|Reservados por el Documento 
+U0094|Reservados por el Documento 
+U0095|Reservados por el Documento 
+U0096|Reservados por el Documento 
+U0097|Reservados por el Documento 
+U0098|Reservados por el Documento 
+U0099|Reservados por el Documento 
+U0100|perdida la comunicación con ECM / PCM "A" 
+U0101|perdida la comunicación con medicina tradicional china 
+U0102|perdida la comunicación con la Caja de Transferencia del módulo de control 
+U0103|Perdida la comunicación con el módulo de cambio de marcha 
+U0104|perdida la comunicación con módulo de control de crucero 
+U0105|perdida la comunicación con el módulo de control del inyector de combustible 
+U0106|perdida la comunicación con el módulo de Control de bujía incandescente 
+U0107|Perdida la comunicación con el módulo de control del actuador del acelerador 
+U0108|perdida la comunicación con el módulo de Control de Combustible Alternativo 
+U0109|perdida la comunicación con el módulo de control de la bomba de combustible 
+U0110|perdida la comunicación con módulo de control de la transmisión del motor 
+U0111|Perdido la comunicación con "A" de energía de la batería Módulo de Control 
+U0112|Perdida la comunicación con la energía de la batería Módulo de Control "B"
+U0113|perdida la comunicación con las emisiones de Información de Control Crítico 
+U0114|perdida la comunicación con el módulo de cuatro ruedas unidad de control del embrague 
+U0115|perdida la comunicación con ECM / PCM "B" 
+U0116|Reservados por el Documento 
+U0117|Reservados por el Documento 
+U0118|Reservados por el Documento 
+U0119|Reservados por el Documento 
+U0120|Reservados por el Documento 
+U0121|Perdida la comunicación con Sistema de Frenos Antibloqueo (ABS) Módulo de Control
+U0122|perdida la comunicación con la dinámica del vehículo del módulo de control 
+U0123|perdida la comunicación con la tarifa del desvío del sensor del módulo 
+U0124|perdida la comunicación con el módulo sensor de aceleración lateral 
+U0125|perdida la comunicación con multi-ejes del módulo sensor de aceleración 
+U0126|perdida la comunicación con el módulo sensor de ángulo de la dirección 
+U0127|perdida la comunicación con el Monitor de Presión de Neumáticos Módulo 
+U0128|Perdida la comunicación con el módulo de control del Parque de freno 
+U0129|Perdida la comunicación con el módulo de control del sistema de frenos 
+U0130|perdida la comunicación con el módulo de control del esfuerzo de dirección 
+U0131|Perdida la comunicación con el módulo de Control de Dirección Asistida 
+U0132|perdida la comunicación con módulo de control de conducción de nivel 
+U0133|Reservados por el Documento 
+U0134|Reservados por el Documento 
+U0135|Reservados por el Documento 
+U0136|Reservados por el Documento 
+U0137|Reservados por el Documento 
+U0138|Reservados por el Documento 
+U0139|Reservados por el Documento 
+U0140|perdida la comunicación con el módulo de control del cuerpo 
+U0141|Perdida la comunicación con "A" del módulo de control del cuerpo 
+U0142|Perdida la comunicación con el cuerpo de control del módulo "B"  
+U0143|Perdida la comunicación con el cuerpo de control del módulo "C" 
+U0144|perdida la comunicación con el módulo de control del cuerpo "D" 
+U0145|perdida la comunicación con el cuerpo de control del módulo "E" 
+U0146|perdida la comunicación con puerta de enlace "A" 
+U0147|Perdido la comunicación con puerta de enlace "B"  
+U0148|Perdido la comunicación con puerta de enlace "C" 
+U0149|perdida la Comunicación con puerta de enlace "D" 
+U0150|perdida la comunicación con puerta de enlace "E" 
+U0151|perdida la comunicación con las restricciones del módulo de control 
+U0152|perdida la comunicación con las restricciones al otro módulo de control 
+U0153|perdida la comunicación con las restricciones al otro módulo de control 
+U0154|perdida la comunicación con los ocupantes a las restricciones de detección Módulo de Control 
+U0155|perdida la comunicación con Instrumentos del Grupo Especial (IPC) del módulo de control 
+U0156|perdida la comunicación con el Centro de Información "A" 
+U0157|Perdida la comunicación con el Centro de Información "B" 
+U0158|Perdido la comunicación con Head Up Display 
+U0159|perdida la comunicación con el módulo de control de asistencia para estacionarse 
+U0160|perdida la comunicación con el módulo de control de alerta audible 
+U0161|perdida la Comunicación Con el Módulo brújula   
+U0162|Perdida la comunicación con el módulo de navegación de pantalla  
+U0163|Perdida la comunicación con el módulo de control de navegación 
+U0164|perdida la comunicación con el módulo de control de HVAC 
+U0165|perdida la comunicación con el módulo de control de HVAC 
+U0166|perdida la comunicación con el módulo auxiliar de control del calentador 
+U0167|Perdida la comunicación con el módulo de control del vehículo Inmovilizador 
+U0168|Perdida la comunicación con el módulo de control de seguridad del vehículo 
+U0169|Perdida la comunicación con el módulo de control de Techo solar 
+U0170|perdida la comunicación con "las restricciones del sistema del sensor A" 
+U0171|perdida la comunicación con "sistemas de restricción del sensor B" 
+U0172|perdida la comunicación con "sistemas de restricción del sensor C" 
+U0173|perdida la comunicación con "sistemas de restricción del sensor D" 
+U0174|perdida la comunicación con "E restricciones del sensor del sistema" 
+U0175|perdida la comunicación con "Sistema de Sensor de restricciones F" 
+U0176|perdida la comunicación con "sistemas de restricción del sensor G" 
+U0177|perdida la comunicación con "sistemas de restricción del sensor H" 
+U0178|perdida la comunicación con "sistemas de restricción del sensor yo" 
+U0179|perdida la comunicación con "sistemas de restricción del sensor J" 
+U0180|perdida la comunicación con el módulo de control automático de iluminación 
+U0181|Perdida la comunicación con el módulo de control para nivelar los faros  
+U0182|Perdida la comunicación con el módulo de control de iluminación  
+U0183|Perdida la comunicación con el módulo de control de iluminación  
+U0184|perdida la comunicación con radio 
+U0185|perdida la comunicación con el Control Módulo de antena 
+U0186|perdida la comunicación con amplificador de audio 
+U0187|Comunicación perdida con reproductor de discos digitales / cambiador de módulo "A" 
+U0188|Comunicación perdida con reproductor de discos digitales / cambiador de módulo "B" 
+U0189|perdida la comunicación con reproductor de discos digitales / cambiador de módulo "C" 
+U0190|perdida la comunicación con reproductor de discos digitales / Módulo cambiador de "D" 
+U0191|Perdida la comunicación con Televisión 
+U0192|Perdida la comunicación con un ordenador personal 
+U0193|perdida la comunicación con "Control de audio digital Módulo A" 
+U0194|perdida la comunicación con "Digital Audio B Módulo de Control" 
+U0195|perdida la comunicación con el módulo receptor de suscripción Entretenimiento 
+U0196|perdida la comunicación con el Control de entretenimiento trasero del asiento del módulo 
+U0197|Perdida la comunicación con el módulo de Control Teléfono  
+U0198|Perdida la comunicación con el módulo de control telemático 
+U0199|perdida la comunicación con "control de la puerta del módulo A" 
+U0200|perdida la comunicación con "B puerta del módulo de control" 
+U0201|Perdida la comunicación con "C puerta del módulo de control"  
+U0202|Perdida la comunicación con el "módulo de control de la puerta D"  
+U0203|perdida la comunicación con "E módulo de control de la puerta" 
+U0204|perdida la comunicación con "módulo de control de la puerta F" 
+U0205|Perdida la comunicación con "G puerta del módulo de control"  
+U0206|perdida la comunicación con el módulo de control superior plegable 
+U0207|Perdida la comunicación con el módulo móvil de control de Techo  
+U0208|perdida la comunicación con "Control del asiento Módulo A" 
+U0209|perdida la comunicación con "B Módulo de control de asiento" 
+U0210|perdida la comunicación con "C Módulo de control de asiento" 
+U0211|Perdida la comunicación con el "módulo de control del asiento D"  
+U0212|Perdida la comunicación con la columna de dirección del módulo de Control  
+U0213|Perdida la comunicación con el módulo de control del espejo
+U0214|perdida la comunicación con la función de accionamiento a distancia 
+U0215|perdida la comunicación con "interruptor de puerta A" 
+U0216|perdida la comunicación con "B Interruptor de la puerta" 
+U0217|Perdida la comunicación con "C Interruptor de la puerta"  
+U0218|Perdida la comunicación con "Cambiar la puerta D"  
+U0219|Perdida la comunicación con "E Interruptor de puerta"  
+U0220|perdida la comunicación con "interruptor de la puerta F" 
+U0221|Perdida la comunicación con "G Cambie la puerta"  
+U0222|Perdida la comunicación con "motor de la ventana puerta A"  
+U0223|perdida la comunicación con "B Puerta motor de la ventana" 
+U0224|perdida la comunicación con "C Puerta motor de la ventana" 
+U0225|perdida la comunicación con "motor de la ventana puerta D" 
+U0226|perdida la comunicación con "E Puerta motor de la ventana" 
+U0227|Perdida la comunicación con "motor de la ventana puerta F" 
+U0228|Perdida la comunicación con "motor de la ventana la puerta G"  
+U0229|Perdida la comunicación con el módulo con calefacción Volante  
+U0230|perdida la comunicación con módulo de puerta trasera 
+U0231|perdida la comunicación con el módulo sensor de lluvia 
+U0232|perdida la comunicación con el módulo de control de detección de obstáculos laterales 
+U0233|Perdida la comunicación con el módulo de control de detección de obstáculos laterales  
+U0234|perdida la comunicación con Recordemos conveniencia Módulo 
+U0235|perdida la comunicación con el Control de Crucero frontal del sensor Rango de Distancia 
+U0300|Módulo de Control Interno Incompatibilidad de Software 
+U0301|Software Incompatibilidad con ECM / PCM 
+U0302|Software Incompatibilidad con módulo de control de transmisión 
+U0303|Software Incompatibilidad con la Caja de Transferencia del módulo de control 
+U0304|Software Incompatibilidad con cambio de marcha del módulo de control 
+U0305|Software Incompatibilidad con el control de crucero Módulo 
+U0306|Software Incompatibilidad con módulo de control del inyector de combustible 
+U0307|Software Incompatibilidad con bujía incandescente con módulo de control 
+U0308|Software Incompatibilidad con actuador del acelerador módulo de control 
+U0309|Software Incompatibilidad con combustible alternativo Módulo de Control 
+U0310|Software Incompatibilidad con la bomba de combustible del módulo de control 
+U0311|Software Incompatibilidad con la impulsión del motor del módulo de control 
+U0312|Software Incompatibilidad con la batería de Control de Energía Módulo A 
+U0313|Software Incompatibilidad con la batería de Control de Energía del módulo B 
+U0314|Software Incompatibilidad con cuatro ruedas de Embrague módulo de control 
+U0315|Software Incompatibilidad con Anti-Lock Brake System Módulo de Control 
+U0316|Software Incompatibilidad con la dinámica del vehículo del módulo de control 
+U0317|Software Incompatibilidad con el Parque de freno del módulo de control 
+U0318|Software Incompatibilidad con sistema de frenos del módulo de control 
+U0319|Software Incompatibilidad con el esfuerzo de dirección del módulo de control 
+U0320|Software Incompatibilidad con la dirección hidráulica del módulo de control 
+U0321|Software Incompatibilidad con Paseo de nivel del módulo de control 
+U0322|Software Incompatibilidad con el cuerpo del módulo de control 
+U0323|Software Incompatibilidad con tablero de instrumentos del módulo de control 
+U0324|Software Incompatibilidad con módulo de control de HVAC 
+U0325|Software Incompatibilidad con calentador auxiliar del módulo de control 
+U0326|Software Incompatibilidad con inmovilizador del vehículo del módulo de control 
+U0327|Software Incompatibilidad con el Módulo de Control de Seguridad del Vehículo 
+U0328|Software Incompatibilidad con ángulo de la dirección del sensor del módulo 
+U0329|Software Incompatibilidad con columna de dirección del módulo de control 
+U0330|Software Incompatibilidad con la presión de neumático Módulo Monitor 
+U0331|Software Incompatibilidad con el Órgano de Control del módulo "A" 
+U0400|datos inválidos Recibido 
+U0401|Datos no válidos recibidos de ECM / PCM 
+U0402|Datos no válidos recibidos de módulo de control de transmisión 
+U0403|Datos no válidos recibidos de Módulo de Control de la Caja de Transferencia 
+U0404|Datos no válidos recibidos de Módulo de Control de cambio de marcha 
+U0405|Datos no válidos recibidos de Módulo de Control de Crucero 
+U0406|Datos no válidos recibidos de módulo de control del inyector de combustible 
+U0407|Datos no válidos recibidos de Módulo de Control de bujía incandescente 
+U0408|Datos no válidos recibidos de módulo de control del actuador del acelerador 
+U0409|Datos no válidos recibidos de Módulo de Control de Combustible Alternativo 
+U0410|Datos no válidos recibidos de Módulo de Control de la bomba de combustible 
+U0411|Datos no válidos recibidos de módulo de control de la transmisión del motor 
+U0412|Datos no válidos recibidos de Control de Energía de la batería Módulo A 
+U0413|Datos no válidos recibidos de Módulo de Control de Energía de la batería B 
+U0414|Datos no válidos recibidos de módulo de cuatro ruedas unidad de control del embrague 
+U0415|Datos no válidos recibidos de módulo de control de frenos anti-bloqueo del sistema 
+U0416|Datos no válidos recibidos de la dinámica del vehículo del módulo de control 
+U0417|Datos no válidos recibidos de Módulo de Control del Freno 
+U0418|Datos no válidos recibidos de módulo de control del sistema de frenos 
+U0419|Datos no válidos recibidos de dirección del módulo de control del esfuerzo 
+U0420|Datos no válidos recibidos de módulo de control de la dirección hidráulica 
+U0421|Datos no válidos recibidos de módulo de control de conducción de nivel 
+U0422|Datos no válidos recibidos de módulo de control del cuerpo 
+U0423|Datos no válidos recibidos de módulo de control del tablero de instrumentos 
+U0424|Datos no válidos recibidos de módulo de control de HVAC 
+U0425|Datos no válidos recibidos de módulo de auxiliar de control del calentador 
+U0426|Datos no válidos recibidos de Módulo de Control de Vehículos Inmovilizador 
+U0427|Datos no válidos recibidos de Módulo de Control de Seguridad del Vehículo 
+U0428|Datos no válidos recibidos de ángulo de dirección del módulo del sensor 
+U0429|Datos no válidos recibidos de la columna de dirección del módulo de control 
+U0430|Datos no válidos recibidos de Módulo Monitor de Presión de Neumáticos  
+U0431|Datos no válidos recibidos de módulo de control del cuerpo "A"

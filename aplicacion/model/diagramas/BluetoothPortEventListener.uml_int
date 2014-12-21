@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='UTF-8' standalone='yes'?>
+<xmi:XMI xmi:version='2.1' xmlns:xmi='http://schema.omg.org/spec/XMI/2.1' xmlns:uml='http://schema.omg.org/spec/UML/2.1.1/uml.xml'>
+ <documentation exporter='Oracle JDeveloper' exporterVersion='11.1.1.2.0'/>
+ <uml:Interface xmi:uuid='urn:uuid:abe2ec44-da44-4f49-b604-59f5cf2eafb9'
+   isAbstract='true'
+   isLeaf='false'
+   name='BluetoothPortEventListener'
+   visibility='public'>
+  <ownedComment xmi:uuid='urn:uuid:a1e99bc7-2b5f-4713-921f-2d74fa1d5bfe'
+    body='&#xa;Interface que debe implementar un objeto que maneja una conexion bluetooth&#xa;'/>
+  <ownedOperation xmi:uuid='urn:uuid:03279bdd-7fdd-4751-af52-2c621d668355'
+    isAbstract='true'
+    isLeaf='false'
+    isQuery='false'
+    isStatic='false'
+    name='bluetoothEvent'
+    concurrency='sequential'
+    visibility='public'>
+   <ownedParameter xmi:uuid='urn:uuid:1683acf8-ddbe-4156-8ca4-73fe9ea26f86'
+     isException='false'
+     isOrdered='false'
+     isStream='false'
+     isUnique='true'
+     name='e'
+     direction='in'>
+    <type href='mof:/conexion:uml:NamedElement/BluetoothPortEvent:uml:Type'/>
+    <lowerValue xmi:type='uml:LiteralInteger' xmi:uuid='urn:uuid:e3b47699-442f-4055-9b4f-8129f1b0b85b'
+      value='1'
+      visibility='public'/>
+    <upperValue xmi:type='uml:LiteralUnlimitedNatural' xmi:uuid='urn:uuid:9079ea51-2c5b-4faf-a514-4d669a6b2029'
+      value='1'
+      visibility='public'/>
+   </ownedParameter>
+   <ownedParameter xmi:uuid='urn:uuid:b62a4a71-6fc6-4b0a-a8a2-241ee1ea5a6a'
+     isException='false'
+     isOrdered='false'
+     isStream='false'
+     isUnique='true'
+     name=''
+     direction='return'>
+    <type href='mof:/void:uml:Type'/>
+    <lowerValue xmi:type='uml:LiteralInteger' xmi:uuid='urn:uuid:f9320953-9108-46e6-baf1-59ff2be4f0c0'
+      value='1'
+      visibility='public'/>
+    <upperValue xmi:type='uml:LiteralUnlimitedNatural' xmi:uuid='urn:uuid:d05238b4-5ae0-4f69-b0ce-7acf09da2abc'
+      value='1'
+      visibility='public'/>
+   </ownedParameter>
+  </ownedOperation>
+ </uml:Interface>
+</xmi:XMI>

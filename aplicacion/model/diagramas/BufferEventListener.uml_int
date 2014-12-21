@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='UTF-8' standalone='yes'?>
+<xmi:XMI xmi:version='2.1' xmlns:xmi='http://schema.omg.org/spec/XMI/2.1' xmlns:uml='http://schema.omg.org/spec/UML/2.1.1/uml.xml'>
+ <documentation exporter='Oracle JDeveloper' exporterVersion='11.1.1.2.0'/>
+ <uml:Interface xmi:uuid='urn:uuid:7d6f8083-a038-47c1-abba-dc3898c9f02e'
+   isAbstract='true'
+   isLeaf='false'
+   name='BufferEventListener'
+   visibility='public'>
+  <ownedComment xmi:uuid='urn:uuid:20f01d93-71f6-4bbd-8fed-5191b99e2834'
+    body='&#xa;Interfaz que debe implementar un objeto que desee capturar eventos del bufferConexión&#xa;'/>
+  <ownedOperation xmi:uuid='urn:uuid:e3ea0c79-a59c-41b3-a8a4-9f066323310e'
+    isAbstract='true'
+    isLeaf='false'
+    isQuery='false'
+    isStatic='false'
+    name='bufferEntradaEscrito'
+    concurrency='sequential'
+    visibility='public'>
+   <ownedParameter xmi:uuid='urn:uuid:a6bbc5e2-961e-4929-9b71-052a40d07557'
+     isException='false'
+     isOrdered='false'
+     isStream='false'
+     isUnique='true'
+     name='e'
+     direction='in'>
+    <type href='urn:uuid:b06cf579-7fa5-45fa-8283-7fccb18fd8ad'/>
+    <lowerValue xmi:type='uml:LiteralInteger' xmi:uuid='urn:uuid:976fd6c7-b6ed-409e-866d-ae184957bab9'
+      value='1'
+      visibility='public'/>
+    <upperValue xmi:type='uml:LiteralUnlimitedNatural' xmi:uuid='urn:uuid:a21bfb59-c748-4db0-a21e-f2bdc2c9ed18'
+      value='1'
+      visibility='public'/>
+   </ownedParameter>
+   <ownedParameter xmi:uuid='urn:uuid:edf8a88c-675e-4fa9-bba2-ae9b59ac1a2c'
+     isException='false'
+     isOrdered='false'
+     isStream='false'
+     isUnique='true'
+     name=''
+     direction='return'>
+    <type href='mof:/void:uml:Type'/>
+    <lowerValue xmi:type='uml:LiteralInteger' xmi:uuid='urn:uuid:2a863a4e-540f-4425-806a-4cf84b533b87'
+      value='1'
+      visibility='public'/>
+    <upperValue xmi:type='uml:LiteralUnlimitedNatural' xmi:uuid='urn:uuid:44211433-3533-47f0-8ed1-8d19493ee0f8'
+      value='1'
+      visibility='public'/>
+   </ownedParameter>
+  </ownedOperation>
+ </uml:Interface>
+</xmi:XMI>

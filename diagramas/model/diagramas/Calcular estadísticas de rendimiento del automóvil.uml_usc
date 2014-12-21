@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8' standalone='yes'?>
+<xmi:XMI xmi:version='2.1' xmlns:xmi='http://schema.omg.org/spec/XMI/2.1' xmlns:uml='http://schema.omg.org/spec/UML/2.1.1/uml.xml'>
+ <documentation exporter='Oracle JDeveloper' exporterVersion='11.1.1.2.0'/>
+ <uml:UseCase xmi:uuid='urn:uuid:c0f5a86a-f4b4-4e57-9c3a-8a744f6faec8'
+   isAbstract='false'
+   isLeaf='false'
+   name='Calcular estadísticas de rendimiento del automóvil'
+   visibility='public'>
+  <subject href='urn:uuid:dd96d075-8948-4ab0-bff6-964bf01390f4'/>
+  <extensionPoint xmi:uuid='urn:uuid:559eeea4-0e8a-4521-b67d-a6bb5b5bfacc'
+    isLeaf='false'
+    name='DefaultExtensionPoint'/>
+  <include xmi:uuid='urn:uuid:2bff7b04-ef5a-4135-b0e4-bad38a7f66f7'>
+   <addition href='urn:uuid:ec291e6b-7c4b-4610-ad5b-c8ba21eb88b0'/>
+  </include>
+ </uml:UseCase>
+</xmi:XMI>

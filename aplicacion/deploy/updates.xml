@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<updateDescriptor baseUrl="">
+  <entry targetMediaFileId="92" updatableVersionMin="" updatableVersionMax="" fileName="DiagOBDII_windows_1_0.exe" newVersion="1.0" newMediaFileId="92" fileSize="60044288" bundledJre="windows-x86-1.6.0_23" archive="false">
+    <comment />
+  </entry>
+</updateDescriptor>
+

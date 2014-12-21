@@ -1,0 +1,125 @@
+<categoria>Introdución</categoria>
+<item>Información General</item>
+<contenido>
+<html>
+<body>
+<h1>Sobre el Escáner OBD-II</h1>
+<p><tt>Este software, en junto con la Interfaz Electrónica son parte del resultado 
+del Proyecto de Título efectuado por los Autores, la finalidad es presentar 
+ante la comunidad de mecánicos, una herramienta económica y que esté al nivel de 
+cualquier herramienta comercial.</tt></p>
+</body>
+</contenido>
+<item>Conexión</item>
+<contenido>
+<html>
+<body>
+<h1>Conexión!</h1>
+<p><tt> 
+Para conectarce debe usar el asistente de conexión, en este punto el software permite dos medios de conexión: <br>
+Bluetooth:<br>
+    Permite usar el Bluetooth de su equipo para establecer conexión con la Interfaz 
+    Electrónica, debe verificar que el Módulo Bluetooth de la Interfaz Electrónica esté encendido.<br>
+Serial: <br>
+    Permite usar el Puerto serial RS 232 para establecer conexión con la Interfaz Electrónica, verifique que el cable
+    del Puerto serial está conectado a la Interfaz Electrónica.
+</tt></p>
+</body>
+</contenido>
+
+<categoria>Diagnosticar</categoria>
+<item>Fallas Presentes</item>
+<contenido>
+<html>
+<body>
+<h1> Fallas presentes (servicios $03, $07)</h1>
+<p><tt> Obtiene el código de fallas, que el vehículo presenta hasta el momento de ser escaneado.<br>
+Al hacer doble click con el mouse sobre algún código de falla, se presenta una descripción más detalla e indica una 
+página web donde puede encontrar más detalles del código de error y posibles soluciones. <br></tt></p>
+</body>
+</contenido>
+<item>Sensores al momento de la Falla</item>
+<contenido>
+<html>
+<body>
+ <h1> Valor de los Sensores al momento de producirse la falla (Servicio $02)</h1>
+ <tt><p>
+ Este Servicio obtiene los valores que tenían los sensores al momento de producirce la primera falla en el vehículo y
+ permanecerán hasta que se limpien los códigos de error
+ </tt></p>
+</body>
+</contenido>
+
+<item>Medir Sensores</item>
+<contenido>
+<html>
+<body>
+<h1> Medir todos los sensores (Servicio $01) </h1>
+ <tt><p>
+ Este Servicio permite obtener en tiempo real los valores de los sensores, que estén disponibles para ser escaneados.
+ </tt></p>
+</body>
+</contenido>
+
+<categoria>Monitorear</categoria>
+<item>Información del Vehículo</item>
+<contenido>
+<html>
+<body>
+<h1>Obtener Información del vehículo</h1>
+ <tt><p>
+ Este servicio permite obtener el número de serie del vehículo, siempre y cuando esté soportado por el computador
+ del automóvil.
+ </tt></p>
+</body>
+</contenido>
+
+<item>Estado ECU</item>
+<contenido>
+<html>
+<body>
+<h1>Estado de la ECU</h1>
+ <tt><p>
+ Este Servicio permite obtener el número de Códigos de error que están presentes en el automóvil, el estado de la luz (MIL)
+ y la disponibilidad de servicios que pueden ser monitoreado por el servicio $06, servicio no implementado en esta versión 
+ del software.
+ </tt></p>
+</body>
+</contenido>
+
+<item>Mostrar Tablero</item>
+<contenido>
+<html>
+<body>
+<h1>Tablero</h1>
+ <tt><p>
+ Muestra de forma gráfica la velocidad del automóvil, las RPM y realiza un cálculo estadístico del consumo de conbustible 
+ por kilómetros recorridos.
+ </tt></p>
+</body>
+</contenido>
+
+<item>Estadísticas</item>
+<contenido>
+<html>
+<body>
+<h1> Estadística del RPM </h1>
+ <tt><p>
+ Muestra el comportamiento de las RMP a través del tiempo.
+ </tt></p>
+</body>
+</contenido>
+
+<categoria> Utilidades </categoria>
+<item>Consola</item>
+<contenido>
+<html>
+<body>
+<h1> Consola, para usuarios avanzados</h1>
+ <tt><p>
+ Esta funcionalidad, permite enviar comandos OBD-II al automóvil directamente, de acuerdo al estándar SAE J1979 y SAE J2012
+ para consultar por algún servicio.<br>
+ Por ejemplo: Para consultar por las RPM seberá enviar en el comando 010c, para la temperatura 010d, ect.
+ </tt></p>
+</body>
+</contenido>
